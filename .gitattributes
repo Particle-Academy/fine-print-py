@@ -1,0 +1,10 @@
+# Line endings are pinned, not left to a clone's core.autocrlf: the writer is
+# compared byte for byte with the PHP reference, and a source file checked out
+# with CRLF changes the bytes of any multi-line literal in it.
+* text=auto eol=lf
+
+*.pdf binary
+*.png binary
+*.jpg binary
+*.ttf binary
+*.gz  binary

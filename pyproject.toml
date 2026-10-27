@@ -1,0 +1,47 @@
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fancy-fine-print"
+version = "0.0.0"
+description = "Zero-dependency PDF writer, reader and renderer for agentic docs: the Python port of PHP particle-academy/fine-print (parity target 0.5.0), held to the shared fine-print/* conformance rows."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+authors = [{ name = "Particle Academy" }]
+keywords = ["pdf", "pdf-writer", "pdf-parser", "pdf-renderer", "agent", "prompt-injection", "fancy", "human-plus"]
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Typing :: Typed",
+]
+
+# NO runtime dependencies, deliberately and permanently: the standard library
+# has zlib, hashlib, struct and memoryview, and everything else (AES, RC4, the
+# PDF text encodings, the rasteriser) is ours. Anything third-party is an
+# approval request to the owner, never a line here.
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.urls]
+Homepage = "https://github.com/Particle-Academy/fine-print-py"
+Repository = "https://github.com/Particle-Academy/fine-print-py"
+Issues = "https://github.com/Particle-Academy/fine-print-py/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/fine_print"]
+
+[tool.pytest.ini_options]
+# `pythonpath` rather than an editable install: the suite runs on a bare
+# checkout with nothing but pytest, as `npm test` does for the Node port.
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-ra"
