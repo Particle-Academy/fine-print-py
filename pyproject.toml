@@ -4,15 +4,15 @@ build-backend = "hatchling.build"
 
 [project]
 name = "fancy-fine-print"
-version = "0.0.0"
-description = "Zero-dependency PDF writer, reader and renderer for agentic docs: the Python port of PHP particle-academy/fine-print (parity target 0.5.0), held to the shared fine-print/* conformance rows."
+version = "0.1.0"
+description = "Zero-dependency PDF reader for agentic docs: text in reading order, per-word boxes, and an agent-read guard against prompt injection. The Python port of PHP particle-academy/fine-print's reader (parity with 0.7.0, tested against PHP itself). Reader only; the writer and renderer follow."
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.11"
 authors = [{ name = "Particle Academy" }]
 keywords = ["pdf", "pdf-writer", "pdf-parser", "pdf-renderer", "agent", "prompt-injection", "fancy", "human-plus"]
 classifiers = [
-    "Development Status :: 1 - Planning",
+    "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",

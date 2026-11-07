@@ -1,0 +1,5147 @@
+{
+    "00a10962ec1c1a64": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "2cde3259739504f5fb2f69171f535f42e7c2d8dc3abeb4eda4caeecd227d3cbb",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "01c5b14f358605e7": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "e2a2bd60ab75aa6650de233a5ba33e7783a4b48cb355be70136b837b741dda52",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "01fb8127c9ed5a05": {
+        "origin": "DocumentTest.php:96",
+        "bytes": 1165,
+        "sha256": "16a21627f9f899d01c6f7bf8abdf5da13860d58ba055075694a8a5aa2daecefc",
+        "limits": {}
+    },
+    "0269347ff4b465b1": {
+        "origin": "JpegRenderTest.php:97",
+        "bytes": 1114,
+        "sha256": "0bbae3023af3c54ef1db55a72905257e048bafd41671f17ca0a44c88452ae123",
+        "limits": {}
+    },
+    "030d8c7fc1b7a337": {
+        "origin": "ActiveContentTest.php:37",
+        "bytes": 627,
+        "sha256": "b565d6fd6ad85422b20ed8b400069bbe9a403f12ee209fdffb053211bfb94289",
+        "limits": {}
+    },
+    "032efca317ca43c8": {
+        "origin": "HostileInputTest.php:88",
+        "bytes": 614,
+        "sha256": "4c2c91238000d6b486f205ad8655e0e255da97ce448e0cd3d4e111db92b7b08a",
+        "limits": {
+            "maxFileBytes": 100
+        }
+    },
+    "034ef62c1f60c038": {
+        "origin": "Pest.php:85",
+        "bytes": 3206,
+        "sha256": "c0a01d28dd26dabef35eebf6d7e30ff70b053257d9899559bfda4cb0be578fdf",
+        "limits": {}
+    },
+    "036bfc3bdb94f3b2": {
+        "origin": "InlineImageRenderTest.php:41",
+        "bytes": 636,
+        "sha256": "a5c45f78ec7b6a98da1fcbe29e4707859a32ca9a6bee316365d1458faf9e3dae",
+        "limits": {}
+    },
+    "03e3cd1bc6016d71": {
+        "origin": "Export.php:145",
+        "bytes": 1974,
+        "sha256": "cc4e34202e5a086a1a6142575d6bb30cb11562c32257d87fe00816f42be98de1",
+        "limits": {}
+    },
+    "0404a321810a9122": {
+        "origin": "RendererTest.php:19",
+        "bytes": 828,
+        "sha256": "1b8848f5e3ece30a721252a886668cac8e9f2c208e002958a3f59b6de1c28a9d",
+        "limits": {}
+    },
+    "040beb8d3fa2ad91": {
+        "origin": "ClipAlphaTest.php:29",
+        "bytes": 641,
+        "sha256": "e9421f5186640410ecdf041c7be80976f4dd9fbb8b0abc0b972a8bd2a8f3eb82",
+        "limits": {}
+    },
+    "0411541a2c49822e": {
+        "origin": "HostileInputTest.php:133",
+        "bytes": 3000590,
+        "sha256": "d4f2cb1c2fee1f570aa1259b0d217d14d013190a3e193fda203f3ee95c3e7d0f",
+        "limits": {
+            "timeSeconds": 0.05
+        }
+    },
+    "05a49f4d508ec50e": {
+        "origin": "TextExtractionTest.php:85",
+        "bytes": 1054,
+        "sha256": "269acec59adafb002beee71a53a55a296488927b033a00e92e46e6b8f55e819a",
+        "limits": {}
+    },
+    "05fae1b0233c650a": {
+        "origin": "ImageRenderTest.php:31",
+        "bytes": 793,
+        "sha256": "4c58596706401cb5ba5e3aca574643590eaf7a3c22d14fdcebf8204191f29654",
+        "limits": {}
+    },
+    "078de286436dca1e": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1604,
+        "sha256": "570883691e4c173d3bd481b6a4ca9f29fcfc0c232040e4b1e86653b81eed10d8",
+        "limits": {}
+    },
+    "080c47808da4872f": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1426,
+        "sha256": "f574a3b8a156b86c5bab854a0c787fe0eb1016a8dfd47fdc388844c79129f629",
+        "limits": {}
+    },
+    "081a5e4170410c93": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9974974,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "0822b1d4fd7d8ba8": {
+        "origin": "WordsTest.php:203",
+        "bytes": 2420,
+        "sha256": "adca3771898d757b88be11e75a873bcf4f2fa5ab80f1445f0ee13eb9a12983fd",
+        "limits": {}
+    },
+    "0832bd888bd4b309": {
+        "origin": "ImageRenderTest.php:76",
+        "bytes": 794,
+        "sha256": "2d3691fb9d1a9847e15966147a063b207c2ff4ab0176012453ada57007c81cf2",
+        "limits": {}
+    },
+    "08629b1929329126": {
+        "origin": "Pest.php:72",
+        "bytes": 3166,
+        "sha256": "8f9b6cb974a1491d596f7b71d1af7983f5cf387a0fc74675eef9202ca7632db2",
+        "limits": {}
+    },
+    "08f83b394b270445": {
+        "origin": "AgentReadGuardTest.php:260",
+        "bytes": 729,
+        "sha256": "7e201ed5008e3e66ce903138a12520d2c659106cc2258c9807e0fc76bfcd107a",
+        "limits": {}
+    },
+    "09898a5044533674": {
+        "origin": "WordsTest.php:156",
+        "bytes": 2050,
+        "sha256": "1991802c923db80fe952d1b1fdfc277d0ccca4ff4254d04a8933e2f1bb3603f1",
+        "limits": {}
+    },
+    "0ab6119317518068": {
+        "origin": "Pest.php:85",
+        "bytes": 2278,
+        "sha256": "e52e0ab43cde2bca7d381ac7cc92d06e77e3cd853ed5de5051b17976f16488ed",
+        "limits": {}
+    },
+    "0ac4c343cecff256": {
+        "origin": "text-helpers.php:105",
+        "bytes": 938,
+        "sha256": "0272ae1bb98309291549f71350ec1c20cf513e6465d0a04caa7265a622d13c99",
+        "limits": {}
+    },
+    "0b04712f73dcd996": {
+        "origin": "RasterCacheTest.php:23",
+        "bytes": 580,
+        "sha256": "e6f5be05d543453a64d861ba87b569ba3f466607c32d9d646068a4042c95dc95",
+        "limits": {}
+    },
+    "0b1928b427151814": {
+        "origin": "WriterTest.php:34",
+        "bytes": 1958,
+        "sha256": "fe6462865d5e9dff09a41a2775386c59b22a7aceff5a5c4d93031f1c22dcb6f1",
+        "limits": {}
+    },
+    "0bb915e808ba9e0a": {
+        "origin": "EncryptionTest.php:69",
+        "bytes": 1336,
+        "sha256": "4830e8c3f4d555fcbfba5880273c0bf7c66f5b058fac5a7a9b74fbf3f21b61d0",
+        "limits": {}
+    },
+    "0be111de2e88dea9": {
+        "origin": "Export.php:145",
+        "bytes": 1970,
+        "sha256": "c6282392e5a3eddeeb61722abdf67bff721714a40d1fae06f5f08180c37ee7bf",
+        "limits": {}
+    },
+    "0c5afa6dad9d7498": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "c030eb6e1644427d34d775180d70b92edb4807f1832ea3df88cc4ff1a4ba4774",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "0d1bb0bb30b29895": {
+        "origin": "RedactionNoticeTest.php:56",
+        "bytes": 627,
+        "sha256": "fb8e80fd4aca7d84f7aa45165f58403db4a18e8b3889c3c0c78d12ddb9639226",
+        "limits": {}
+    },
+    "0d70e1401fba5e0b": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 599,
+        "sha256": "8d6db106beea153e82b7796fe0159c9ee54ca132dd89443332d6f8902bbb4bea",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999684,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "0d8e99bb5b247d66": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1593,
+        "sha256": "df4b35d6d4b71047d4fce77dee81e4cebb9d7804b14116ee6dc164680b323d38",
+        "limits": {}
+    },
+    "0deadb6e6c5c2bfe": {
+        "origin": "MetadataTest.php:31",
+        "bytes": 876,
+        "sha256": "8d8d4c467783021184942de4513812e07e68e98b18948098afd75c73a6db8561",
+        "limits": {}
+    },
+    "0e5cd5632d0daa9e": {
+        "origin": "ExtractTest.php:62",
+        "bytes": 679,
+        "sha256": "e37b3be1f7ceb70736dd3698dac1bd07ce59ba3da0c8ff9a846e6561d4bb2917",
+        "limits": {}
+    },
+    "0e62c8277a44fce9": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 585,
+        "sha256": "1557632ed15e3f8664d0fa631699a9ae3af594056ad7f8f1f54360a9591dd3f2",
+        "limits": {}
+    },
+    "0ea36b7e785a02c4": {
+        "origin": "TransparencyTest.php:24",
+        "bytes": 897,
+        "sha256": "923ae15b939047e148b31be5d07132a6fdca49badfd8371efd0a518cb48f3e05",
+        "limits": {}
+    },
+    "0ec664d037bf0f90": {
+        "origin": "TransparencyTest.php:113",
+        "bytes": 649,
+        "sha256": "4a44d12dedb560b56b577ad85799be7944c1b112f9d07c050847c37db1588657",
+        "limits": {}
+    },
+    "0f75c487d566dadc": {
+        "origin": "ImageRenderTest.php:46",
+        "bytes": 807,
+        "sha256": "f570fd878cc787a3db7a8fb6096b9e3ad89a2ab888fea5815a959b4955c5eb0e",
+        "limits": {}
+    },
+    "0f7bbd782f052610": {
+        "origin": "JpegRenderTest.php:118",
+        "bytes": 1133,
+        "sha256": "0d8db147d3f422fbd523f7548ee80dea026b42c357a3def2c1e6f5e7f7ffd2d8",
+        "limits": {}
+    },
+    "0f9f591e31b3dc0a": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1601,
+        "sha256": "1eaf739bbfc94fcce377d430adbf888162ba31602ff96d41ed8bcd5c24ad5f27",
+        "limits": {}
+    },
+    "102f7185bd063159": {
+        "origin": "FootnoteTest.php:319",
+        "bytes": 2051,
+        "sha256": "39b015087c0ee49e4bc1f9d798a803414488b1ef8266650fbaa2321e11db0443",
+        "limits": {}
+    },
+    "105c11219ee88c8b": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1633,
+        "sha256": "f78155405559250fd87658354051d73d7382a6c90eb4000411b7fb18e402c707",
+        "limits": {}
+    },
+    "1142f5317bf0d446": {
+        "origin": "WatermarkTest.php:49",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "timeSeconds": 29.9998477
+        }
+    },
+    "120fd30a1e91db63": {
+        "origin": "WatermarkTest.php:65",
+        "bytes": 580,
+        "sha256": "bfc457a296e7b5bf13208492bb9608f81f7d72a03f09a06922343c1a1eaf0705",
+        "limits": {}
+    },
+    "12213791e1a5bec8": {
+        "origin": "AgentReadGuardTest.php:86",
+        "bytes": 661,
+        "sha256": "56b8c5cd1b4cd8bb06bad30351ba024be89b103c4b2f08a795b661bbe2b01cfb",
+        "limits": {}
+    },
+    "122d829f3733caa3": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "a7cd6758ffd68f35dfbe04e669a73f0c5bc0bd9ce17fd6f1ef336b6bced3f46d",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "12701e553ff602cc": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 581,
+        "sha256": "fc9c4ed927f8dd9c3b7e748e46c1a2034690c1fe2c21a7d1575036b41ce9dbff",
+        "limits": {}
+    },
+    "1298c6377b7d6dc0": {
+        "origin": "AgentReadGuardTest.php:168",
+        "bytes": 1011,
+        "sha256": "eb033466a91d038dee7d3017b993d5c26babcf884603e08cab672e80d5a65a80",
+        "limits": {}
+    },
+    "12a475febe345ff7": {
+        "origin": "Pest.php:85",
+        "bytes": 2364,
+        "sha256": "ed5dc8fda8351a2d6aabbda0906cb461d17c987717d52548dec4c2a74df91965",
+        "limits": {}
+    },
+    "12b4e0ece23e5965": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1322,
+        "sha256": "050f7a1ec8708848ca371804d405fcecff19f10c620249762a5fe40c900db33b",
+        "limits": {}
+    },
+    "12b50a97720d5bf9": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1320,
+        "sha256": "994b48b2def583d1da06c64954f9207ff433cc5f531e26d8e1aa1ff7b5d052bd",
+        "limits": {}
+    },
+    "12f0abff5f397d2b": {
+        "origin": "Pest.php:72",
+        "bytes": 2393,
+        "sha256": "02262e22c1d876a1aaa0ad0c5b6d4d0f69d4b7b1fe47389c968acf2829d47bae",
+        "limits": {}
+    },
+    "136e6b89fc513aff": {
+        "origin": "DecompressionRatioTest.php:193",
+        "bytes": 61797,
+        "sha256": "7518c8cb7b41829d4f04057df3a7396e9e7b81465cae35fcea6fbcca87f0fe7c",
+        "limits": {}
+    },
+    "13d4de4c0be92434": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1609,
+        "sha256": "afefa92b0f51a4ba09c8c47cee20a1f214a44646ea4173a56969b58bbef5c26b",
+        "limits": {}
+    },
+    "1411ff56db233974": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "2d76e7163d5882d1f93b390296f4e1dfd9b115f2e33a5e7a1583ce9cd7cbb510",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "147c24c44b63fee7": {
+        "origin": "ClipAlphaTest.php:77",
+        "bytes": 799,
+        "sha256": "d8bdc115ec9ae43c6e45c271018c8aec9a12b0396086898b0b120a1a9ca0b2a3",
+        "limits": {}
+    },
+    "1484b01ff12c9e44": {
+        "origin": "RendererTest.php:19",
+        "bytes": 606,
+        "sha256": "60ba31ba6a18bdd46a790d225ab069c2d26834ed4b1905738fbac0bb70e4a78c",
+        "limits": {}
+    },
+    "149a4465bc65edd9": {
+        "origin": "DecompressionRatioTest.php:193",
+        "bytes": 1091,
+        "sha256": "fb9e1f030e1a00dd920d267ca4441d443c23859acd7863e4e7e4dba52ff1c088",
+        "limits": {}
+    },
+    "1501590f791090a3": {
+        "origin": "ImageRenderTest.php:112",
+        "bytes": 821,
+        "sha256": "e73acbbb54a8b5c0d282db6da0da0724f164822d400f0c3513855d2015b5c9a9",
+        "limits": {}
+    },
+    "152d646b7d15ca24": {
+        "origin": "WatermarkTest.php:48",
+        "bytes": 589,
+        "sha256": "82e3730c8533e83097b0c19c2aadb0c5a09853704922f5bc80ff95057be8a30b",
+        "limits": {}
+    },
+    "15327c0c778d1faf": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "f8bb7b4a21a45757aee03ca43372cc81c9062ca38bd16fd02a7cd3869d86743e",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "157d4637f7ac975f": {
+        "origin": "HostileInputTest.php:35",
+        "bytes": 14,
+        "sha256": "a3c843e650d4c14a34100e9f9b826048f86ded4fc1eff49e5c95d929bed839ea",
+        "limits": {}
+    },
+    "15836ac6db9a9b88": {
+        "origin": "Pest.php:85",
+        "bytes": 2373,
+        "sha256": "01bed71c3b6f476da3d246a33f06b638a6c54d62e65c8d298891fd7700469a37",
+        "limits": {}
+    },
+    "162b18f9e8d4073c": {
+        "origin": "Pest.php:85",
+        "bytes": 1961,
+        "sha256": "0424318ee679a418525985af104ba5438300347b3009ec91004a6a3345b2a2b5",
+        "limits": {}
+    },
+    "16a6a362533eb38f": {
+        "origin": "AgentReadGuardTest.php:140",
+        "bytes": 679,
+        "sha256": "1b46939e429cccaf4633d4e03bc5aae02ffd7b9419df36d950b72efe881c9dea",
+        "limits": {}
+    },
+    "16d32c3542d50600": {
+        "origin": "Pest.php:72",
+        "bytes": 2316,
+        "sha256": "9b98ef5facf09aff7b50d26b21fa3b296804cbbb022dae0def1c53639d628d30",
+        "limits": {}
+    },
+    "16e30ba1cab52b0f": {
+        "origin": "RenderHostileTest.php:53",
+        "bytes": 580,
+        "sha256": "3ace06cb79bf3ea94ff49e4be136ae177d8452eb02d37b01a8e6448800b5b0cb",
+        "limits": {}
+    },
+    "16e65e70452bfa45": {
+        "origin": "TextExtractionTest.php:69",
+        "bytes": 706,
+        "sha256": "3e0d3732cfa71efc90a7d19d480601a2739114787063ff2cf29c22f2732deae6",
+        "limits": {}
+    },
+    "172c335f8bad7135": {
+        "origin": "JpegRenderTest.php:66",
+        "bytes": 1178,
+        "sha256": "a908c3b01209681c56c4da911925b5baf1d141141f4439e80dca6a6f9c96eb87",
+        "limits": {}
+    },
+    "17562dcccf1c7846": {
+        "origin": "ActiveContentTest.php:19",
+        "bytes": 1005,
+        "sha256": "4727fd8cd787cdb3733a4c5dc08cdb0512c26156851c08ebe52b0afe87a94f82",
+        "limits": {}
+    },
+    "17fbb838c733b4da": {
+        "origin": "InlineImageRenderTest.php:35",
+        "bytes": 632,
+        "sha256": "7945c44b62d5a3d4c4903fb69008f3b4c33507467d74494c9e1d2706aedbb76b",
+        "limits": {}
+    },
+    "1800ebfcb7564fc1": {
+        "origin": "HostileInputTest.php:313",
+        "bytes": 317,
+        "sha256": "709c430c6f7efac661e98eb734d6158c78f54f960000ec2467a75e64b37cb5be",
+        "limits": {}
+    },
+    "1803f9871bd56ff0": {
+        "origin": "core-no-framework-child.php:28",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "timeSeconds": 29.9925882
+        }
+    },
+    "183bd5fa59b62663": {
+        "origin": "TextExtractionTest.php:111",
+        "bytes": 335,
+        "sha256": "5d3557827a0a1c31b6509dd351908895e98549a239d5c859a0c29642965883b1",
+        "limits": {}
+    },
+    "189eb54361023073": {
+        "origin": "agent-read-child.php:23",
+        "bytes": 73400934,
+        "sha256": "0ac19f32ddb472e4236c476fcc7969eeb7285d42459f64647e1d6590c9019b21",
+        "limits": {}
+    },
+    "18be100994122e4b": {
+        "origin": "RendererTest.php:19",
+        "bytes": 933,
+        "sha256": "8208fdbeedd9d8ecc34233f3c1de85bd0b5b089f25febf338022c6ac4ecd9939",
+        "limits": {}
+    },
+    "18edca2b9a0d4fed": {
+        "origin": "EncryptionTest.php:134",
+        "bytes": 1746,
+        "sha256": "51a8717c9ef88fd7a9dae24c05635e454ece26c538526557cf3910c113a3ff54",
+        "limits": {}
+    },
+    "1956ae9de632aa81": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "e6f5be05d543453a64d861ba87b569ba3f466607c32d9d646068a4042c95dc95",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999837,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "195f92b7e6f618ea": {
+        "origin": "RenderHostileTest.php:133",
+        "bytes": 822,
+        "sha256": "69764897769c1bed6077f9705b28df6682ffcb0e9f68489d7d4d5e8b02a442e7",
+        "limits": {}
+    },
+    "19b89fda4c662440": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2373,
+        "sha256": "a7fac0b67abb20f718a4f0559533e5fb0d792966166c00362d5afe8e94b07d98",
+        "limits": {}
+    },
+    "1a53c0130d96cf0c": {
+        "origin": "PlainPerformanceTest.php:55",
+        "bytes": 4195,
+        "sha256": "5eb857960dfcb677be28271742109d693fe15ea5af4b7e60fae0c86f9ae4146f",
+        "limits": {}
+    },
+    "1b477c885746d1af": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1600,
+        "sha256": "2701dcb5e3b4bbc3c0df0f6e5f9de1f405b536605e8fafd8aa9d7999cf182765",
+        "limits": {}
+    },
+    "1ccd31369792bb5f": {
+        "origin": "Pest.php:72",
+        "bytes": 2075,
+        "sha256": "21cd813b37d89faa0517a1a8c88f4caa587833022b1c9f25f1701c43ba23f267",
+        "limits": {}
+    },
+    "1dc81c6eef2bf992": {
+        "origin": "EncryptionTest.php:117",
+        "bytes": 1569,
+        "sha256": "9c4d4ace1421102e905fb990111b0134d985ac5eb75e81d3cf883ca168e3e976",
+        "limits": {}
+    },
+    "1dd91d8a9b47c7b6": {
+        "origin": "AgentReadGuardTest.php:184",
+        "bytes": 929,
+        "sha256": "624fa4d3ddd9b0c2f7457fa330318814168ac0f19766c189db8a3bfd8af93d0c",
+        "limits": {}
+    },
+    "1e2a7798377f7c38": {
+        "origin": "Pest.php:72",
+        "bytes": 2744,
+        "sha256": "1d1a8bf0480023bc7230f395d26b6a68c69bc8d66552456d2d069a627f017f27",
+        "limits": {}
+    },
+    "1eb11c3a2d9a2fe6": {
+        "origin": "RendererTest.php:19",
+        "bytes": 606,
+        "sha256": "b0775cd2947b509e9314952eb1c0a7b21cb5d373cbac667aad873e162cdf892b",
+        "limits": {}
+    },
+    "1f0ffc8652ec4e41": {
+        "origin": "WatermarkTest.php:27",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "timeSeconds": 29.9998374
+        }
+    },
+    "1fda287c39493913": {
+        "origin": "Pest.php:72",
+        "bytes": 1986,
+        "sha256": "e7cef33978a20f9363d2c8d947d8bef9f671c04405c54e6206fa1d4fde65c966",
+        "limits": {}
+    },
+    "20bde7c612536f7b": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1422,
+        "sha256": "2e9c4f9cdda6330659eb49a6bb4f78e7c78994800192157f5480e6f642b589fb",
+        "limits": {}
+    },
+    "219bc26716fa0f7c": {
+        "origin": "RendererTest.php:113",
+        "bytes": 832,
+        "sha256": "e39b51071b240aa6ee7eddb27de55bd59cad4347b29e087167aaa12e34177488",
+        "limits": {}
+    },
+    "21b820617b433225": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2315,
+        "sha256": "67e889440335f588ef0b255454a9996e96875148b64a089d7f7db156cb12dcb9",
+        "limits": {}
+    },
+    "21c6c1e8e28e36f7": {
+        "origin": "AgentWriterTest.php:81",
+        "bytes": 2228,
+        "sha256": "ae887ade6cda4dd034c597a36f6d738bceac3334546ef3d5e1cb5502f6f3d8bb",
+        "limits": {}
+    },
+    "21d5b3a2a8aff741": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1264,
+        "sha256": "10c1785de190709275115d001a0f9221306fc1a152f226da72be8ac7e6ebc5e8",
+        "limits": {}
+    },
+    "21fb3047e138df96": {
+        "origin": "AgentTest.php:18",
+        "bytes": 852,
+        "sha256": "71560b308cd3120094d284357bb79e895ac6f9b1c935c1c9721b4f12dd7ee3a4",
+        "limits": {}
+    },
+    "228e13d8039b7b3f": {
+        "origin": "Pest.php:85",
+        "bytes": 2936,
+        "sha256": "aabed226f41b319dc5593fdb7c36e2a4ea2be8d27ac897d81aae0a2be5e9b88e",
+        "limits": {}
+    },
+    "229edc1f93bec7ce": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9971832,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "232905cc87e1b2b5": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9968612,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "23d50ce6a9c5dcde": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9994699,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "23e74d4d57d02161": {
+        "origin": "text-helpers.php:105",
+        "bytes": 917,
+        "sha256": "6813d31a55abaf5e6c16ef9eb88656a2481d75f523d627eb3ad1f2203eada442",
+        "limits": {}
+    },
+    "2403700de5b2e9a6": {
+        "origin": "JpegRenderTest.php:84",
+        "bytes": 1112,
+        "sha256": "caaced3a8e3c5285493fc4ec8bf362494d1a287c4f9178d90a1bd0af84598cf9",
+        "limits": {}
+    },
+    "24789f5f48316f34": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 586,
+        "sha256": "aa6908efa1c53dfb6b773a8324d4de2c90d7ced75a7fab30bc6aceba16a2be6f",
+        "limits": {}
+    },
+    "2479654063d7d3d4": {
+        "origin": "TintFunctionTest.php:45",
+        "bytes": 832,
+        "sha256": "0dfa1af28298d6f2bfb130f281f4d74dd7a794399e98565b3f9f3c3ae7677ef8",
+        "limits": {}
+    },
+    "24805f892ab15664": {
+        "origin": "DocumentTest.php:77",
+        "bytes": 478,
+        "sha256": "23aaab18bfda8e089a48f62f17ef4712d6e85a9c21f2c49fc54d0ddf1b5b7a78",
+        "limits": {}
+    },
+    "271476e857a8ae7d": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "8dc45c6a5592163297fcbf4721532523939c040b3b18a612bab71ba6fc0e67a2",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "2726fbda805aeecc": {
+        "origin": "Pest.php:72",
+        "bytes": 2075,
+        "sha256": "4fff8072d877a91e30d5d1e5d9a688534fb760ee8a2fff5f6b1e1507b075545f",
+        "limits": {}
+    },
+    "2764564968d0cc53": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "e6f5be05d543453a64d861ba87b569ba3f466607c32d9d646068a4042c95dc95",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999733,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "27ae2bbad00b5149": {
+        "origin": "TransparencyTest.php:40",
+        "bytes": 920,
+        "sha256": "90b3e0d1d16aed104ab907e3177be2431a6d2fc5dd2fb5c90f7d05542103dbe8",
+        "limits": {}
+    },
+    "27e04569b96704c6": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2405,
+        "sha256": "a31ed02c379d027bf05f5fde1e772612b64eed24bf3477b107ad7d17955a4fa5",
+        "limits": {}
+    },
+    "2971b2aacb64db70": {
+        "origin": "JpegRenderTest.php:21",
+        "bytes": 957,
+        "sha256": "e44aa4234b62143fbc9b154acf3cbeebcb10f577d274de11cfc7f9915d9b9bd9",
+        "limits": {}
+    },
+    "2983a87a64beb71f": {
+        "origin": "MetadataTest.php:17",
+        "bytes": 821,
+        "sha256": "9fbb5e5b04f27f58ba4f60b2f5a3de882a7faac5587dc5a36476ace6f1ffaa78",
+        "limits": {}
+    },
+    "298e0ed82557dd3e": {
+        "origin": "ImageRenderTest.php:94",
+        "bytes": 815,
+        "sha256": "fd77c00777b77fd4ccd87bde2c9ea6c95b69ceeca3681d2b54a2c50c961cc2ea",
+        "limits": {}
+    },
+    "29b5b406bbc07354": {
+        "origin": "ImageRenderTest.php:31",
+        "bytes": 795,
+        "sha256": "f91e1c1a69351cb892bacfda73b696a9be1727dbb5606bcb8e1f0471353ae6c1",
+        "limits": {}
+    },
+    "29f361481c12d821": {
+        "origin": "RendererTest.php:19",
+        "bytes": 628,
+        "sha256": "cb4ca965c299db56905bef12c38ccfdc4fecf9195fa3bbca2d4e2953f5b9fd18",
+        "limits": {}
+    },
+    "29f57e5f54040e69": {
+        "origin": "TintFunctionTest.php:15",
+        "bytes": 730,
+        "sha256": "8292be1f12cb0d8ff6ed223806afbe96c9bde37f6c812a986fe9958ccbf5331c",
+        "limits": {}
+    },
+    "29f78461dd84b2b6": {
+        "origin": "TransparencyTest.php:40",
+        "bytes": 921,
+        "sha256": "e9e794fc807d05d8d5e6572dd8a35c09671131da447e826153662ae9e006896a",
+        "limits": {}
+    },
+    "2a0345e671a115fe": {
+        "origin": "Export.php:145",
+        "bytes": 2959,
+        "sha256": "da3cf4e5efac65e95a744091593ef8eeab00a75759854902539be1a9da7b0583",
+        "limits": {}
+    },
+    "2a08316d6474ae97": {
+        "origin": "JpegRenderTest.php:145",
+        "bytes": 1108,
+        "sha256": "cd25b05fdc8671621bff6cf196d72a320cb6062f5b3e80aadcafb8d7a2cf6800",
+        "limits": {}
+    },
+    "2a5bc4ae5f0ed971": {
+        "origin": "TransparencyTest.php:35",
+        "bytes": 911,
+        "sha256": "129c76b6e9df1aa78068d4cb76fd7255b23d144a7121773649e23a239fc5ae21",
+        "limits": {}
+    },
+    "2b048fa956c09028": {
+        "origin": "Pest.php:85",
+        "bytes": 1943,
+        "sha256": "4250a2a8bdf331cbb14111d73b5324ca415373eecda46e0d63ce4223bbeeda59",
+        "limits": {}
+    },
+    "2b3ca59f3d299443": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "f497fa204dd4994f84f9bcceaf06c403019f29c3d3748d6accff6c1f9f68bc05",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "2c4a84299985f122": {
+        "origin": "Pest.php:85",
+        "bytes": 2075,
+        "sha256": "52e6b76b41d86eaae8e420f70c788bae2ef9a4c5267c1009363abb21e358e579",
+        "limits": {}
+    },
+    "2ca812e03b73eab2": {
+        "origin": "ExportTest.php:74",
+        "bytes": 665,
+        "sha256": "1d8e51353ae451c83532c54ef7482951e8db30281f642b757cc87da88d9f259f",
+        "limits": {}
+    },
+    "2d675959c309c553": {
+        "origin": "RendererTest.php:19",
+        "bytes": 595,
+        "sha256": "f73b1f984700d6c9cd6d9f3356eea068c3c02660bfd662a95311076ff88440af",
+        "limits": {}
+    },
+    "2d7844a431cd2413": {
+        "origin": "RendererTest.php:19",
+        "bytes": 610,
+        "sha256": "cff95ed56191b9c255c2f35469be7a0bd0302bea64fecfe540d928714924aca7",
+        "limits": {}
+    },
+    "2da44316a1c96a0a": {
+        "origin": "EncryptionTest.php:117",
+        "bytes": 1087,
+        "sha256": "f05aa76a6ab9223f49ccfa90093bc87fcb0a56e4280527a5b93dc32ece1a05f5",
+        "limits": {}
+    },
+    "2e1640c13585b919": {
+        "origin": "Pest.php:72",
+        "bytes": 2104,
+        "sha256": "7b96b928e620052888e8061d0d6b795d79dfcc601e2518ecbc8da2ef39d66dc5",
+        "limits": {}
+    },
+    "2e2e3c0eabd327aa": {
+        "origin": "Export.php:145",
+        "bytes": 1980,
+        "sha256": "8f1e7d99fd9114401c6207b287d316306b458d02f32d5a030175fa7c862baafb",
+        "limits": {}
+    },
+    "2e6a2fcf127f93f6": {
+        "origin": "TextHostileTest.php:21",
+        "bytes": 1476,
+        "sha256": "96ae9d3fad173db5b37942f7b1b6f5bdd44021149ff21e66d1c04ca17f8e3136",
+        "limits": {
+            "renderTimeSeconds": 5.0
+        }
+    },
+    "2e9105416513f7b5": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 3817,
+        "sha256": "5a87634182b038de2ca203253c17c59f7c16b5404c6fa7d8501ac6c3684f2809",
+        "limits": {}
+    },
+    "2e91e1b97086e2db": {
+        "origin": "TintFunctionTest.php:51",
+        "bytes": 814,
+        "sha256": "51f3ca3c8b0352da05bc77c363e7f85d67e8b3f832c2f9f005c1e4cb85858bbc",
+        "limits": {}
+    },
+    "2f46be0c0d468b44": {
+        "origin": "Pest.php:85",
+        "bytes": 2374,
+        "sha256": "63bc7c3406268e0ff8b8a7160cd53e819f520068908389e466ad99d23dc3faaa",
+        "limits": {}
+    },
+    "2f4bad41f37f166b": {
+        "origin": "TextExtractionTest.php:58",
+        "bytes": 635,
+        "sha256": "53caf0364b88addafca4a8b696b64d98a40bf959f29fbe29b401c2d3c2bda178",
+        "limits": {}
+    },
+    "2f63379d19368c79": {
+        "origin": "TransparencyTest.php:19",
+        "bytes": 866,
+        "sha256": "683c336b8496e819bb490de7d73577ae3e5b49aa530e1ad498dc94c937878364",
+        "limits": {}
+    },
+    "2f905e49a885c08b": {
+        "origin": "ImageRenderTest.php:67",
+        "bytes": 811,
+        "sha256": "594fc774a62b9bce797acc5139024409c8b090ade80ccbf51106206947c2a694",
+        "limits": {}
+    },
+    "30076ec35f04b4d2": {
+        "origin": "Pest.php:72",
+        "bytes": 7837,
+        "sha256": "5c6aa6a02bca81e6c86225a67f2678e88374f07c48fae0eb5763437b804e8370",
+        "limits": {}
+    },
+    "307267f8e0c6c199": {
+        "origin": "Pest.php:72",
+        "bytes": 1976,
+        "sha256": "a59f19910d54da42721ea51087187560cb47abac6c6965738c039e74365f8947",
+        "limits": {}
+    },
+    "308f45b057d9031d": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1601,
+        "sha256": "a5f7ee3b6a6a04e3f7bc61d42b49bf855a6ee0910cb525412f0ae9e379279185",
+        "limits": {}
+    },
+    "30dabb2405bbd19a": {
+        "origin": "MetadataTest.php:50",
+        "bytes": 1333,
+        "sha256": "49d17a48fbd9fb4310b00337ce088a7da0d0097d66fab0cd960b4c4913148fae",
+        "limits": {}
+    },
+    "313296413aaec548": {
+        "origin": "TextHostileTest.php:21",
+        "bytes": 1001487,
+        "sha256": "500329c279ef09b2b623e2faf6cd8f8443ab01b4f2761ecb4a37ed4b7e076e53",
+        "limits": {
+            "renderTimeSeconds": 0.5
+        }
+    },
+    "3149135ffed54e36": {
+        "origin": "TextRenderTest.php:478",
+        "bytes": 2553,
+        "sha256": "68d81fd89cd032a56b53618a7bced440dc639d66c0b6ce22aa45e490208ccd55",
+        "limits": {}
+    },
+    "315d81a9a77bccb0": {
+        "origin": "text-helpers.php:105",
+        "bytes": 904,
+        "sha256": "ca5441b8b7f8ea191c118847920a605fee3e627d7c8e34bd80ffc05ed1af38d5",
+        "limits": {}
+    },
+    "3184043f5eb4d049": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2533,
+        "sha256": "efd01039ead28c9dec3197bc28440e96299f408ecd4d5e5805ef563e13e88841",
+        "limits": {}
+    },
+    "31a9b8c7770830af": {
+        "origin": "HostileInputTest.php:302",
+        "bytes": 696,
+        "sha256": "362a7051ac3841431204d35783f654d8577927257927f06778a34c25d45895de",
+        "limits": {}
+    },
+    "31ced6069d4c4975": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1617,
+        "sha256": "36b3a2b599a45cc94325080d0e7e4d23def7d3e967c6c726eade8e6aa1341d7f",
+        "limits": {}
+    },
+    "31e18f291a0bcb4d": {
+        "origin": "TintFunctionTest.php:51",
+        "bytes": 817,
+        "sha256": "d4f137067036f6d49c7f530ae4215c4d9d7e2011225c99b1671cf2b2fd3b6e42",
+        "limits": {}
+    },
+    "324122a35cbad733": {
+        "origin": "RendererTest.php:119",
+        "bytes": 606,
+        "sha256": "829ebc2a277a80f28f0c4ecf75eb7dcf325735005086633fad95ccb2e664ceee",
+        "limits": {}
+    },
+    "3282da75d00790c8": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "74200fd965dd83aa52a3d4f8e1578d702e4fd98b94cba42a9468b7b960e14bc7",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "32ce2e74e9a85e7c": {
+        "origin": "JpegRenderTest.php:28",
+        "bytes": 1130,
+        "sha256": "39259139318af21cb8a313fe8760d54daee9d6260ae6077e410bfb5e1d57a48d",
+        "limits": {}
+    },
+    "331143ed1f42319d": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "a2c0146f69ad0fae144b49c0fc4b3302072a13ab44ba4a16aae2baf69fecc4b0",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "33165a892f23e0dc": {
+        "origin": "Pest.php:72",
+        "bytes": 2263,
+        "sha256": "45b78bdb35d88f76d6b06588cf9cef1541adb637d1505bdf5f9ebec88c76156b",
+        "limits": {}
+    },
+    "331d3559adf8a5cd": {
+        "origin": "Pest.php:72",
+        "bytes": 6674,
+        "sha256": "ff4a87a8ad34445de830253af16f754f8d237db633be9a834f761d8e7ac1333f",
+        "limits": {}
+    },
+    "333f51122a8cc583": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "3f0bed9e66a3582e5fedcd8295f9cd75ad08c72930ae1fa0f30778ef66a187ab",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "337cb24e73b59e3b": {
+        "origin": "Pest.php:72",
+        "bytes": 2759,
+        "sha256": "accd66a488d57a51e7a68c75a1ae1fa16846f2b3cbd38700e2b3c99302860c28",
+        "limits": {}
+    },
+    "33ab9aec2e73a77b": {
+        "origin": "InlineImageRenderTest.php:12",
+        "bytes": 665,
+        "sha256": "eb36d8a8c1fd34c5466eb632eb97dab8527187cc29a7b51b8419cb76ddbefc2d",
+        "limits": {}
+    },
+    "33c8eac2a1f4f652": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1434,
+        "sha256": "bbab4d2e9a325531255a9862d538b36b67966e876de5b1692a8a09ba0e18df05",
+        "limits": {}
+    },
+    "34ac7d54e630134b": {
+        "origin": "RasterCacheTest.php:43",
+        "bytes": 576,
+        "sha256": "fcc0a12d3d533689dca32a60d3dcc7d39d308eb5beb76320a46883290208c0e5",
+        "limits": {}
+    },
+    "34c6cbd6e6b61905": {
+        "origin": "Pest.php:72",
+        "bytes": 2106,
+        "sha256": "cdfb0257bcac3d842809f23bce7fab6e7e066977f61a1617ce12823b7892a200",
+        "limits": {}
+    },
+    "358f1f95eb929432": {
+        "origin": "AgentReadGuardTest.php:70",
+        "bytes": 643,
+        "sha256": "66e8eda6bea8ba6318be579a85d415c40f2e7d47a3d7b1ef7c1f6aef859df3a9",
+        "limits": {}
+    },
+    "35918e1037607541": {
+        "origin": "TintFunctionTest.php:10",
+        "bytes": 732,
+        "sha256": "bc05ba146fd31fd33edd31eb0392b63cfa2e64499b097005f6098c391302c7c4",
+        "limits": {}
+    },
+    "3594c988519164bc": {
+        "origin": "DecompressionRatioTest.php:133",
+        "bytes": 5187,
+        "sha256": "bd106beaf888461265b6585683e13567a6d82e99b15b2f8751e516a7600b6130",
+        "limits": {}
+    },
+    "35cf387d29447eba": {
+        "origin": "TextExtractionTest.php:117",
+        "bytes": 654,
+        "sha256": "535cd3e1d89672c7e1cef49ee4932b44eea4bd267024a2f270701587f17f210e",
+        "limits": {}
+    },
+    "35d3e9579695b6d0": {
+        "origin": "DecompressionRatioTest.php:133",
+        "bytes": 25257,
+        "sha256": "69adaf9125e8e189ac1cfa84c44de322407809f772d50215fa174721b9371173",
+        "limits": {}
+    },
+    "35e6a4034edd6d5e": {
+        "origin": "ExtractTest.php:79",
+        "bytes": 646,
+        "sha256": "7190e33f88e139b19a369d7809c6af58249933a4280f6c78efdb69faac4fb3c2",
+        "limits": {}
+    },
+    "36edb73383549821": {
+        "origin": "RenderHostileTest.php:55",
+        "bytes": 580,
+        "sha256": "3ace06cb79bf3ea94ff49e4be136ae177d8452eb02d37b01a8e6448800b5b0cb",
+        "limits": {
+            "maxRenderPixels": 200000
+        }
+    },
+    "37415a4b96b97f68": {
+        "origin": "RendererTest.php:19",
+        "bytes": 597,
+        "sha256": "a19959d86ad12479af93adc9d1207b0b4457376717726644c5ba18241f7059c2",
+        "limits": {}
+    },
+    "3774f6e921791323": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "ff4af39e5cfb628624c83060b8f8ec19793f834346439a6148c2d30328d23793",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "37b2a6ab662330bd": {
+        "origin": "Pest.php:72",
+        "bytes": 6065,
+        "sha256": "003ec6fd0c59888ee15c274782e0ba0538097e931a04089df87e61546c56d538",
+        "limits": {}
+    },
+    "37e3fb5ab58e07da": {
+        "origin": "TintFunctionTest.php:15",
+        "bytes": 729,
+        "sha256": "9de8adf3ba734d06ab907f550148f0b60beea2552f8070e8e4da6d51730be772",
+        "limits": {}
+    },
+    "3804de60fe33740b": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 595,
+        "sha256": "758b47a54beaea2e04540f6d4634a8c0d7ed9d8939834641e73e7edcc273ddd6",
+        "limits": {}
+    },
+    "38b3c564cb4e8137": {
+        "origin": "BlockBandsTest.php:346",
+        "bytes": 1983,
+        "sha256": "349f4e06cb6c6f79d8743802ad3ceda6b2b6e0beb94216d760fa1656efb16485",
+        "limits": {}
+    },
+    "38b506ff42c4e0d7": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2316,
+        "sha256": "d13278f6820ab27d0fbc19e838bdb6ff15fb1cff56d2f39bf339542a80adb325",
+        "limits": {}
+    },
+    "38fbd44716903905": {
+        "origin": "Pest.php:72",
+        "bytes": 3152,
+        "sha256": "df680fad4c8778272a12d6ec6f92cd73cf840e988c00e7ca0f5d151c3a5af28b",
+        "limits": {}
+    },
+    "3947a622c1a5fca4": {
+        "origin": "Pest.php:72",
+        "bytes": 1982,
+        "sha256": "08646f30b2e857f5a03008293b8d51d5ec3d59e8589367fbcd8f2de4b9578326",
+        "limits": {}
+    },
+    "3950af265f31510f": {
+        "origin": "Pest.php:85",
+        "bytes": 2056,
+        "sha256": "a0b8ab628b067ae1942421cf1f6f532e024e6b098a6b12592795d920415317fa",
+        "limits": {}
+    },
+    "39c511fa2d8b545e": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1591,
+        "sha256": "6dd984b40e75b9d32565a2365eac7d5badfcb6ad701414bc64964fa0e1c5ac79",
+        "limits": {}
+    },
+    "3a377b4a155577e0": {
+        "origin": "RenderHostileTest.php:109",
+        "bytes": 787,
+        "sha256": "c8a3f3a1dcb6097978ebc117029196b738c6bf2613561d140761ed77cebf6944",
+        "limits": {}
+    },
+    "3a596b036d6498d0": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2379,
+        "sha256": "474c3ccf8b3a0d0229574da10ddb657e9951cc51be4a0b64d05e28c51318d73b",
+        "limits": {}
+    },
+    "3ae2a0f4e6968693": {
+        "origin": "Pest.php:72",
+        "bytes": 2220,
+        "sha256": "c5f8dac08b5b39fe35ada68e4b7cb9c87633d3589d54ad9e589e19b35990a087",
+        "limits": {}
+    },
+    "3ae9cb3f38cfc4ea": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1422,
+        "sha256": "dde29299dac8dd6f6e77b40a2d29795aee6de51c92a6e272f56d9a5847427ce9",
+        "limits": {}
+    },
+    "3b4552027fedb082": {
+        "origin": "ImageRenderTest.php:31",
+        "bytes": 793,
+        "sha256": "6a0dc26acea339d3f04fbd53ba1e0a6d4a75d2ba4c2c859485c8e4ede7cf23ef",
+        "limits": {}
+    },
+    "3c1cdc8209e398bf": {
+        "origin": "RendererTest.php:19",
+        "bytes": 604,
+        "sha256": "a9db9f848fb35e660537b69ce592c7ab0a43172fb9804f1e7707d0edb524da52",
+        "limits": {}
+    },
+    "3c1e70fdc5df0ef4": {
+        "origin": "TintFunctionTest.php:31",
+        "bytes": 848,
+        "sha256": "93a1b8c996541ae1fb3a35b2e202004bd2ce9c734332deb9b2434566d610d1db",
+        "limits": {}
+    },
+    "3cf9371c08c45ab3": {
+        "origin": "TransparencyTest.php:200",
+        "bytes": 1206,
+        "sha256": "132639e7d790b9b41dd2e908b1f1641da759b271789214af76e5d4b3dc08e8a4",
+        "limits": {}
+    },
+    "3d8205dee84e845d": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 591,
+        "sha256": "3175bc8b70d9371ab1a04ccd0fb1d229fb3cf87b0b29a41c83afc536fe549ba9",
+        "limits": {}
+    },
+    "3e5f156bb6ff2a1e": {
+        "origin": "ActiveContentTest.php:87",
+        "bytes": 782,
+        "sha256": "16f02e2d270d5def831e3789a75e7d4bb7207ca9cffb1b5fb0050ac184839e12",
+        "limits": {}
+    },
+    "3eafea26c2f10d52": {
+        "origin": "AgentReadGuardTest.php:70",
+        "bytes": 655,
+        "sha256": "9a1706793c4f8eb8316602f81fe9326d86ed345cdb84fb65f44042602cdbd6d1",
+        "limits": {}
+    },
+    "3ec906d2954c1c32": {
+        "origin": "HostileInputTest.php:109",
+        "bytes": 1799,
+        "sha256": "63f9be7533c3f91c58b3d0731a9e1b97ac266aeaeafd3f4929b37671b1b906a3",
+        "limits": {
+            "maxObjects": 8
+        }
+    },
+    "3eda2c96f56b15bf": {
+        "origin": "RendererTest.php:19",
+        "bytes": 911,
+        "sha256": "d46e15550530a95357dc2cfcb16cdc658fba9c3044f5c9a20e1f6b2d75238e06",
+        "limits": {}
+    },
+    "3ef78b78e30700e1": {
+        "origin": "TextExtractionTest.php:17",
+        "bytes": 709,
+        "sha256": "7e811afba55ad534b5be7289782a6fe8477bfa642d78c8a7833063c0553a4452",
+        "limits": {}
+    },
+    "3f2563ae1c5e7dc8": {
+        "origin": "PageDecorationTest.php:88",
+        "bytes": 2330,
+        "sha256": "a24cd866f0a297bb1a7214ae2e424e58c118e6a6ef6b5581f21666cdb6000739",
+        "limits": {}
+    },
+    "3f6548d175eb3916": {
+        "origin": "MixedPagesTest.php:234",
+        "bytes": 2220,
+        "sha256": "51ec14d01d170f401622f812f221345d8877cef0e9c4ce3a38c86a4332fe1f48",
+        "limits": {}
+    },
+    "3f6934344b0b4aff": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.999144,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "3f707596bcbbca92": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1626,
+        "sha256": "63fe90c45284405f1f5a1a82cc38189b7f0fe08f8f46aa8439222044f2cef7bb",
+        "limits": {}
+    },
+    "3f7bd4bfe32e41da": {
+        "origin": "Export.php:145",
+        "bytes": 1952,
+        "sha256": "4442e984f903e03067f27d740b3c83f1e5a0eb8dde0af7f15751e489da139c08",
+        "limits": {}
+    },
+    "3fc83b807ad5d9d3": {
+        "origin": "ImageRenderTest.php:94",
+        "bytes": 792,
+        "sha256": "dfda83c3572cb69cb461b5dd01f01daa40a71e0241bc2d6099b2e2b42b521c88",
+        "limits": {}
+    },
+    "40092e45f4f6fa0c": {
+        "origin": "ActiveContentTest.php:75",
+        "bytes": 799,
+        "sha256": "59557892c50c0f6feac471fceffe3ad44a97b67b225f80bebcf45c989097d5cf",
+        "limits": {}
+    },
+    "40aa0db0dda23221": {
+        "origin": "ImageRenderTest.php:134",
+        "bytes": 1424,
+        "sha256": "a63b0a95932f8b0256456d082770754f635b7df001ed39e16f05e853e64e78ff",
+        "limits": {}
+    },
+    "40b10eb0faaf71d9": {
+        "origin": "ClipAlphaTest.php:126",
+        "bytes": 6884,
+        "sha256": "fabdfa639a090dc08b42a42b09b5dce5b358df68b856580688f50762c0b8b0cd",
+        "limits": {
+            "memoryBytes": 2097152
+        }
+    },
+    "4138dbc0cba6ea10": {
+        "origin": "Pest.php:72",
+        "bytes": 2504,
+        "sha256": "95ad8f90d4f60b1f609c6941a9774ef1479330e07e5fbd3d5e6f44397398b500",
+        "limits": {}
+    },
+    "41949db210ba1f6f": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "cdaeca08f04fa8dcc5092025f5c1fdffc9a28d70c624d6b5a6a7d749d1aaf13a",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "421757a17a9bac01": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "75e38b9d6174960c2dd10da04eac29c6dad8192a08b42e9890cef4081d66d370",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999806,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "42acb428048dacf0": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1799,
+        "sha256": "6d9011f18f90034bddae598c8c8d48e85ca8ece0460e322103b303281058c35d",
+        "limits": {}
+    },
+    "4377ea9342d34bda": {
+        "origin": "Pest.php:72",
+        "bytes": 4785,
+        "sha256": "0dfc2614f63af827f2266e9aa1b8492035dd2e3d90c965755d70300604650d79",
+        "limits": {}
+    },
+    "43adccc80c04fc67": {
+        "origin": "TintFunctionTest.php:51",
+        "bytes": 814,
+        "sha256": "6136a7e8f7124410608f323f4303deba4284b145a203a39d8ad3230a9da0e5ce",
+        "limits": {}
+    },
+    "43d030a6eb651294": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 746,
+        "sha256": "3c9251c01500cc8a3875b5fedecd12af6ef3b0b849866196a9cfc192ca24f82f",
+        "limits": {}
+    },
+    "440536d9e61370c1": {
+        "origin": "ClipAlphaTest.php:87",
+        "bytes": 943,
+        "sha256": "6a761cfdd25bce436bdca07d0ff6d4fd49c66951933a878ecd16727b5770c534",
+        "limits": {}
+    },
+    "440b4f435eca9518": {
+        "origin": "JpegRenderTest.php:118",
+        "bytes": 1135,
+        "sha256": "50d8d1b544ad32476a2020984c046d6296c3b824b9ee71a172d2005bfb231f7b",
+        "limits": {}
+    },
+    "44419be31415e92d": {
+        "origin": "TextHostileTest.php:21",
+        "bytes": 1619,
+        "sha256": "7aa3bdd7740508886588fbefe75d9f3d8a5684947169eea698e507af25a87d4d",
+        "limits": {
+            "renderTimeSeconds": 5.0
+        }
+    },
+    "4445a43dac97d6d5": {
+        "origin": "Pest.php:72",
+        "bytes": 3179,
+        "sha256": "adaee1128a80c5a0452733badea38bfdd603937dd011cf01410adc650b77c4fd",
+        "limits": {}
+    },
+    "444d17dad632617b": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2367,
+        "sha256": "35715f30b7026845581787c19ceb3afcea70fb3503673c23f7b42e215c123306",
+        "limits": {}
+    },
+    "448ffc50294a5bcc": {
+        "origin": "TransparencyTest.php:140",
+        "bytes": 825,
+        "sha256": "b9d88563d70efac180b9339a7fe73b532d1a627e8fa521d5021c2c0be2c0586e",
+        "limits": {}
+    },
+    "44d76bf209e900e2": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1604,
+        "sha256": "d7132317c0af403776603b7e640482cbdde3fd4d14f4b91e8e7fb2629ad269be",
+        "limits": {}
+    },
+    "44f821d84fb507b9": {
+        "origin": "TextHostileTest.php:21",
+        "bytes": 3001487,
+        "sha256": "074974194b47dbd0a4d7989d4e5e2fb7cf62e49d811efc41f226aa0ba9caf070",
+        "limits": {
+            "renderTimeSeconds": 1.0
+        }
+    },
+    "45324a9cebd5978d": {
+        "origin": "Pest.php:72",
+        "bytes": 3140,
+        "sha256": "f94eeb6c1af832c23cb3857876b05f95af6cd8e31b49d0d32b77cb19f496b1f0",
+        "limits": {}
+    },
+    "455673087f700db5": {
+        "origin": "RendererTest.php:19",
+        "bytes": 590,
+        "sha256": "e19383cbec222ce8fb6ed3537dc966d4ddfdf5506c2dd20f1bb1969d34c6618d",
+        "limits": {}
+    },
+    "457e822accff61b0": {
+        "origin": "Pest.php:72",
+        "bytes": 17945,
+        "sha256": "97a2bc6a05175afe3fd18c0b7ee4063098bd772d4483526d6a8e7168f3532f33",
+        "limits": {}
+    },
+    "46092089800ab060": {
+        "origin": "InlineImageRenderTest.php:50",
+        "bytes": 966,
+        "sha256": "7cc587b4f9008f444aa1378723fcdb983cd6dd2c047a73b25cb0f1ffe2389e35",
+        "limits": {}
+    },
+    "46501e43b0555dc0": {
+        "origin": "EncryptionTest.php:117",
+        "bytes": 1088,
+        "sha256": "b1100bb7127e53891b1e5a322b98de09e945657e15da0789dc9246e71e213295",
+        "limits": {}
+    },
+    "46881ece76d6abe1": {
+        "origin": "RendererTest.php:19",
+        "bytes": 617,
+        "sha256": "4bda94a6b2132a2dcdb74fcdb57c108b7365fc4203ec78b13e06b569588c7719",
+        "limits": {}
+    },
+    "46e9fd552caa17e1": {
+        "origin": "Export.php:145",
+        "bytes": 2166,
+        "sha256": "4f38951bc636d581157c2f99d7cad176fe67061237a57a5661ab2a2b17e4de0e",
+        "limits": {}
+    },
+    "470fb2849a476090": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9965549,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "472be5fa49aeb8c7": {
+        "origin": "TransparencyTest.php:88",
+        "bytes": 1067,
+        "sha256": "9ed52419e8687717835fc71bbac817e54015b9b37165c22c8512a2fcbc963ff1",
+        "limits": {}
+    },
+    "47c0ea43774f2001": {
+        "origin": "EncryptionTest.php:196",
+        "bytes": 893,
+        "sha256": "0a542cbfc1900b67543cd97b28b547d42ffc835698aeb741cdbfa5dbfed3297d",
+        "limits": {}
+    },
+    "487cf97f9e10b629": {
+        "origin": "WriterSecurityTest.php:24",
+        "bytes": 2578,
+        "sha256": "7efa27acd2cdcc8da833759845885bd7179f49dd814effb9a8ea74f175a9ad75",
+        "limits": {}
+    },
+    "4882b84ea76b8a46": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1594,
+        "sha256": "5adae81a128cb2f7d33279803a40f1c8dc6981680726fbb5425bbefdaf5fd718",
+        "limits": {}
+    },
+    "4887861ae86a20d7": {
+        "origin": "WatermarkTest.php:79",
+        "bytes": 706,
+        "sha256": "219a73d162e1a5791748c0161e7b2d1f8246f8621b54e6b728612ff557602280",
+        "limits": {}
+    },
+    "48cd374cde6152e8": {
+        "origin": "Export.php:145",
+        "bytes": 1938,
+        "sha256": "f2a3bee418fa78e5b5d3abec9904746e5c66884e4852b9186448fc5fe61dd663",
+        "limits": {}
+    },
+    "48d3aa6b3dc4f657": {
+        "origin": "TableSpanTest.php:37",
+        "bytes": 2096,
+        "sha256": "773a14cbba787603a6ad56767fc466f7ce14aedf3a0ada63a6e9831a9a022f77",
+        "limits": {}
+    },
+    "491225622a587d20": {
+        "origin": "Pest.php:85",
+        "bytes": 1965,
+        "sha256": "e9cca6d74be05dde91b98165ef0c18156e62ab35cb48352be1c4fd2d81581585",
+        "limits": {}
+    },
+    "49551b7d4f579dba": {
+        "origin": "Pest.php:72",
+        "bytes": 2031,
+        "sha256": "75daf7aea1cdc7147596b53838df00910115743fadd01c4a40a764df6483a6ec",
+        "limits": {}
+    },
+    "4994eb0c3dd3100b": {
+        "origin": "HostileInputTest.php:144",
+        "bytes": 6160615,
+        "sha256": "f5380b99716ef76f2d164100c5cca70325a180c9657edc7d58120604e41f287b",
+        "limits": {
+            "memoryBytes": 2097152
+        }
+    },
+    "49e1f26229243599": {
+        "origin": "HostileInputTest.php:370",
+        "bytes": 700,
+        "sha256": "fa697514435b9d6e8f7e028074d35ceaa9ab2eb3d081d7ca9a1269cdeece0656",
+        "limits": {}
+    },
+    "4a25260284bfa6be": {
+        "origin": "TextHostileTest.php:21",
+        "bytes": 51485,
+        "sha256": "c50afbdfb03e14ca12c23bd10367d4b3616887eba8bcf3dee06d96a37b6d9368",
+        "limits": {
+            "renderTimeSeconds": 5.0
+        }
+    },
+    "4a86140e25775afb": {
+        "origin": "ImageRenderTest.php:20",
+        "bytes": 803,
+        "sha256": "c7bd1d728584a4cd7476f93cf4df94a3161ba3a56bbd3f26a71e09218656a796",
+        "limits": {}
+    },
+    "4b0355a054c66e59": {
+        "origin": "ExportTest.php:42",
+        "bytes": 867,
+        "sha256": "0087071c99676ff218658cea9da05e8d95ee66de18d5cc3bed489535a62e1721",
+        "limits": {}
+    },
+    "4b03a81077bef2ac": {
+        "origin": "EncryptionTest.php:126",
+        "bytes": 1601,
+        "sha256": "1c24eeff93d8d3bcf8f4e10e952c892d4f7a54f3d4e771e9dd57b3db3131ae1f",
+        "limits": {}
+    },
+    "4b7467eac5ad3206": {
+        "origin": "AgentReadGuardTest.php:203",
+        "bytes": 843,
+        "sha256": "bf4a3850dfb9f4787202951f52dea3aaab8c4a0367402f2367444a40abca0937",
+        "limits": {}
+    },
+    "4ba3dd70d03d4e11": {
+        "origin": "PlainPerformanceTest.php:16",
+        "bytes": 1552,
+        "sha256": "85d5bc279770554d9ed5649d8c27e8436bd88b2830adb2c44b1fb9f3a0fbc144",
+        "limits": {
+            "maxRenderPixels": 484704
+        }
+    },
+    "4c11e35ed45c7429": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 584,
+        "sha256": "d48cb20b2cfc0232d4af23c0c4499e0c39f4f1c5bb622609e68895705fb1deb3",
+        "limits": {}
+    },
+    "4c146ff86d3c73d1": {
+        "origin": "EncryptionTest.php:69",
+        "bytes": 1818,
+        "sha256": "c4d5c4d9aede6bca742cf000816a62a48922421c1ac2e24ab6f32ce0b2bf2e52",
+        "limits": {}
+    },
+    "4c45a1d63c8a5b78": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1595,
+        "sha256": "042d6c9bc37a2cc75f7e49b21c4ab1c574af7b5fe4d18ef68cf1948a79d63a2b",
+        "limits": {}
+    },
+    "4cce0c127023e184": {
+        "origin": "AgentReadGuardTest.php:36",
+        "bytes": 738,
+        "sha256": "57c16e571fae395b7595d931bb7c2b1f873c84d648607fd9231c44be21a65515",
+        "limits": {}
+    },
+    "4e4bb1f3f7f9e16d": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1438,
+        "sha256": "6736d7202b7e14c431b79c14323a5759caee06fd09df05f368594b3b8f7ebf18",
+        "limits": {}
+    },
+    "4e5e459bf461324c": {
+        "origin": "ImageRenderTest.php:86",
+        "bytes": 808,
+        "sha256": "501620517d20d8206d042717930a86363171cefdfed366b3386611b53b5b0364",
+        "limits": {
+            "maxImagePixels": 100
+        }
+    },
+    "4ea2d412a48cd14c": {
+        "origin": "ActiveContentTest.php:19",
+        "bytes": 634,
+        "sha256": "3aba8483bba5ac265b4664f78483fc7495e6ddc05e7845026ae6fe9e8cc13869",
+        "limits": {}
+    },
+    "4f4d4cac0412d091": {
+        "origin": "TableSpanTest.php:37",
+        "bytes": 2089,
+        "sha256": "b5d7b08bd6dff163bfa0550c9d50725c773423b4e95757b7a719c3d29ad5af1e",
+        "limits": {}
+    },
+    "4f5ca06a37b566f4": {
+        "origin": "Pest.php:72",
+        "bytes": 2779,
+        "sha256": "22e6e956f4eee30ad0c009a27ffe1f7e92a44d213773f764f2477a74dd636451",
+        "limits": {}
+    },
+    "4f7daffd8f64141a": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1598,
+        "sha256": "1c2c0ad97a4d91aaa1a30bd4aa7327d9b8940829742c870ad35f89d5477cb7f1",
+        "limits": {}
+    },
+    "4fb0471e9d5d4a63": {
+        "origin": "Export.php:145",
+        "bytes": 2263,
+        "sha256": "4c90d2276dfb3c49a0dcd44d969477fed367592da6c8700938b190e1a84c15f1",
+        "limits": {}
+    },
+    "4fd43cad80c3ffb6": {
+        "origin": "Pest.php:72",
+        "bytes": 3991,
+        "sha256": "5e62cffb1415b8c94bf7174eb83f8cc2e69de1beeff3ab2680ccbab1ab384f7c",
+        "limits": {}
+    },
+    "4fecd7da9292519b": {
+        "origin": "Pest.php:85",
+        "bytes": 4173,
+        "sha256": "7d6036d704299b166a4e565014b88a245e82d9b1d83b6a76d69d76b29e22c084",
+        "limits": {}
+    },
+    "5086503ee2fbc562": {
+        "origin": "ImageRenderTest.php:94",
+        "bytes": 823,
+        "sha256": "3c73bec47456f7aba0de436d9c75ef6ba722db30ef5a75beb51f5408e2b037c8",
+        "limits": {}
+    },
+    "5110382ad53df62a": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1426,
+        "sha256": "fc9f006242797376c0f160b15ae34231ad04e9998395dab879651e3e93f2bcfd",
+        "limits": {}
+    },
+    "5116097469d4b883": {
+        "origin": "WordsTest.php:244",
+        "bytes": 2030,
+        "sha256": "a49e4a6fed166747552f2e95ef934c859756bfe0371381025d72c3c23520a5d5",
+        "limits": {}
+    },
+    "5192a3e665ade495": {
+        "origin": "Pest.php:72",
+        "bytes": 2086,
+        "sha256": "3cb09a613d627754a51c90552af5fd3b44ffc4452a206457bc4cddb7504342e9",
+        "limits": {}
+    },
+    "51b3607905c7a533": {
+        "origin": "WriterSecurityTest.php:24",
+        "bytes": 6415,
+        "sha256": "6aa3ca4ce5eeddc27b9f5f22908ad2fadf00596488527dbcafab3162d66b97d3",
+        "limits": {}
+    },
+    "51d373bddb54149e": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "1e51e6279f435a0fdedda37fbcf601790c21342edd7451ae41a2e42c7648011f",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "51d8aa890bfbabba": {
+        "origin": "WordsTest.php:166",
+        "bytes": 2084,
+        "sha256": "f8903cec76524fb6873ff91c434f35fa986436fac9efee06623283f7382c70e9",
+        "limits": {}
+    },
+    "51ddfd43f68fae46": {
+        "origin": "Pest.php:72",
+        "bytes": 1944,
+        "sha256": "11da90c4f4b443679c21c556b080cc91243dec97c64d8e71382353e3496e51e8",
+        "limits": {}
+    },
+    "520cbe22b725d4d4": {
+        "origin": "Pest.php:72",
+        "bytes": 3267,
+        "sha256": "38394ccbe6ab9b76b421f2cac80fa50d499571a846f6262567264fc7856793e1",
+        "limits": {}
+    },
+    "522aa0b087952443": {
+        "origin": "AgentReadGuardTest.php:132",
+        "bytes": 719,
+        "sha256": "9ff38bb59e9c7f7236ede6e84457af71d4802a2fa6ca6f6b20997d07dc8a51f7",
+        "limits": {}
+    },
+    "528fdaa439fdf348": {
+        "origin": "TextExtractionTest.php:25",
+        "bytes": 656,
+        "sha256": "a30ae798603332f30306913a84e8a8f5503f6c1fe9dd141c956411ee6fdf0f37",
+        "limits": {}
+    },
+    "5290f207eb0ea603": {
+        "origin": "TextHostileTest.php:21",
+        "bytes": 1475,
+        "sha256": "6f484043753c1b9f812a15ec79cecfa09983184692dcf3378d90c6da75e49a42",
+        "limits": {
+            "renderTimeSeconds": 5.0
+        }
+    },
+    "52ae6a0bf7727ed6": {
+        "origin": "Pest.php:85",
+        "bytes": 3062,
+        "sha256": "02b7cf79c811afb01b26d147e4fdef96af9ecdd27cc48324b8f656f9da10505a",
+        "limits": {}
+    },
+    "534f3b511e320f96": {
+        "origin": "Export.php:145",
+        "bytes": 2012,
+        "sha256": "07cb31d245c360f5c7bc8d8eb61a4718cc9228ca78965333381679dd154c17f1",
+        "limits": {}
+    },
+    "536e6a1177a482a3": {
+        "origin": "BlockBandsTest.php:57",
+        "bytes": 2383,
+        "sha256": "a044ff4052eae4bb08dee291bdec6bf07a94d9c1b87b137bbd6c1625ca1645b3",
+        "limits": {}
+    },
+    "536f9f4ad0e526fb": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1542,
+        "sha256": "9bc3e68e41ccb733dc90155eb21dd094b0a51e60e28326f9689b4925255ee9f1",
+        "limits": {}
+    },
+    "537ed10462096fad": {
+        "origin": "HostileInputTest.php:211",
+        "bytes": 7909,
+        "sha256": "3e879a6fc9f7458021404df7f1a7de20d8c54c6f3d731d5f96bd20286cc5c218",
+        "limits": {}
+    },
+    "54398036333ebc16": {
+        "origin": "HostileInputTest.php:322",
+        "bytes": 847,
+        "sha256": "017011a714f3959d024c4627055a9ce241d647ebea227ab53121f839bce56146",
+        "limits": {}
+    },
+    "544a6dcce44167b4": {
+        "origin": "Export.php:145",
+        "bytes": 1974,
+        "sha256": "8df5a5cdc90d32bf014a93afbd6ddca12d5cdd5ffafcd6d4804320c5d18c53a3",
+        "limits": {}
+    },
+    "54c082bcbbeda6af": {
+        "origin": "PlainPerformanceTest.php:82",
+        "bytes": 705,
+        "sha256": "f552e84d0d169bf28ad0921b4ebf0b7bdad0dbb95f2c9ef0e39b8e4c719f5087",
+        "limits": {}
+    },
+    "54c0d30b0d40c8ce": {
+        "origin": "AgentReadGuardTest.php:86",
+        "bytes": 664,
+        "sha256": "cd63c3a8a5dc1ed937cf4b5a3dee0f68b97c168cf5370bf2cd8b23e565f47137",
+        "limits": {}
+    },
+    "54ded4bf47d2bc50": {
+        "origin": "AgentTest.php:27",
+        "bytes": 618,
+        "sha256": "3ba914571e29cf98698bc46a34bbb27679a3044e764a6105952b78adab3f61db",
+        "limits": {}
+    },
+    "5549b58e5e19650c": {
+        "origin": "agent-read-child.php:23",
+        "bytes": 150384,
+        "sha256": "b13fe32b5ca5139a88209325938b39e19d4076ce1665db982c50265ce380b3a3",
+        "limits": {}
+    },
+    "55ad116f88128b05": {
+        "origin": "DocumentTest.php:23",
+        "bytes": 608,
+        "sha256": "a07aca9e13e5796081c089fd79b014046d06af985b7d2d8f1b1e018daadd3ea7",
+        "limits": {}
+    },
+    "55e5f030cf244de5": {
+        "origin": "WatermarkTest.php:15",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "timeSeconds": 29.9998454
+        }
+    },
+    "566b692b310c9167": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1636,
+        "sha256": "3ff79b4744b890b34948cb7a4393c2c452e5aafccee13abe2b4d8a75f35ef32a",
+        "limits": {}
+    },
+    "56d54f5441129ea0": {
+        "origin": "Pest.php:72",
+        "bytes": 7439,
+        "sha256": "58608b51c6628e0654833d852eeb4655ecbfb868262d60342e050dc0a5c90769",
+        "limits": {}
+    },
+    "56f3be6289536e8a": {
+        "origin": "PlainPerformanceTest.php:90",
+        "bytes": 665,
+        "sha256": "072d4a6596a36f7729c630aefb6dc91559fbdca28d90868f1a68023fc79c00a9",
+        "limits": {
+            "maxOperators": 20
+        }
+    },
+    "574ab317f173a1ea": {
+        "origin": "TextHostileTest.php:21",
+        "bytes": 18239,
+        "sha256": "1ac0f7004e42bdd3d426c1d413e7eb6f7e56b5b1e3e9bf120cace5d8a41a3aaf",
+        "limits": {
+            "renderTimeSeconds": 5.0
+        }
+    },
+    "58acdc8668913ebf": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1597,
+        "sha256": "1dcae7ca84a9e2ae3bdb3383a9a57d4f549afe1bc66fd8a9dd8de28352208f17",
+        "limits": {}
+    },
+    "58bb663cf6245a1c": {
+        "origin": "FootnoteTest.php:249",
+        "bytes": 2048,
+        "sha256": "6c2a0eaeca626c940b42bcf7d70e9cd0ce70041d3221f1257834ba4078fdfbf7",
+        "limits": {}
+    },
+    "58bd03dacb600ca8": {
+        "origin": "HostileInputTest.php:280",
+        "bytes": 753,
+        "sha256": "d777da5a2478c51feb1410048ca509c29ff07dab6a08f36e54bb1f397dd3000f",
+        "limits": {}
+    },
+    "5960f3270ae50a65": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2436,
+        "sha256": "462b3840b77df095ba6a12b9bf6eb0c51f106ab26f216518702cf4d35c93a1af",
+        "limits": {}
+    },
+    "5a0779a3699fa44a": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "e6f5be05d543453a64d861ba87b569ba3f466607c32d9d646068a4042c95dc95",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999789,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "5a078bf638e86ef3": {
+        "origin": "Pest.php:72",
+        "bytes": 3802,
+        "sha256": "36d519573163227fde7233c795527f9132a63b3337a7ee643c41a47c8bdb67ea",
+        "limits": {}
+    },
+    "5a34728ef74dad23": {
+        "origin": "WatermarkTest.php:26",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "timeSeconds": 29.9998483
+        }
+    },
+    "5a55c96f68d74121": {
+        "origin": "DecompressionRatioTest.php:133",
+        "bytes": 33534,
+        "sha256": "bb2ba6ddadfd7e9bad1580833399332fd93484851fda871c9492866a32d69a21",
+        "limits": {}
+    },
+    "5a831c4dcb5fda18": {
+        "origin": "Pest.php:72",
+        "bytes": 1988,
+        "sha256": "476d7a79c4ee6e4e5d80ead284f1bdcb3e3ee1100d35be26878b075f4cf74445",
+        "limits": {}
+    },
+    "5a956c31cd5b332c": {
+        "origin": "PlainPerformanceTest.php:16",
+        "bytes": 9324,
+        "sha256": "0e8c371f6177c036a94227af7096f4f748313a10e83b72b390b3f92545148bc6",
+        "limits": {
+            "maxRenderPixels": 484704
+        }
+    },
+    "5aab4b8101751476": {
+        "origin": "Export.php:145",
+        "bytes": 1976,
+        "sha256": "ef3f3bb3cbfd0f3ff48ea013e9adeb27eca89fc7a87faf19001d3406ab259618",
+        "limits": {}
+    },
+    "5aac8af06e5c849e": {
+        "origin": "BlockBandsTest.php:342",
+        "bytes": 2276,
+        "sha256": "d6f0a421b62def25265159cf91bb312ca7bb2123c0b0bbebbee0114530538508",
+        "limits": {}
+    },
+    "5b39e74f96589b9d": {
+        "origin": "ImageRenderTest.php:120",
+        "bytes": 1148,
+        "sha256": "8e631411ff272f463c5ac4011a100e3b630f36ba300c74b42c64473c08fefae7",
+        "limits": {}
+    },
+    "5b4abb248985a46c": {
+        "origin": "EncryptionTest.php:69",
+        "bytes": 1336,
+        "sha256": "47532702261407d8fc19fa891ca1081c8af54f1297a5a3a51184bd5f523cd669",
+        "limits": {}
+    },
+    "5b7d358a07b729a1": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1072,
+        "sha256": "a9a87c562e0f3c1804c673c8470cc0398bdc9b04c8cccd7d0ee7136034c108c0",
+        "limits": {}
+    },
+    "5bd51795d0a51c08": {
+        "origin": "WriterSecurityTest.php:24",
+        "bytes": 3925,
+        "sha256": "b2c19d370d1554a7a1dfff5d4ab9de4875627d44243bae0ee1140aaa7ec634f9",
+        "limits": {}
+    },
+    "5ce2619ee4763a0b": {
+        "origin": "KeepNextBlocksTest.php:109",
+        "bytes": 2731,
+        "sha256": "afa05e3ce41e997c7bbebcc22acc4a8ebe060aa991cdf6f173886242d57324d8",
+        "limits": {}
+    },
+    "5dae3ec2b5067190": {
+        "origin": "TintFunctionTest.php:23",
+        "bytes": 854,
+        "sha256": "ee2555c652017b4c06adb494f9b117450da9b2682ea5d5f4113f3bf1e8a08183",
+        "limits": {}
+    },
+    "5e29bea498fda9d5": {
+        "origin": "HostileInputTest.php:84",
+        "bytes": 1458306,
+        "sha256": "af1e11e1457a07d76244679dd4e5838beba286199d3ff913ac3cf289d8e6d677",
+        "limits": {
+            "maxStreamBytes": 1048576
+        }
+    },
+    "5eb31d48db887ad0": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1321,
+        "sha256": "1bd4f8534387fa0d48e797b1a889ca5c79a6229f0990976b271bafee8bc22c09",
+        "limits": {}
+    },
+    "5eb8fae565b3dc74": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1323,
+        "sha256": "5cdf2fe57c3caeb470448d75671580f1d009c6f613f62a29806acc23057977da",
+        "limits": {}
+    },
+    "5f27fe00305c8614": {
+        "origin": "MixedPagesTest.php:192",
+        "bytes": 2366,
+        "sha256": "c90f511298ea6c8bb497163e52295f7fd232e2d9b87a6a2e342d67c1deca4f3c",
+        "limits": {}
+    },
+    "5f59aa31db9804bb": {
+        "origin": "InlineImageRenderTest.php:35",
+        "bytes": 633,
+        "sha256": "0eb4ab1ec5fb8e7108c6a73c816c65b0b01b8f1d6191f13c9911da7149f5a711",
+        "limits": {}
+    },
+    "5f925f8ebf1f434f": {
+        "origin": "Pest.php:72",
+        "bytes": 3001,
+        "sha256": "cd4f3108f1f36baccdb43ac57159485ae50d5eb0554db2744d9e323b55528166",
+        "limits": {}
+    },
+    "5f9588fe571cd772": {
+        "origin": "RendererTest.php:19",
+        "bytes": 656,
+        "sha256": "25813b10050cdee0c8650c0f8ad48cfdb249d3562b4f27a31f0517d9e001778c",
+        "limits": {}
+    },
+    "5f97eb7fd7cddbf4": {
+        "origin": "EncryptionTest.php:117",
+        "bytes": 1569,
+        "sha256": "aacf779dd1149f209055012cc2cb8ad89bb9f05a883d33aadbf4415594dc2308",
+        "limits": {}
+    },
+    "5fded34e43baa621": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1793,
+        "sha256": "009ca0b7e1258e071ce9ecd36d854fc344585f6bb90a94bb4c24880dee3b6337",
+        "limits": {}
+    },
+    "5fe2429f18d11e5b": {
+        "origin": "Pest.php:72",
+        "bytes": 1979,
+        "sha256": "a883f8202a9264c7a187e4bfaeb26e6186ce03064b39feab3d36332cb0300c59",
+        "limits": {}
+    },
+    "600125c9057f9d33": {
+        "origin": "RendererTest.php:19",
+        "bytes": 595,
+        "sha256": "5b9a5848fc155fc5bf04d8c40580d1a9bd2b584e638c5c148a90144e5d05b536",
+        "limits": {}
+    },
+    "6055132a3e25c6ca": {
+        "origin": "WordsTest.php:148",
+        "bytes": 2053,
+        "sha256": "ab42ad2199f336f779da7d2c7fe3aa83974001c4fe3b6c10b00c3bb6baa0de81",
+        "limits": {}
+    },
+    "60bfba7b61781e61": {
+        "origin": "HostileInputTest.php:103",
+        "bytes": 10616,
+        "sha256": "f52dfdd54c86b28d208d7a9d382407102f27fe88f08d237d2aaea13b96765b1c",
+        "limits": {}
+    },
+    "6130ac79752e4073": {
+        "origin": "RendererTest.php:19",
+        "bytes": 678,
+        "sha256": "ca1575409e540f136e42d23bcc44dd2268beca6ae42f6e10b7cb77d5d7f27e0e",
+        "limits": {}
+    },
+    "6280a101806899c6": {
+        "origin": "Pest.php:72",
+        "bytes": 1942,
+        "sha256": "79d79fa18256ec6f3d63d8466c5f80b57cc73aac737d77a6a33adad2f6102ea0",
+        "limits": {}
+    },
+    "636defce693baa68": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "6bc1bfed823d9b943ca77b3744e7aa970a4548a8789e06baa97524ad36d38b74",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "63abd8eb23e53698": {
+        "origin": "RendererTest.php:19",
+        "bytes": 731,
+        "sha256": "5fb9293a089280236f4963424c24e2454fe1cb6259db4e7db4110d7e821c1a55",
+        "limits": {}
+    },
+    "6469de6dc4fe4faa": {
+        "origin": "TintFunctionTest.php:51",
+        "bytes": 814,
+        "sha256": "ce80dbb0e162f68349b5a70c13432fac7a7e1794c3180497e87e4dd04eb414ba",
+        "limits": {}
+    },
+    "6500d63887f797bb": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2304,
+        "sha256": "f284089f46646c95d5583661d17d04c2b557e04bf85cc08ed919d1afda3bd206",
+        "limits": {}
+    },
+    "6560e5844cfef80d": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1319,
+        "sha256": "4c2f24c47ed0ff63b26618bac2919ed65841370033b4b0e9691ae52667697bc7",
+        "limits": {}
+    },
+    "65b79268a6c4d8d9": {
+        "origin": "RenderHostileTest.php:67",
+        "bytes": 2335950,
+        "sha256": "31da789718ebc89cb12e4e89e2e14001f789df6bdc2129d875ffb7bd476a9723",
+        "limits": {
+            "maxOperators": 100000
+        }
+    },
+    "660fba297756626c": {
+        "origin": "ActiveContentTest.php:19",
+        "bytes": 709,
+        "sha256": "e069d3db3c3ba5c7d020d12c23d5c1499d5bc9bc289514eb5b790ffac8a8eb05",
+        "limits": {}
+    },
+    "665514f08c69cd2e": {
+        "origin": "JpegRenderTest.php:35",
+        "bytes": 1114,
+        "sha256": "0f2b0a7b9156e75f15aed9ff5aa6d5eeeebcdbfccec92817b6a83b177aedc487",
+        "limits": {}
+    },
+    "66c541554ecd5e0f": {
+        "origin": "ExtractTest.php:84",
+        "bytes": 1084,
+        "sha256": "767fa2ec0725e3003b66a08ef143120d12a59ae533bd93229fabd0c86889f473",
+        "limits": {}
+    },
+    "673d4fbd9176b662": {
+        "origin": "TextExtractionTest.php:51",
+        "bytes": 694,
+        "sha256": "665d0b4863e0217021958d38578420f6494f92ba34098750e554ecaaefe1e53b",
+        "limits": {}
+    },
+    "676783591026fda8": {
+        "origin": "Pest.php:72",
+        "bytes": 4092,
+        "sha256": "111d38cd0767402444bbfdcfac85644534b599e36dc972e2edf7523e88e22906",
+        "limits": {}
+    },
+    "6797855415e5b84f": {
+        "origin": "Pest.php:72",
+        "bytes": 1937,
+        "sha256": "4e7958211a6c0f2bcaf18fbfa6e1c00ede80fd481673bdb43867a85661a69282",
+        "limits": {}
+    },
+    "6833822b3bd864b9": {
+        "origin": "JpegRenderTest.php:21",
+        "bytes": 967,
+        "sha256": "d7c5862fdb3270e7dd481f57ceaf68e740cc61fbafda80d96b924d3d1dcbf46b",
+        "limits": {}
+    },
+    "687db5f167dfcf9f": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1593,
+        "sha256": "26f22b67ec1cbf91e378f7c202a7f8900de667a75fd0e3988756099643f229a4",
+        "limits": {}
+    },
+    "68d9365e3599d8a5": {
+        "origin": "TableSpanTest.php:37",
+        "bytes": 2098,
+        "sha256": "2955a3911ddfd1bc87c0261e6dae4a4ab2d1961fe550a4228802c0fa5df138a2",
+        "limits": {}
+    },
+    "6948bacd5306c3ba": {
+        "origin": "MetadataTest.php:35",
+        "bytes": 614,
+        "sha256": "4c2c91238000d6b486f205ad8655e0e255da97ce448e0cd3d4e111db92b7b08a",
+        "limits": {}
+    },
+    "694ba5f56039a094": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 768,
+        "sha256": "9282addad5d8de3e2146c0c9c9696a03b3c6ba2dae43e7a58c5afd4725b14806",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9995439,
+            "memoryBytes": 268367800,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "69a32a0c274b379e": {
+        "origin": "AgentReadGuardTest.php:70",
+        "bytes": 640,
+        "sha256": "645984783d87e50bd1f21b4778c2523d9133887b4d3dc3dc20dce6cc307f7faa",
+        "limits": {}
+    },
+    "69a477dcfb389213": {
+        "origin": "RendererTest.php:19",
+        "bytes": 712,
+        "sha256": "5b56759f5e2038ce73c9a704576b2a25464dfb2cf982664bd72167f740c77dc3",
+        "limits": {}
+    },
+    "69b38e497498bf34": {
+        "origin": "Pest.php:72",
+        "bytes": 2348,
+        "sha256": "ed6b6802abb8bd6752317c75259689ddbb2bc7f3072d46f74fe710fce7410391",
+        "limits": {}
+    },
+    "69b6e2461432c086": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "09b18965f7adcef1cbf6e6e1b1833dc185c7a6f88e746e225903173f1566bdfb",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "69e02f81b2403576": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1591,
+        "sha256": "b6f25fd619eaa982374dadf0148730dbbfacc9904c8a4493b3704f0728a43043",
+        "limits": {}
+    },
+    "6b273d0b4e94827a": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1610,
+        "sha256": "071cd84daf05c00dffb5f03e5fc329104442d9406dea1d6dfa969f2dd99041da",
+        "limits": {}
+    },
+    "6bdd5781bc9efdc3": {
+        "origin": "Export.php:145",
+        "bytes": 3036,
+        "sha256": "dba7cd1438f3c0b8849ea4c58b0108ce23f3369787f41a7fd9be4a77cdc8d4a7",
+        "limits": {}
+    },
+    "6c1c7679b0f8e5ea": {
+        "origin": "Pest.php:72",
+        "bytes": 2829,
+        "sha256": "b31e8b2d4c10ea3de74637547903ed12a2f7da955ffbdeefd888454629c4d0b6",
+        "limits": {}
+    },
+    "6c3970c1f3424e39": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "87855c96efeddc3561657efd31f268ab4b9780717e74b5f3b3f6472405d55d83",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "6c64bcde7e68b67e": {
+        "origin": "RendererTest.php:19",
+        "bytes": 804,
+        "sha256": "066a79f9f3d17febad6ff3ce43269ae1fcdeae397d7de35a0e4015ca68f1b938",
+        "limits": {}
+    },
+    "6cf70200ec608af9": {
+        "origin": "TransparencyTest.php:30",
+        "bytes": 916,
+        "sha256": "2e111799e49c28707140493b7bb2ea7884ea4a022b0a288eef03ba4cd5a63ccd",
+        "limits": {}
+    },
+    "6d78c7309234a8b7": {
+        "origin": "text-helpers.php:105",
+        "bytes": 969,
+        "sha256": "63c522e388f68ca2d2e93ded065f8a885ec8c0798dd324a9974f857a7f2cc93a",
+        "limits": {}
+    },
+    "6d854e5f2c70fca3": {
+        "origin": "Pest.php:85",
+        "bytes": 1998,
+        "sha256": "fa65df376f554a81be5284da65276d58675886676b732c6ac781f6a65e6a4f54",
+        "limits": {}
+    },
+    "6d9de37f52020689": {
+        "origin": "ImageRenderTest.php:57",
+        "bytes": 819,
+        "sha256": "96be48750f890f47094d00b5e35434cf06c8a1df9e5a4af677cc6c35dd4ea55f",
+        "limits": {}
+    },
+    "6e739b7193f23f7c": {
+        "origin": "RenderHostileTest.php:143",
+        "bytes": 793,
+        "sha256": "da5b78e2c273cc616c1af6b34a6b6bf4c42fe5bbb08bf08f1376bef8ffb8fa08",
+        "limits": {}
+    },
+    "6e855b6110a804b1": {
+        "origin": "Pest.php:72",
+        "bytes": 1981,
+        "sha256": "e2144e06b69880d565253db5334fe1aeafac3e10e6161295a873ce0fa17da1da",
+        "limits": {}
+    },
+    "6e92956f160d3021": {
+        "origin": "ClipAlphaTest.php:118",
+        "bytes": 869,
+        "sha256": "0e94177b34c3be82c565989a1595f08ad582b9d2ed4ae70d57113a58ec80305b",
+        "limits": {}
+    },
+    "6e969178f4124f2d": {
+        "origin": "WatermarkTest.php:34",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "timeSeconds": 29.9998648
+        }
+    },
+    "6f342bbfd1aa8ec8": {
+        "origin": "WordsTest.php:309",
+        "bytes": 2256,
+        "sha256": "aa4cbc942efac74f89841c28d8b8f23ee69108eafb485633ee4095e32150e0be",
+        "limits": {}
+    },
+    "7056ee9686b9ceb6": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "afe314380e1bd44d9887617584b5ef78c03bdfb52af06b1f3ecac970986bb1d7",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "7133a89df0b6776b": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1655,
+        "sha256": "f98d29d6cbbb8086b4705fe7de51e9f52f445fd5ef0d3628dc17be4d0d7e48d4",
+        "limits": {}
+    },
+    "71993727755999c2": {
+        "origin": "AgentReadGuardTest.php:228",
+        "bytes": 1332,
+        "sha256": "7145420d8c8dbae80428e27be2523464041f1f211ab1a5a51cc4aac3772b37af",
+        "limits": {}
+    },
+    "71d440a3591a0e6b": {
+        "origin": "agent-read-child.php:23",
+        "bytes": 150071,
+        "sha256": "ab7ae0f54f22f1eb306b53cf188bc0223800540d67824abfd503758580c99ccf",
+        "limits": {}
+    },
+    "71e5343f0da5a688": {
+        "origin": "HostileInputTest.php:272",
+        "bytes": 1084,
+        "sha256": "fab70583482b398ca8318c11a38123d3682df9b52820af180c958cb6a2247d6c",
+        "limits": {}
+    },
+    "71e7ab88cae094a8": {
+        "origin": "Pest.php:72",
+        "bytes": 3263,
+        "sha256": "2aefa2ca8fb692b5c3856b52518a985a0d5d8c5d29ac9a24766c6df8e3697748",
+        "limits": {}
+    },
+    "726fc9368903c588": {
+        "origin": "ClipAlphaTest.php:35",
+        "bytes": 601,
+        "sha256": "f64630cc98e1f144b48fef76414e803fdea57688c95b2df405e9230556be0200",
+        "limits": {}
+    },
+    "73322f57e7a0833a": {
+        "origin": "ImageRenderTest.php:57",
+        "bytes": 914,
+        "sha256": "3480525f17a21c28e078e7f191ae3a0a91d58be224f6709e3e5a118db2bd1a64",
+        "limits": {}
+    },
+    "7390ed2161a5366c": {
+        "origin": "RendererTest.php:19",
+        "bytes": 628,
+        "sha256": "ce952c033f97eac0794ac0171120e1e8922095b4e0773df6fd768b3e4543cfd2",
+        "limits": {}
+    },
+    "73ce9a3e96d7b2d4": {
+        "origin": "PageDecorationTest.php:71",
+        "bytes": 2007,
+        "sha256": "972c04186c163dd422437389904ba6fd54c82e18ba89d4302a81e6f37fcec217",
+        "limits": {}
+    },
+    "748cd9f5d3fda8b0": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 590,
+        "sha256": "a275bd5495e4424bcff86c01f74f44e0023239b446a7210c318de7828a7c6cfe",
+        "limits": {}
+    },
+    "74935a27e0608eee": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1410,
+        "sha256": "c5f5e4a9a26c1b19f5a3fbaea1e6fc9be92e060393241c4ad15b91fc8666cb0b",
+        "limits": {}
+    },
+    "74f02b49e9f14e57": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2600,
+        "sha256": "88253d4dc4611342f65e47ff9495900b81211767f225954e7ffabe76033589ce",
+        "limits": {}
+    },
+    "752cc55a5bad52a1": {
+        "origin": "PlainPerformanceTest.php:16",
+        "bytes": 6520,
+        "sha256": "a42203272052f485daccac452dab1630c3da0c2b9045c5ddc3cc7a0ca0199d47",
+        "limits": {
+            "maxRenderPixels": 484704
+        }
+    },
+    "754c3bae2311e119": {
+        "origin": "RenderHostileTest.php:98",
+        "bytes": 37020,
+        "sha256": "0cc87d6ffea5d8e6c1fd86863f3701713ef84248788a491dbecd8440aa2dcd91",
+        "limits": {}
+    },
+    "763f8dfcc3d2bd14": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1438,
+        "sha256": "5ff30950b4d6619da757cbd790d35c1d1760979987b029d6f4769b39361e77da",
+        "limits": {}
+    },
+    "7640214cb239adb9": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1593,
+        "sha256": "dcea4c5e4f0d7804099a530fd0bcc4a980e809876a032d5ae62f459d95e64c6b",
+        "limits": {}
+    },
+    "76c7068b3cb2a1e2": {
+        "origin": "KeepNextBlocksTest.php:130",
+        "bytes": 2926,
+        "sha256": "f16e80616fbc37db12eb584c166e43a77e983d996ffe845217fa99740f4f722d",
+        "limits": {}
+    },
+    "76f66a1a5889e01a": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1430,
+        "sha256": "4aa831f865af2fd012fdb177c7f00281fa1145a0462e3093ba7400616494bc49",
+        "limits": {}
+    },
+    "773357d0ec14b1df": {
+        "origin": "agent-read-child.php:23",
+        "bytes": 490656,
+        "sha256": "3f368290c0ecadb3a1b92644cb74c85af5f179c629680a9b0f6439f2d5506fbc",
+        "limits": {}
+    },
+    "777aa0761add3b73": {
+        "origin": "TransparencyTest.php:221",
+        "bytes": 956,
+        "sha256": "0736be57dc79a6056596ee18c7810784f0840abe80b97dc70cb8bfecfe4515fc",
+        "limits": {}
+    },
+    "779484fb70ffc9b9": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 624,
+        "sha256": "e33f2d644e036ccba1f8571bcb0e7eefe6e50f55a0d4318986dccc08e4fb99eb",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999794,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "77be49903830d0b3": {
+        "origin": "PlainPerformanceTest.php:16",
+        "bytes": 3817,
+        "sha256": "5a87634182b038de2ca203253c17c59f7c16b5404c6fa7d8501ac6c3684f2809",
+        "limits": {
+            "maxRenderPixels": 484704
+        }
+    },
+    "77f2cf3bd84be22d": {
+        "origin": "AgentReadGuardTest.php:70",
+        "bytes": 670,
+        "sha256": "ef2a4ce1679169cf65f3168947b0255b3b4d30ff16faa1b5ba580f13279a517b",
+        "limits": {}
+    },
+    "78658d468a1b5fce": {
+        "origin": "AgentReadGuardTest.php:280",
+        "bytes": 631,
+        "sha256": "a59f8d0d30c48f049cfda18a372f9294803df7de09b5ae115db813e7fb3ff286",
+        "limits": {}
+    },
+    "78abd17d786dcc37": {
+        "origin": "EncryptionTest.php:186",
+        "bytes": 1076,
+        "sha256": "b959852209f33ca0fc57cd16c41dfb92b8c4078d34dd6fe4c8b079215c018e2b",
+        "limits": {}
+    },
+    "78baa86673e2529d": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "50f2872686a9560f3108243aefbb4bcf3d1eb71a46a33771ab7a44990460e0de",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "78df162cd05d4982": {
+        "origin": "TextRenderTest.php:494",
+        "bytes": 3046,
+        "sha256": "790d5b21c7a852a3ef2ae87cc865d84d6aa7dfe694c55b5f2c973879ba150621",
+        "limits": {}
+    },
+    "793b245554de001d": {
+        "origin": "Pest.php:85",
+        "bytes": 2288,
+        "sha256": "afa0ab7fd28a995b42ce8783e1c5bc22a66deb3427fc9af61132d58a913c5c5a",
+        "limits": {}
+    },
+    "7942d1263145dbe5": {
+        "origin": "Pest.php:72",
+        "bytes": 2674,
+        "sha256": "14b89fe4fecc1d40e78e612f619cc22cbaeb7906722d9b295debc795246b44e2",
+        "limits": {}
+    },
+    "79a688f9bc30a432": {
+        "origin": "DocumentTest.php:14",
+        "bytes": 1092,
+        "sha256": "7bb0ed68e4f58e6b8308b9e26ae68e221f2167f0bb7a23a789cd65e692787694",
+        "limits": {}
+    },
+    "79aec81bf0483eed": {
+        "origin": "Pest.php:72",
+        "bytes": 1981,
+        "sha256": "e106050b9b1bbb5133a2a5afaa4725404981fe309bd9ba842c13239b07855939",
+        "limits": {}
+    },
+    "79f1910bf83b8015": {
+        "origin": "WordsTest.php:124",
+        "bytes": 2039,
+        "sha256": "e632ecd54a850e558fbfa526cb35501166159cde600a229162949f38a3672a83",
+        "limits": {}
+    },
+    "79fe7e2eebd17081": {
+        "origin": "Pest.php:85",
+        "bytes": 2033,
+        "sha256": "176b1768c90182d8f5ff307bc3512cabeef77ade3342f1b2e5332cf483a3d062",
+        "limits": {}
+    },
+    "7a13daad5a0cfaaa": {
+        "origin": "EncryptionTest.php:69",
+        "bytes": 1570,
+        "sha256": "c9d747dae43232e85c299df598a99c5fbaa6cd1bab06bd52cefc7a4fee6f4dc3",
+        "limits": {}
+    },
+    "7a732a1aef3f13f8": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "3431b3cbc119276b5239ae79324763adfb515c01d7d78c255cd9f0982f7ff190",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "7a8f9bc1ed9aae96": {
+        "origin": "WatermarkTest.php:28",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "timeSeconds": 29.9998251
+        }
+    },
+    "7aa856966d6fc627": {
+        "origin": "EncryptionTest.php:69",
+        "bytes": 1337,
+        "sha256": "dea196efa21cd807e123c30a37e3ad19861dc83162e48aa6cddea4d35951e539",
+        "limits": {}
+    },
+    "7ab7d27c881e5fb7": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "75e38b9d6174960c2dd10da04eac29c6dad8192a08b42e9890cef4081d66d370",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999821,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "7b3bc38f48e1d535": {
+        "origin": "Pest.php:72",
+        "bytes": 2221,
+        "sha256": "b855df2eb0f440b0558f38d1ebd213042b3e142b8f4eea212f9cf2a1b7e28f20",
+        "limits": {}
+    },
+    "7b54fe6ca339f4ad": {
+        "origin": "RendererTest.php:425",
+        "bytes": 3137,
+        "sha256": "8b8afa36395e8bf6215fb13b50b1b8ce60fb4485d0005c6b0725169a7b58e0b8",
+        "limits": {}
+    },
+    "7b90f7c300db51ba": {
+        "origin": "TransparencyTest.php:146",
+        "bytes": 774,
+        "sha256": "aec6bda560fb1e2e15cb30ef5bd81e2da8d6879e2dc95256b193f408304601b9",
+        "limits": {
+            "maxRenderPixels": 10200
+        }
+    },
+    "7d212fb23b40b6a1": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "e2fc9f6ebbb4cc06a03db5c2971b9646da362f3dd1e0cb0d00f6cc8341dc4c52",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "7d46123d544a9a40": {
+        "origin": "Export.php:145",
+        "bytes": 1971,
+        "sha256": "f15ee9e2189d1dce79e9e1940efe3659466d8dcdad401696fe1cee4345cd145e",
+        "limits": {}
+    },
+    "7d8c61adcd033061": {
+        "origin": "RendererTest.php:19",
+        "bytes": 644,
+        "sha256": "4770eb5f79e673482b0770c5200fe5aa451a97a9b8c3a75e3ccbdb04c22aaa9b",
+        "limits": {}
+    },
+    "7ddc413c5aea927e": {
+        "origin": "JpegRenderTest.php:60",
+        "bytes": 1163,
+        "sha256": "9aa295fef4ebb234fb4e25d6cfa755748160d23249712b31e14b9aee9dbbd3aa",
+        "limits": {}
+    },
+    "7dfc3bb1450c310d": {
+        "origin": "TransparencyTest.php:135",
+        "bytes": 1097,
+        "sha256": "ebfd52052ef7b83afa9c61f2e0c01a4e468b6ef42cc7be7fa4ed65447b68040f",
+        "limits": {}
+    },
+    "7ec87f2d93436f02": {
+        "origin": "Pest.php:85",
+        "bytes": 4486,
+        "sha256": "53c50e797eef0edff31dd1a7317d7b19ffb88be0e8e391941291a1f5d03abe5e",
+        "limits": {}
+    },
+    "7f2c4fc54a78f0ee": {
+        "origin": "ImageRenderTest.php:76",
+        "bytes": 794,
+        "sha256": "f4202fcf3b694e6830403c6a83c26bfe3bccbca33e464989ed6a91d7f96f474c",
+        "limits": {}
+    },
+    "7face523308d925c": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 952,
+        "sha256": "35e4f28a97518c21d1352dbdda1bf8a7e7d039c88a350e825a8dd335282944eb",
+        "limits": {}
+    },
+    "8052df797636ab8e": {
+        "origin": "Export.php:145",
+        "bytes": 1936,
+        "sha256": "d6c0c555e46c9d9df06e16ca4d8104b71f1ef6d45bc2ac7536835b1aff1b7898",
+        "limits": {}
+    },
+    "81e11614653127c0": {
+        "origin": "TransparencyTest.php:56",
+        "bytes": 837,
+        "sha256": "e9790cc8ab0bd687cb435b4216fb7db81af5313da31594c6806cf6f8ace36faa",
+        "limits": {}
+    },
+    "82ad0915edada148": {
+        "origin": "WordsTest.php:405",
+        "bytes": 302010,
+        "sha256": "249772b8424feb78b28f12b37f77bde4e3021b9b6d28c73e52b9c2149506365d",
+        "limits": {
+            "memoryBytes": 25165824
+        }
+    },
+    "833f6c52431e6ef4": {
+        "origin": "DecompressionRatioTest.php:133",
+        "bytes": 31944,
+        "sha256": "c6a6f22e7a7190d8e9b8cee350f790d4062383cae68aff2e911359ac6fd0fcc4",
+        "limits": {}
+    },
+    "83862285cc68be6f": {
+        "origin": "RendererTest.php:19",
+        "bytes": 640,
+        "sha256": "0024f26147e250c8901b5997b55af47337d3d76569f269662cba780247fbab53",
+        "limits": {}
+    },
+    "839cc72f9fd6f469": {
+        "origin": "ImageRenderTest.php:31",
+        "bytes": 797,
+        "sha256": "16962d4abfd1f015f55a1a7bf97dd9da875c7001ff585cf38b05be3a2aad548f",
+        "limits": {}
+    },
+    "83ae70c673989439": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1732,
+        "sha256": "84ac4cf0849f5135c09fd5e3e450ac8836d06760a9a8b45544cce9a425849d92",
+        "limits": {}
+    },
+    "840385339661877f": {
+        "origin": "TransparencyTest.php:72",
+        "bytes": 990,
+        "sha256": "e3794f071401232f76400278be956d5e2e416d6a8369cda11dd100afb3c23387",
+        "limits": {}
+    },
+    "840b1b2674130d5a": {
+        "origin": "DocumentTest.php:38",
+        "bytes": 585,
+        "sha256": "4f4f60f905243d7e6377dd5084c80f60c9162cd5b5ea9d2afd240d91d577f72c",
+        "limits": {}
+    },
+    "841978c40848f36e": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1593,
+        "sha256": "3589f5f103bb585cf826bbb0a5ac1ec0ac10b9a039656de1871d68ee98010c8c",
+        "limits": {}
+    },
+    "849729b818862a0c": {
+        "origin": "RendererTest.php:19",
+        "bytes": 650,
+        "sha256": "79e9bce037769803236840270b014d273bf6cc5fa5fce34d86c1be7402d7c365",
+        "limits": {}
+    },
+    "84da3d12a302ae65": {
+        "origin": "Pest.php:72",
+        "bytes": 4826,
+        "sha256": "31dd18b469281eb886a9d54f25bee46ee8ed0ced69980ea9006ea0ced61c802b",
+        "limits": {}
+    },
+    "851b69bc78377505": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1591,
+        "sha256": "23be20492ce01a5b6291fdb0a901f9da48aeae0d2efeb2b444918f7940c633e5",
+        "limits": {}
+    },
+    "8616bc27809a830d": {
+        "origin": "MixedPagesTest.php:201",
+        "bytes": 2323,
+        "sha256": "5f41097967cc9a2dd2d79a697bfd0bda4a2e6fe91254d7560014a38d51f01422",
+        "limits": {}
+    },
+    "864b58674b1a3989": {
+        "origin": "RasterCacheTest.php:12",
+        "bytes": 616,
+        "sha256": "76873c9a4a24c6049d1df2a7fbdc6c1f8e8f79e34531587ff74f5f7284eb4e98",
+        "limits": {}
+    },
+    "86b6ed4927ba55f7": {
+        "origin": "Pest.php:72",
+        "bytes": 3007,
+        "sha256": "29762d869ec3ee2c2290409a251c4914d8970b17922de585faa84f216c644af9",
+        "limits": {}
+    },
+    "873fa9b42a5c9bf2": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 597,
+        "sha256": "a8538f686704ea1f548bacccde0ba5fd996a0ccee0e2998d414655a2f2cec866",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999845,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "876791f64129cba0": {
+        "origin": "RendererTest.php:19",
+        "bytes": 637,
+        "sha256": "d73f4a4bdbfed4cf14cfd568857dbd1d2e90f1ad5983a61f40b6d2f558c20358",
+        "limits": {}
+    },
+    "87998ad1a4ab9e64": {
+        "origin": "RendererTest.php:19",
+        "bytes": 606,
+        "sha256": "5d77b89c8d516073b8fc2150e7d03227e11c56cd6a8c71bf3d198d26c2fbf4c4",
+        "limits": {}
+    },
+    "87aea762ff2b3071": {
+        "origin": "TransparencyTest.php:56",
+        "bytes": 833,
+        "sha256": "ac8af9cda21955420b5d8a014c193dc0dfd8cb0e57a76a2ac9b785ee229c5d3a",
+        "limits": {}
+    },
+    "883b05597076dbe5": {
+        "origin": "TextHostileTest.php:138",
+        "bytes": 808,
+        "sha256": "d81f722d9c12f420ee5b1da2a854cf81140c962f3966f5ae4f4df6d47c5e51ee",
+        "limits": {}
+    },
+    "884cdde551c16a4e": {
+        "origin": "RendererTest.php:19",
+        "bytes": 622,
+        "sha256": "80d77904464400201749eeaaa812417602a8053cce0565252b4234d0a81c69b8",
+        "limits": {}
+    },
+    "88a36c71c92bc1d5": {
+        "origin": "JpegRenderTest.php:35",
+        "bytes": 1116,
+        "sha256": "d0e7d7099dd8e8f90cb87ac42f4bd0befc7fd44710a5f99f04cd08bf7776b107",
+        "limits": {}
+    },
+    "88f68d3a90f338ba": {
+        "origin": "JpegRenderTest.php:145",
+        "bytes": 1112,
+        "sha256": "bad52afe6ae537aca8988d0a1710005b2f70d0d9631634fff6a8a815e54609bb",
+        "limits": {}
+    },
+    "89079175adf005ec": {
+        "origin": "AgentReadGuardTest.php:70",
+        "bytes": 658,
+        "sha256": "7b37d389481b30ce90461c4cff3e150b291a527c33467d002a423603bb037be6",
+        "limits": {}
+    },
+    "8987e339ee1dc60a": {
+        "origin": "HostileInputTest.php:284",
+        "bytes": 38,
+        "sha256": "91b23d4c2266871df0d76d8f628230f691a7f0bd9d9ae8d6d1ac2276119d9274",
+        "limits": {}
+    },
+    "89ae286ceb33ec62": {
+        "origin": "InlineImageRenderTest.php:35",
+        "bytes": 632,
+        "sha256": "bce5f8e4cf919dbbce4bfa2360f1bfc1a1b98bbbe2e1ed313fabdac5a562c017",
+        "limits": {}
+    },
+    "8a16b11b04b5b53a": {
+        "origin": "AgentReadGuardTest.php:86",
+        "bytes": 675,
+        "sha256": "2ae783eb8628cc1020f075c7f3438bcba02022e5408a45b3c9a2e8478b0c788e",
+        "limits": {}
+    },
+    "8a361b6d3c12db92": {
+        "origin": "WriterSecurityTest.php:24",
+        "bytes": 3506,
+        "sha256": "2d3d37c91d339cd1be9bd682b89c5c88c5e5f527256aa9365d018482e2aa5c71",
+        "limits": {}
+    },
+    "8a44dc7950af88fc": {
+        "origin": "ActiveContentTest.php:19",
+        "bytes": 664,
+        "sha256": "51300e4d3d2736950b22677e046a1c335e62688a0be67aa819cb5dcc2b1c3bf5",
+        "limits": {}
+    },
+    "8a712e6eafd4fd20": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 958,
+        "sha256": "9d0966716aa499cba7b13525df81fb8497c11230ccf6a2307736697c45b386fb",
+        "limits": {}
+    },
+    "8ac73e1e8e50e405": {
+        "origin": "WordsTest.php:225",
+        "bytes": 2217,
+        "sha256": "ca250b7360317b6fa7fb44e74570be588f0a32fa0a75e77fe24435a1d8ad0d03",
+        "limits": {}
+    },
+    "8b039d4074edbe36": {
+        "origin": "RenderHostileTest.php:151",
+        "bytes": 4800597,
+        "sha256": "d5e9c3794890719d12749ca70bf4e0c1070943507cdf3eedfdc25e788654ff86",
+        "limits": {
+            "renderTimeSeconds": 5.0
+        }
+    },
+    "8bb1abaabe9cc282": {
+        "origin": "ImageRenderTest.php:105",
+        "bytes": 955,
+        "sha256": "4225b2dd3cda9265b4fbb071de2e107a79d5813e022c6f6fb397d171ebb14827",
+        "limits": {}
+    },
+    "8c7224efe8b49d7d": {
+        "origin": "AgentReadGuardTest.php:70",
+        "bytes": 659,
+        "sha256": "846b95b744daa08ca3e3ea668bcb0c4055b14f48f2a8c99a35e68e5878a39a95",
+        "limits": {}
+    },
+    "8c92ac38056aa7c3": {
+        "origin": "AgentReadGuardTest.php:123",
+        "bytes": 675,
+        "sha256": "f3e7f534d723491eedaa5c6217e3e1f3c5e070ce4d19e8e3f00675853e509fa2",
+        "limits": {}
+    },
+    "8c9e27a328fe1152": {
+        "origin": "KeepNextBlocksTest.php:109",
+        "bytes": 2744,
+        "sha256": "025b9a755fe70809da49c1771f4a0550ea39fe5aef541d51fe8e5d34db695277",
+        "limits": {}
+    },
+    "8cb556f521984b18": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 753,
+        "sha256": "56b25434b9664c31bb2ecd559f15f94b582de224528e7e7f1c0a1b9962112a87",
+        "limits": {}
+    },
+    "8cb6c48fa75de13f": {
+        "origin": "RendererTest.php:19",
+        "bytes": 608,
+        "sha256": "168efb8521abd9f1225a5074dcf8a183e61b9e633713ae9ae01800590156272b",
+        "limits": {}
+    },
+    "8cbf4953f2cc9d30": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1638,
+        "sha256": "9517e29d3e88cc72763cdf056c8deb0bf30805cd87f86d5fae76b449747e1df6",
+        "limits": {}
+    },
+    "8ceb02dd3fcba95b": {
+        "origin": "text-helpers.php:105",
+        "bytes": 717,
+        "sha256": "9bc335639f9f20d5386099bf5850816a01169fa82aee949aaec79ac8e2d59381",
+        "limits": {}
+    },
+    "8d353fc882025257": {
+        "origin": "JpegRenderTest.php:111",
+        "bytes": 1178,
+        "sha256": "f0f71254a50d10db21c3e6830795b08c1e25f2b10092079ac65a0872224217f6",
+        "limits": {}
+    },
+    "8db7e1b79e726448": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1096,
+        "sha256": "3748c53a125f85be43e3c4d0b813f9e30ab38ab5056616ca08f188cb535985b0",
+        "limits": {}
+    },
+    "8de88c3813039ab9": {
+        "origin": "Pest.php:85",
+        "bytes": 1987,
+        "sha256": "aee8231656f86bf884af2e78bc6473f297196e8c4f0eb501a5c2e1c1f7ac76d8",
+        "limits": {}
+    },
+    "8f22e3acf9294637": {
+        "origin": "TransparencyTest.php:78",
+        "bytes": 905,
+        "sha256": "9ae3d3f73cbbfcd6730fc32affabeb404c7275f3562a493a35d8e1224bccea5e",
+        "limits": {}
+    },
+    "8f69e2c028249e5d": {
+        "origin": "KeepNextBlocksTest.php:60",
+        "bytes": 3011,
+        "sha256": "8b1be1822baf788fa09b1bdce4ce7ee3239230863e18adeba1ea8a69f10f11b0",
+        "limits": {}
+    },
+    "8fa089d36a308719": {
+        "origin": "Pest.php:72",
+        "bytes": 2636,
+        "sha256": "8eab621c9f129245e1df89c141e4a77e8c7fffda9176514d74033b06e76e2d34",
+        "limits": {}
+    },
+    "8fd2f57a08e7bc16": {
+        "origin": "Pest.php:72",
+        "bytes": 3217,
+        "sha256": "c61f4d371d1ed5db9c03211a674b896ef0c2e15d5594e244fb423a7a43bb67b9",
+        "limits": {}
+    },
+    "90a4c3e665b48294": {
+        "origin": "JpegRenderTest.php:35",
+        "bytes": 1114,
+        "sha256": "48f663dc8b9b2eccb3c0fbf78c42c07a8a2709de2ae55ed96f55eab8fc67ec28",
+        "limits": {}
+    },
+    "91425bb8bf1e273b": {
+        "origin": "Pest.php:72",
+        "bytes": 2682,
+        "sha256": "059ca65a4a4c800e1a88436fd05f3662c8519065fb0d446a9395edbf7557910a",
+        "limits": {}
+    },
+    "915fde440f8fea20": {
+        "origin": "Pest.php:72",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {}
+    },
+    "91aae364b9952933": {
+        "origin": "WatermarkTest.php:66",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "timeSeconds": 29.99987
+        }
+    },
+    "9248cdc7ceb23b74": {
+        "origin": "render-memory-child.php:14",
+        "bytes": 601,
+        "sha256": "2b6f437c46c64515630b787e79724c6f4d34ffe0007c6453b0030b8dbf885654",
+        "limits": {}
+    },
+    "924a9a925f1487f3": {
+        "origin": "AgentReadGuardTest.php:70",
+        "bytes": 646,
+        "sha256": "a3bd32693ac36f35f83a1dbf6f053554570326185237cbc07447186948e0c1eb",
+        "limits": {}
+    },
+    "9288ccfe39c0fb75": {
+        "origin": "Pest.php:72",
+        "bytes": 2306,
+        "sha256": "af86753e78ac3189a5823a6527f08ff420876e708135c66e57b4def35a93321c",
+        "limits": {}
+    },
+    "93a4760d3ae0aabe": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "75e38b9d6174960c2dd10da04eac29c6dad8192a08b42e9890cef4081d66d370",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999807,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "93bb9ee822d7a0c8": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1434,
+        "sha256": "1d3ceb7d1bcd3e9830e62181ef671973a971fe07ed719b66af2b3f2303bacbcb",
+        "limits": {}
+    },
+    "94b7ba0a0dd37fda": {
+        "origin": "transparency-memory-child.php:59",
+        "bytes": 773,
+        "sha256": "b59a775b531575fcc7437e44bb5647c945a3ad0cbede5ea5e1421764b937222e",
+        "limits": {
+            "memoryBytes": 12582912
+        }
+    },
+    "94d89e039b167f1a": {
+        "origin": "transparency-memory-child.php:59",
+        "bytes": 827,
+        "sha256": "7d80d642ff009569e859b20241247ac68d318de15309a7d9ffeb8a3f8f413edd",
+        "limits": {}
+    },
+    "9502d2b42b195d44": {
+        "origin": "HostileInputTest.php:211",
+        "bytes": 21089,
+        "sha256": "f199f4ff264de500c36e458b5db4a29c657fe0f2f7757901547da5b9f8714526",
+        "limits": {}
+    },
+    "9532bbafb0697392": {
+        "origin": "Pest.php:72",
+        "bytes": 7714,
+        "sha256": "aa18fb98b920cb31c1ae0d020d4280c6611702a8ffc01a8b7b66d6824e1365d5",
+        "limits": {}
+    },
+    "9542608d0f0955a3": {
+        "origin": "Pest.php:72",
+        "bytes": 6306,
+        "sha256": "02bd8d7ed829667f6642c02612bc91a7e0e750d7cb2df89e98e0665984b4c435",
+        "limits": {}
+    },
+    "9614556645b14a9f": {
+        "origin": "InlineImageRenderTest.php:28",
+        "bytes": 653,
+        "sha256": "d193350b4d8d43e937f4946f126ab82c29fe0ad9685e726e79dfc09ef6406704",
+        "limits": {}
+    },
+    "9665afbd536c2756": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1418,
+        "sha256": "f45cdb02990e1a1cb07ccfc6105e15871b1f31c99b69aaade8bc8919af5728d5",
+        "limits": {}
+    },
+    "96b5010c2d755b5c": {
+        "origin": "JpegRenderTest.php:145",
+        "bytes": 1110,
+        "sha256": "c05ab19ecb26c73fda86f27822427b2e419cd5053a5081b96f8865095703cc0b",
+        "limits": {}
+    },
+    "973e6dd0ef57ccdf": {
+        "origin": "core-no-framework-child.php:24",
+        "bytes": 1978,
+        "sha256": "d312d7fb1d70a0cc96ba253d050267500ab5d222fec44c337585a4d0e527ad27",
+        "limits": {}
+    },
+    "97766019c33deb45": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1604,
+        "sha256": "53deb723685a952331bd34384826cf407c1c6576059d229d46266a6af0893d6b",
+        "limits": {}
+    },
+    "97837dbe9b2add43": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1605,
+        "sha256": "0516e9b1bfada2318697644468b6da98df174b7fdbdb690b4bc497514eb32fdc",
+        "limits": {}
+    },
+    "9797b853d5905c6e": {
+        "origin": "DecompressionRatioTest.php:184",
+        "bytes": 204457,
+        "sha256": "4142d2395257d036bed3571fe5937a26875d943b18ef7cc0661003eb8c369900",
+        "limits": {}
+    },
+    "97f2fad36ea17c4b": {
+        "origin": "TransparencyTest.php:146",
+        "bytes": 835,
+        "sha256": "7e5f7150d84775c03ca1a0b7ef5b43cdb0063236db416370016cf6aa20b2af3a",
+        "limits": {
+            "maxRenderPixels": 10200
+        }
+    },
+    "9805f6ccdbafdfea": {
+        "origin": "MixedReportAcceptanceTest.php:42",
+        "bytes": 103789,
+        "sha256": "a36e908dd6d111ef95d3480f401dac1eacfb79929f6af4c22958d0503c9db2da",
+        "limits": {}
+    },
+    "9836e058aac7da1d": {
+        "origin": "TransparencyTest.php:210",
+        "bytes": 1155,
+        "sha256": "cc8597208d9aff50a8b97e20b559fe2493e26e447f3f2a3f46d01882ebc30faa",
+        "limits": {}
+    },
+    "986dfbeee32e5fdd": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2335,
+        "sha256": "a4b3aaa6a8bdba4c109345b2c0b777f16645629275ba0c911c09b18c3bf9826d",
+        "limits": {}
+    },
+    "98ffc6247994e0f4": {
+        "origin": "HostileInputTest.php:68",
+        "bytes": 12014,
+        "sha256": "b7d8115471c1dff5aaadbece06fa0ee2079d57dd6eb0028796b58adc03b4048d",
+        "limits": {}
+    },
+    "991a17ce9792c355": {
+        "origin": "BlockBandsTest.php:144",
+        "bytes": 3090,
+        "sha256": "a43bd9e3b0d0e4fb0709023cb18868e6778799bb39d5026e3a342912736810f8",
+        "limits": {}
+    },
+    "99877af10d1b20f5": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1593,
+        "sha256": "82e50df01efc96f8450e740f0cc64f8cd86f8204abcf0a1a76423870cb65cc81",
+        "limits": {}
+    },
+    "99fb5666a8c67694": {
+        "origin": "transparency-memory-child.php:59",
+        "bytes": 773,
+        "sha256": "b59a775b531575fcc7437e44bb5647c945a3ad0cbede5ea5e1421764b937222e",
+        "limits": {}
+    },
+    "9a1e1f927b8703b5": {
+        "origin": "RendererTest.php:19",
+        "bytes": 620,
+        "sha256": "c7d6e8816e24d260d8a7d90520d7e9d0eefe63bfd42441cc0026b8c659fbf290",
+        "limits": {}
+    },
+    "9a7ae625015d2c60": {
+        "origin": "TransparencyTest.php:66",
+        "bytes": 907,
+        "sha256": "c6ba85263ef70cc75b8024763876521434512ce4a30bf9b702becc3f54f64cd4",
+        "limits": {}
+    },
+    "9aba9be8a22b15d9": {
+        "origin": "Pest.php:85",
+        "bytes": 2505,
+        "sha256": "850d45eb61ab724c4252485d570760698880063dad1d0affea9ae17749b7d6e9",
+        "limits": {}
+    },
+    "9b584c216b17c795": {
+        "origin": "PlainPerformanceTest.php:99",
+        "bytes": 809,
+        "sha256": "c866838c9fe95093c25e2ec67d936b9d2579ed0c3dd3a3ce96c2c5e83f72c7a1",
+        "limits": {}
+    },
+    "9bd546245de8e000": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 765,
+        "sha256": "99ecad8729c4ccded5fa1ee9a295bc5ca73899cbed370c453d879362351d7781",
+        "limits": {}
+    },
+    "9bf19af5d00c97e9": {
+        "origin": "text-helpers.php:105",
+        "bytes": 2082,
+        "sha256": "457b4ef314d7af3ba332c4f0537aff54953270c7dd10155018b10fe93d3311c1",
+        "limits": {}
+    },
+    "9c15859dd9049813": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1601,
+        "sha256": "7801a0b8d43c09c91c0e5e95318a9bfa5ec48dfa5e56d6ad4425e6f82676d25a",
+        "limits": {}
+    },
+    "9c264eec0df3d66b": {
+        "origin": "Pest.php:72",
+        "bytes": 2115,
+        "sha256": "b903a83b9a17236b24d12d2c0e976375b4a6e15f4b385b346a8373e012eb14a0",
+        "limits": {}
+    },
+    "9c757ccc2d856a85": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2454,
+        "sha256": "cd3f260cff0d5ba101bfa2133d1c11d9460f74d600770e85ea24d88909f98e26",
+        "limits": {}
+    },
+    "9d14e6df41e58ea3": {
+        "origin": "ImageRenderTest.php:128",
+        "bytes": 824,
+        "sha256": "bedcadaf0471bf3ec4974bca75192328a5703708f864e4bb170bd70b04121587",
+        "limits": {}
+    },
+    "9d5f5b294190267f": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1765,
+        "sha256": "09d9d06861fc2390cc523f2a8a4a90fdf47a173f635619a18908e262fd1ff4f4",
+        "limits": {}
+    },
+    "9daa804d0df8f987": {
+        "origin": "RenderHostileTest.php:43",
+        "bytes": 605,
+        "sha256": "0c2a8d2a18d05d72e98f259040314e79b9225f31001013be0c3cf04a366835fa",
+        "limits": {}
+    },
+    "9dc094491c90da2c": {
+        "origin": "Pest.php:85",
+        "bytes": 3103,
+        "sha256": "6374e63c5457d92bbad884e27f7a928cd022a86ea673572584796dcabf945efa",
+        "limits": {}
+    },
+    "9e7a6b6cd7a1ff1b": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "96d6699cd400614715182d5e6040e55d4a76b7c943e15a4e1c9b40f46c6b7b48",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "9f14dbf28ac72d54": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1629,
+        "sha256": "d16dcda9ef57d101ea5f0d3e37747e7660a285bf984f1890d30d39fee2bf2896",
+        "limits": {}
+    },
+    "9f25e09a7253e9c1": {
+        "origin": "AgentReadGuardTest.php:70",
+        "bytes": 653,
+        "sha256": "7186b10d504ce698cf6ad1c91980308943f0891e3001d0c67fd8b08b00c791fd",
+        "limits": {}
+    },
+    "9f6b8cbdf75907a7": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1599,
+        "sha256": "e76c0c77a1310bb0edfe61ce790a7ecf6a397d48f9be4fd1149276e32d74d3c6",
+        "limits": {}
+    },
+    "a03a5b20addb6a62": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 593,
+        "sha256": "b0e52af7a33234b3bef76ee2220b9037fbaf6148bf9e6e35017636875d0d658f",
+        "limits": {}
+    },
+    "a07f9f961f92faa6": {
+        "origin": "WordsTest.php:269",
+        "bytes": 3287,
+        "sha256": "75ef4f94bed176ca0244c7eb1a5771e066c1df18122ab90c10ba940637837fad",
+        "limits": {}
+    },
+    "a086468ac8d08dbc": {
+        "origin": "HostileInputTest.php:379",
+        "bytes": 559,
+        "sha256": "0384708a39c80ae4b6460e1bcf18e157bf9e7452ee586f620070ac69ce0c2d8f",
+        "limits": {}
+    },
+    "a0991caf7d3b209f": {
+        "origin": "WordsTest.php:396",
+        "bytes": 3628,
+        "sha256": "d7a94fa22e8582f2ca1b7efb90bbaecfed1a144592cc282d8b32b7086ce928ad",
+        "limits": {
+            "maxOperators": 100
+        }
+    },
+    "a0ef6f419b43a6f8": {
+        "origin": "PlainPerformanceTest.php:16",
+        "bytes": 2962,
+        "sha256": "eeb31d82603d982a9d5bde0a4df91454dde244f6304d85ce121f5f99bc283759",
+        "limits": {
+            "maxRenderPixels": 484704
+        }
+    },
+    "a152f0b009583621": {
+        "origin": "JpegRenderTest.php:72",
+        "bytes": 1146,
+        "sha256": "923dc8b65aaf24b90046be29bc3fa67ec8534b985a2f1afa4448f64746974ef3",
+        "limits": {}
+    },
+    "a15c2d4715560ead": {
+        "origin": "TintFunctionTest.php:51",
+        "bytes": 818,
+        "sha256": "5fd1d7630134cb7567a28c6e8525b1e94d9e05dddeb9fecd797b19e7baf83035",
+        "limits": {}
+    },
+    "a1a231e19439040b": {
+        "origin": "AgentReadGuardTest.php:70",
+        "bytes": 668,
+        "sha256": "0d75fa73035a2a9c13da7c9411ca8a82c95be0429b9437318d026771d1ae1002",
+        "limits": {}
+    },
+    "a26044b3c6c10784": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1582,
+        "sha256": "046c886b524a7c5fc805d7186e7979c7194c4751133344492c33990e9df6aeb8",
+        "limits": {}
+    },
+    "a3245152bb94cf81": {
+        "origin": "TextExtractionTest.php:37",
+        "bytes": 642,
+        "sha256": "2f969a1fbc4139ea1212f780756d0531a30ee718cd88d7797d298ae801386518",
+        "limits": {}
+    },
+    "a36dbf41dc680ba3": {
+        "origin": "HostileInputTest.php:352",
+        "bytes": 463,
+        "sha256": "dc2577b123fc71866550a96396d550f39c40d1b568a360b759c18f95f503cba1",
+        "limits": {}
+    },
+    "a3825cae3416ba35": {
+        "origin": "EncryptionTest.php:186",
+        "bytes": 1080,
+        "sha256": "67e958a54435bbe5eae6ff693c2e169171df8ec53811ee2986d93ce1849ef8bb",
+        "limits": {}
+    },
+    "a3e8b5928293e5e7": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1592,
+        "sha256": "071b7cced134a1bdec0257b77ac9952ef06cdd82e50690bca46a9c132e3b80ca",
+        "limits": {}
+    },
+    "a40cc2575fbfd18e": {
+        "origin": "Pest.php:72",
+        "bytes": 2683,
+        "sha256": "0b43a1f18ba50b75bd2101bac1c1e13d9a0335aae7e770578c61e64d6fd7a38f",
+        "limits": {}
+    },
+    "a45ae09dc581dcb6": {
+        "origin": "WordsTest.php:111",
+        "bytes": 2019,
+        "sha256": "7da132736955346c319cd34c5523f5272cc1a5567261ea783ee776e48729efc2",
+        "limits": {}
+    },
+    "a4cd7e01f1adb766": {
+        "origin": "Pest.php:72",
+        "bytes": 2882,
+        "sha256": "c80904e02f18b3daa396908d1ea346bf93159221f59734747d5dfa8bebafeef1",
+        "limits": {}
+    },
+    "a4d0c6a39a943c39": {
+        "origin": "Pest.php:85",
+        "bytes": 2780,
+        "sha256": "8b77d097fd3ebb64c7944fa3dc307e7f4379bebcbf148140f423552b250195b8",
+        "limits": {}
+    },
+    "a51029cf9678e3ef": {
+        "origin": "ClipAlphaTest.php:10",
+        "bytes": 625,
+        "sha256": "f0af4c6fb77221fd508009ae07876389b771b898e0d0788e027db2f4dd5ecb9f",
+        "limits": {}
+    },
+    "a577ab21c88f9b37": {
+        "origin": "EncryptionTest.php:144",
+        "bytes": 1495,
+        "sha256": "899e5ad41413cca7fa50cd03d4290ea9674c22f56565e25656d5be9d2ccbe0cc",
+        "limits": {}
+    },
+    "a5916eaa1923e3c2": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 1223,
+        "sha256": "409ede84de702c418de780200ebabfe43cbe642aea864eb95ad1e151ed1a4cff",
+        "limits": {}
+    },
+    "a625bec98ad1dbb4": {
+        "origin": "BlockBandsTest.php:126",
+        "bytes": 3088,
+        "sha256": "89afd9e15b30a940aa4d87c81b85f0956ebe4e80c677af5e3ed4406dfb4d9d99",
+        "limits": {}
+    },
+    "a662508646dee9a2": {
+        "origin": "TextHostileTest.php:128",
+        "bytes": 1794,
+        "sha256": "d99f51f12ef0e1fa165b927c3989b541f2ddd761d223d179e4d5368fc783e067",
+        "limits": {}
+    },
+    "a688a4a0009def58": {
+        "origin": "TransparencyTest.php:221",
+        "bytes": 657,
+        "sha256": "e1f3f0615d0a7044525bd6df6488ca53e2bae33922b32a67b375078ba46cc251",
+        "limits": {}
+    },
+    "a693e20cc8529ba4": {
+        "origin": "DocumentTest.php:33",
+        "bytes": 656,
+        "sha256": "8d94128866cb137ec9ea664723013e10c92c067d5a72fdf3316c9c8da9442435",
+        "limits": {}
+    },
+    "a6b9012e169a2aa4": {
+        "origin": "AgentReadGuardTest.php:151",
+        "bytes": 737,
+        "sha256": "1b765d3eeb390b228184cead1b0fcdb1159af6ee21fb7d1871d3bc6e7d139174",
+        "limits": {}
+    },
+    "a6b9dc51304ba567": {
+        "origin": "DocumentTest.php:54",
+        "bytes": 813,
+        "sha256": "bd52a5a14530904fdbdd0f42df2f7a7c0cb2c5b5f01f22eb98af5b0f6f955d46",
+        "limits": {}
+    },
+    "a6d2da2147883f95": {
+        "origin": "StandardFontsTest.php:102",
+        "bytes": 854,
+        "sha256": "4056827705d5a2752ab819ae945b7d5892f3a9c8d4cac6190c770b95aba3c6ab",
+        "limits": {}
+    },
+    "a6f4593a5f54efd4": {
+        "origin": "ClipAlphaTest.php:29",
+        "bytes": 640,
+        "sha256": "b07f72257e1b7555155f703c7cdc9b4872a8139501ecd62c695fb9e2893364a8",
+        "limits": {}
+    },
+    "a778bd2c05b6f585": {
+        "origin": "MixedPagesTest.php:166",
+        "bytes": 2192,
+        "sha256": "f43744d285604641a9aeaa1a258b9d14337017aa3efef8e4d672c6521fa3e44b",
+        "limits": {}
+    },
+    "a78cbfefdae9e323": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "bad8809c6f3823f496003249ae718a3d3ffd867a4c8aeec5e4a7b3299aee9e28",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "a8544bbe2d5d5b00": {
+        "origin": "TextExtractionTest.php:96",
+        "bytes": 880,
+        "sha256": "3cbd71785f84ff53b4c9375ccc091734389d30200d3bc5458ee3508c439ac80b",
+        "limits": {}
+    },
+    "a8c7a3ba36072489": {
+        "origin": "RendererTest.php:19",
+        "bytes": 928,
+        "sha256": "1a662a1bbfa4d8af912b63db1b59eb050deb19eb82670c3453df5b99656bad4f",
+        "limits": {}
+    },
+    "a9ce30cc1ff395e3": {
+        "origin": "EncryptionTest.php:100",
+        "bytes": 1323,
+        "sha256": "859b4fa12c94ec973c92a4e86dc3102c23b660b733375b9ff34736a060233821",
+        "limits": {}
+    },
+    "a9fbac49767bba6c": {
+        "origin": "TintFunctionTest.php:51",
+        "bytes": 820,
+        "sha256": "25fc2117046a8a8347dac6f41a41022c7d20e04fa349794ef1536fe54be429b5",
+        "limits": {}
+    },
+    "aa6f9bf589a63f16": {
+        "origin": "MixedPagesTest.php:102",
+        "bytes": 2245,
+        "sha256": "0272086d3602f612cfee8f751be8832983a5d3e45ba864460f792c0b26f50448",
+        "limits": {}
+    },
+    "aa893c0019d20450": {
+        "origin": "PlainPerformanceTest.php:16",
+        "bytes": 4195,
+        "sha256": "5eb857960dfcb677be28271742109d693fe15ea5af4b7e60fae0c86f9ae4146f",
+        "limits": {
+            "maxRenderPixels": 484704
+        }
+    },
+    "aaadd0c54a1172fa": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "286d2217ba90103354bb2c2a9d673899baa51af9af8767cd270724aedc5fff9d",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "ab4d43127ad606d8": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1434,
+        "sha256": "20cc720eac287aa906a31b31691837ea1756f44273cda4295ef13b4a10f7ce4f",
+        "limits": {}
+    },
+    "abfbfbada8328b60": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1612,
+        "sha256": "3a5cd1aacd183d5cde51a06c7e933d462f2eb11300f4f9067f611a06ea5ac823",
+        "limits": {}
+    },
+    "ac1551a564273df2": {
+        "origin": "TintFunctionTest.php:51",
+        "bytes": 822,
+        "sha256": "99665474e82b310d8c78d85182bbbf83f4995cd7b0cf3b7a28eac094076cd0c8",
+        "limits": {}
+    },
+    "ac45e6e4b07943a6": {
+        "origin": "AgentReadGuardTest.php:108",
+        "bytes": 716,
+        "sha256": "002d1f4c56665e374ddcf0e87356f01f33b95ce19a2f6e0ef737a1e54e351cc0",
+        "limits": {}
+    },
+    "ac7da984e50f58fc": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "6491dabbf502cd3a77dedc6cfce0b788a8d37c7bcf1eef6e286737c509caacbd",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "ad832e9ece23793c": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1594,
+        "sha256": "e3c1abd30a671d27742d8b55f6027cff863c405e9e7912495106e84c9cceed4e",
+        "limits": {}
+    },
+    "ad9f077780c9a558": {
+        "origin": "HostileInputTest.php:33",
+        "bytes": 24,
+        "sha256": "5df147810a9556d5ec33aaab132cd26278b7f2cfcbe150976cea4f0ce922b350",
+        "limits": {}
+    },
+    "adcaf9263fb6487b": {
+        "origin": "PlainPerformanceTest.php:99",
+        "bytes": 884,
+        "sha256": "67cd900e9ba3d8c42cb3fe2e1edced56950f715acb1d08781c52c93b84261e95",
+        "limits": {}
+    },
+    "af3b94266463e122": {
+        "origin": "AgentTest.php:35",
+        "bytes": 614,
+        "sha256": "4c2c91238000d6b486f205ad8655e0e255da97ce448e0cd3d4e111db92b7b08a",
+        "limits": {
+            "maxFileBytes": 10
+        }
+    },
+    "af96564f01da476e": {
+        "origin": "Pest.php:72",
+        "bytes": 2305,
+        "sha256": "ab82f46ccde4459778f29c9634542e1db07cdef92bdf1e01b35a478ae9db1eed",
+        "limits": {}
+    },
+    "afa321541cfa4f59": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 2334,
+        "sha256": "4669b6705054dbde272e96c78ddf713be285235530775facf5ea8787aef829bc",
+        "limits": {}
+    },
+    "afb77ea11a085646": {
+        "origin": "ExtractTest.php:94",
+        "bytes": 875,
+        "sha256": "8ec44508f20d200bf810207f981d251714494976432a4e916e7ef7b16549a6f6",
+        "limits": {}
+    },
+    "b006f64f7ef7bd73": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1601,
+        "sha256": "7f54c0c593af22be7bc850472997863d249f74fcd30bf8a5a113497ff823dcef",
+        "limits": {}
+    },
+    "b096211d43ab8ed3": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 583,
+        "sha256": "94eb30ab9c5588d7a3462e2a8e4c0404378d8bf64b3a46c2176de5ef61db353d",
+        "limits": {}
+    },
+    "b1487b7520c981e2": {
+        "origin": "RendererTest.php:19",
+        "bytes": 610,
+        "sha256": "c0859e4f4808cc66090409dc2faa0dc51b3d56728e9f32531440c5a17cb13f2d",
+        "limits": {}
+    },
+    "b2527b580cfa32a8": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1638,
+        "sha256": "5c5dcc52e32b4b42211a79e7366af37ecd3b8d4ecd2fd9eb3b7a9da425dbe60b",
+        "limits": {}
+    },
+    "b27244bba7c5b35f": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1514,
+        "sha256": "506312bd2a43d7835c3b7219219450d3c363056f2a6441d5a6f574287d1a2ef4",
+        "limits": {}
+    },
+    "b34f44c57357fcf4": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1604,
+        "sha256": "20fbbd7c252c438f200f6f37f40bacc1e9433fff1a5776c6d1c0ae0d59e6de72",
+        "limits": {}
+    },
+    "b3547e0601c1182f": {
+        "origin": "Pest.php:72",
+        "bytes": 2314,
+        "sha256": "0d490e7fa80b8c56450ab27afbc7215d077481d9ad8e1c80f025a6f9eaa668e1",
+        "limits": {}
+    },
+    "b3770c1c5f980965": {
+        "origin": "HostileInputTest.php:344",
+        "bytes": 629,
+        "sha256": "56cc04e93d35b2bc32faf1e4efc2f0c36ad61eadfc6b5da18e82652819974316",
+        "limits": {}
+    },
+    "b3c8c97ff7e5412c": {
+        "origin": "EncryptionTest.php:100",
+        "bytes": 1321,
+        "sha256": "10c6557860cb58e0cf951e2d82d0a2c6225c8747cc29bfeffe2898d736400d9d",
+        "limits": {}
+    },
+    "b3d90fec4c59b243": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 744,
+        "sha256": "2d785d0292dda5deaa16c26b43ab4432bb14b4fe83c30b73c28b1707677cbf81",
+        "limits": {}
+    },
+    "b3edaac8e3b78eaf": {
+        "origin": "ImageRenderTest.php:94",
+        "bytes": 812,
+        "sha256": "a4fd09c99ee13bbfbf315e19bac74b4a0678c149628f69d261f228bfc1ab5f27",
+        "limits": {}
+    },
+    "b432664c5cb28033": {
+        "origin": "RenderHostileTest.php:86",
+        "bytes": 2572,
+        "sha256": "5c1e6a3e9ab63dd8776c9f406f136227d12c74a5b6a7cd19a052996bdf956b9b",
+        "limits": {}
+    },
+    "b464f9f4733fcfbb": {
+        "origin": "PageDecorationTest.php:144",
+        "bytes": 1974,
+        "sha256": "467255d59f43db4bc08ae052c90454f2ba312b3ad6d2611bc56e7dc1f636410c",
+        "limits": {}
+    },
+    "b48811b530d723db": {
+        "origin": "ActiveContentTest.php:144",
+        "bytes": 642,
+        "sha256": "7922d942b3ec014465744ca4e360a8b1e63e0aa2177bae293bb26a69230ddc49",
+        "limits": {}
+    },
+    "b5eaef9a6b545808": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1611,
+        "sha256": "1dd11c1f18f9eeb27d6efbdae7c793a49f2869c87c4a00fcf218f387afa3a6f9",
+        "limits": {}
+    },
+    "b6139a9446c3dbb0": {
+        "origin": "ClipAlphaTest.php:50",
+        "bytes": 677,
+        "sha256": "6c270b4ae3debaa06fb7fd69a067549166e0d3087aaf138d25ea9874a3d0ecb0",
+        "limits": {}
+    },
+    "b6592488e43fdedb": {
+        "origin": "ImageRenderTest.php:31",
+        "bytes": 805,
+        "sha256": "b67e8f0d6e62c07797d2c71252dc0e898e8cf9f5b16e675d7997321f9a930013",
+        "limits": {}
+    },
+    "b69b1664ebf53a82": {
+        "origin": "Pest.php:85",
+        "bytes": 2431,
+        "sha256": "6aaa6871a6b1520725945e750c54d1baab53e10e05ade980c4e4b3fd6a06eed1",
+        "limits": {}
+    },
+    "b6c7cf6c0b340d4c": {
+        "origin": "InlineImageRenderTest.php:60",
+        "bytes": 1387,
+        "sha256": "fbe9dbe5e1d0fb9b109438122e4ef4ebdaa6eeda61778652c6e9c77ef9633bad",
+        "limits": {}
+    },
+    "b72b532afcc697b6": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "d1e98198dc496097c5234050d95ca1aeaef2f783f5d46be1c6d209b3393df40c",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "b75eb230e9c00108": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 8063,
+        "sha256": "a8e35448ec223531fbc15ba5fd9523b6a737796e18f22cf52efecd8f23d5d487",
+        "limits": {}
+    },
+    "b7aeb598f49bdc57": {
+        "origin": "TransparencyTest.php:190",
+        "bytes": 1140,
+        "sha256": "bb0d2fa0d7992eabaddef58d58433c5a4916e0ba81b62de69d276b1241a056b0",
+        "limits": {}
+    },
+    "b7b8ad773318eb37": {
+        "origin": "ClipAlphaTest.php:16",
+        "bytes": 629,
+        "sha256": "e4ae4bdc1ab1c8f93aa50c4c2cd9d662197ffcd36c5d09e2391df49af47c9b72",
+        "limits": {}
+    },
+    "b7e4969f389cc41c": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1722,
+        "sha256": "48dee1bfc5b0b06986f91416bcb820e787e55112db81a2690f833d22374ad772",
+        "limits": {}
+    },
+    "b845e5e7603fa0af": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "b9cba1d981d085289cd5f5fb7f63ea7465b80c20295bc82cf50c5765af4a5c57",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "b848501ff242c921": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "f6e1ce098e17b5869b10c03e29be8a5d4a8e7d65588b7291bc02dc97f719009e",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "b8d1d854962ee90c": {
+        "origin": "ClipAlphaTest.php:22",
+        "bytes": 672,
+        "sha256": "82225d2ebc21eba08b82876c8c1425e867c2eb5774a1cd6e625a4576f2551882",
+        "limits": {}
+    },
+    "b8fa485feded3473": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "34917f77c20439cc82011bd7a281d7f60ed6a1a644e2c5fb438e1c6a6e503ddb",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "bacc4fa9c87b0a3e": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "e6f5be05d543453a64d861ba87b569ba3f466607c32d9d646068a4042c95dc95",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999729,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "baf1b2684c1f5887": {
+        "origin": "ActiveContentTest.php:116",
+        "bytes": 772,
+        "sha256": "025f37ee1acd81a378881b94d4ce717a04a51ec63d7b6d1d4e183b93c541baf0",
+        "limits": {}
+    },
+    "bb1ff919992415af": {
+        "origin": "Pest.php:72",
+        "bytes": 2265,
+        "sha256": "8cc56ba61ff99735572a9420350e8fbdd9c322320d3d65e75de9861bd46b4b9a",
+        "limits": {}
+    },
+    "bb52e0b3634fe60e": {
+        "origin": "FontEmbedTest.php:25",
+        "bytes": 2259,
+        "sha256": "77f4291269885eb2537d31a4cc056dc348bdfcbc57f238fdd90fe9aea36ca79f",
+        "limits": {}
+    },
+    "bbbce65e607a7605": {
+        "origin": "TintFunctionTest.php:39",
+        "bytes": 847,
+        "sha256": "ee73c351b58628a1bc228753d91c6b586b8a946bdcca0ae9f11e20b36d77de72",
+        "limits": {}
+    },
+    "bc3432c940015cd2": {
+        "origin": "RendererTest.php:19",
+        "bytes": 632,
+        "sha256": "fbe9a70b0fecadeb17488b278f2b12f04f995e3461ddf619c296a668567ba5f3",
+        "limits": {}
+    },
+    "bca472df9b78f7f4": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "edad49d7d35c54a8e6db929a8e8f0e0197b59e66f71d796142bd101ba5b49832",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "bcb76481a12f1d44": {
+        "origin": "RenderHostileTest.php:54",
+        "bytes": 580,
+        "sha256": "3ace06cb79bf3ea94ff49e4be136ae177d8452eb02d37b01a8e6448800b5b0cb",
+        "limits": {
+            "maxRenderPixels": 100000
+        }
+    },
+    "bcbd3c6cd9f6ad4c": {
+        "origin": "Pest.php:72",
+        "bytes": 3199,
+        "sha256": "90b5a21c434bf0128a468192e102b6eecfc73783c0bc04326739c9f8162a59e8",
+        "limits": {}
+    },
+    "bcf474d91a5db82b": {
+        "origin": "Pest.php:72",
+        "bytes": 1942,
+        "sha256": "46516ecf3fe9b717154bba53099d2984e75629dcc20e70e4628d389fee3e8a53",
+        "limits": {}
+    },
+    "bd3e3517fb83543d": {
+        "origin": "JpegRenderTest.php:92",
+        "bytes": 1185,
+        "sha256": "af3ecf02b242f69f374bf3be9177abe9db8c94fa97a51844c88f35d6d3de22e3",
+        "limits": {}
+    },
+    "bdb3dcb2bf7b7d0a": {
+        "origin": "TextRenderTest.php:401",
+        "bytes": 617,
+        "sha256": "25e6aaec68c6e904ccec75f5940d1ff0fb09c779f9210aba8019e7c4a9c34348",
+        "limits": {}
+    },
+    "be2e0a3336af1900": {
+        "origin": "TextExtractionTest.php:31",
+        "bytes": 661,
+        "sha256": "b28ab331b0d5354cbc5541204457dd3f910865d296be6795ef809e068d4fa190",
+        "limits": {}
+    },
+    "be66cb0b11912b18": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "aeed96e58b59bf67f6b813e07ab01059441ea814d177a9eebfdef36170b765aa",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "bebf6564f2fda227": {
+        "origin": "Export.php:145",
+        "bytes": 3146,
+        "sha256": "10b821b07f1228d16f50e116f90da96e1a555b4fe1a0e33e9532df83dfadd8a0",
+        "limits": {}
+    },
+    "bed132c126872f99": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 588,
+        "sha256": "8bdc573c262c0ff6fbf2f498d082ee31fef73f01ff771eb4e8b1ead9d719a12d",
+        "limits": {}
+    },
+    "bf95a18e386463e3": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "78166a02bbb27bfb9f268f412667530d1552417c38b189d64fe03601e8d869d0",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "bfe8dd493232be30": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "e6f5be05d543453a64d861ba87b569ba3f466607c32d9d646068a4042c95dc95",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.999988,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "c0037a02a2c1f1a3": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "07588b0b4edebdf2a62733d470670b7d12f11f90f5588290d799b8a3b429ab42",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "c079fe96d91d4215": {
+        "origin": "TintFunctionTest.php:51",
+        "bytes": 815,
+        "sha256": "9d8fe864e5670dbfdcadb5ea42dfaa6ea4b77d50b74c849d71395105a6b4417f",
+        "limits": {}
+    },
+    "c10d37af1fe29a4e": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1572,
+        "sha256": "3b25d7cc05e39314e83ec5b086e845dd4412a6a45eb66b82c6773577e6d4a2f2",
+        "limits": {}
+    },
+    "c17622323c0c021b": {
+        "origin": "StandardFontsTest.php:90",
+        "bytes": 829,
+        "sha256": "68df6b542053398ea8a2f9ed00ef6c8531165ea7cd08bd6e3b4b1bfc109b974a",
+        "limits": {}
+    },
+    "c1eea5df3e2ec3fd": {
+        "origin": "ActiveContentTest.php:19",
+        "bytes": 736,
+        "sha256": "9868aa4312d4e20bb401be8fdfb2464993c128ae5849fae2d070f2d17a13e5f5",
+        "limits": {}
+    },
+    "c1faef073edf0d02": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "e6f5be05d543453a64d861ba87b569ba3f466607c32d9d646068a4042c95dc95",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999772,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "c23e387cc7784595": {
+        "origin": "StandardFontsTest.php:155",
+        "bytes": 588,
+        "sha256": "990a11462d4515e9f90569b53579744e52169e9aa1e24bb3e6e65f2d350f4cef",
+        "limits": {}
+    },
+    "c27323c839e37bc2": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9977054,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "c27da2d57bb4db89": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1591,
+        "sha256": "5694b684ab9efb844922ed2a2dcd25b167baa87a19a399c8e0039b832bb16c59",
+        "limits": {}
+    },
+    "c283e40b4460b2ba": {
+        "origin": "Export.php:145",
+        "bytes": 2032,
+        "sha256": "0133618f4be96a989f5050b50d07e7ff6552c34c7dc98d0472bae455bab42635",
+        "limits": {}
+    },
+    "c2be1895410b1079": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1604,
+        "sha256": "53affdfad8706d390e4f001c4058021b40cadc0645c5f1ac85a1b41a3f6f31c6",
+        "limits": {}
+    },
+    "c33cc9433c30c591": {
+        "origin": "TintFunctionTest.php:61",
+        "bytes": 831,
+        "sha256": "7944b4e9c7f4a6b0d0b5e833ae1146f5a0b5f60814d8bf2ebbc877a99849aa88",
+        "limits": {}
+    },
+    "c36c52edbcf1de85": {
+        "origin": "ExportTest.php:64",
+        "bytes": 7,
+        "sha256": "795b6904e54f82411df4b0e27a373a55eea3f9d66dac5a9bce1dd92f7b401da5",
+        "limits": {}
+    },
+    "c36c990bba619fdf": {
+        "origin": "ExtractTest.php:48",
+        "bytes": 616,
+        "sha256": "01d16fdc6a9fa23e581fe6cc3933d84aaf05c4c61d155b1f2c96ac9c23e08fde",
+        "limits": {}
+    },
+    "c396997789e4e49d": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1593,
+        "sha256": "70f295e44b8716095d0217a7074bf16d74b88a8da95509cad516558c726e2a7f",
+        "limits": {}
+    },
+    "c4b22f907faa6efc": {
+        "origin": "Pest.php:72",
+        "bytes": 2663,
+        "sha256": "21fe3eb92d37ece9afc424a4d5923049864925612f904e997e4f843149bcd6cf",
+        "limits": {}
+    },
+    "c56aac0617d351ed": {
+        "origin": "TransparencyTest.php:51",
+        "bytes": 708,
+        "sha256": "5ce3a1dcf6adee07f732b64738ad5afe3452402437b89a378822c9147b599215",
+        "limits": {}
+    },
+    "c5e26ed27f526036": {
+        "origin": "Pest.php:72",
+        "bytes": 3456,
+        "sha256": "89e874e30fa605a6d38fb9a4cdae29b1d0b48a4a1bdf127d946e0de4c9293174",
+        "limits": {}
+    },
+    "c5f7e27265e22a98": {
+        "origin": "ImagePredictorTest.php:56",
+        "bytes": 904,
+        "sha256": "a70f31b57b2985657746adf5493017efb197759e976530ba7dbd4d6164a08a45",
+        "limits": {}
+    },
+    "c614442f81ad4382": {
+        "origin": "TransparencyTest.php:30",
+        "bytes": 915,
+        "sha256": "9dd5a961901def5265b5607723ea262a980a7416b5d2ac29b7bda7ee897c3f73",
+        "limits": {}
+    },
+    "c64787db2d2926d2": {
+        "origin": "TransparencyTest.php:20",
+        "bytes": 638,
+        "sha256": "aee55963ca6dee174e3dcd026efc77684dc49cb11596172eb6e828430df2e2a7",
+        "limits": {}
+    },
+    "c6e982c1e00d99e6": {
+        "origin": "Export.php:145",
+        "bytes": 1965,
+        "sha256": "17f7f9e6e65493a903b2cac1451a2ef9f3dd2c1910604c1176417a5f71f3b6bb",
+        "limits": {}
+    },
+    "c749da574115241f": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1434,
+        "sha256": "687bbadcd75228acd31f4c48fefcb7bec84fbd30d700788ccf67352e501d317e",
+        "limits": {}
+    },
+    "c7d9d4ef8533e944": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "b4ddccc849ed6deeb9afc0d95af13f254af73acfcf3917ee6b3abb75cdef45e6",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "c8414f61be3d7168": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "a3c72cf9c4f6cea6e282d10c7c885049741f54a18d2c7adcd4cebef7c6a2052d",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "c85db788dbd075f3": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "0bafec64ba21f6522678c2b0857c130568cf0b084a2bc927f14c1d45450dbe85",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "c87a671b32c4bcf6": {
+        "origin": "RedactionNoticeTest.php:29",
+        "bytes": 988,
+        "sha256": "aa15894c65622b73fdc61f91230475bbe8d453091ee2122379e9f1149f773f1b",
+        "limits": {}
+    },
+    "c8f85a0d0a6dc265": {
+        "origin": "AgentReadGuardTest.php:96",
+        "bytes": 638,
+        "sha256": "5715bd40a2cc27573622e5a7d5f114ad608d3aa2c4ea1a484460f169492761a6",
+        "limits": {}
+    },
+    "c9ed14fcae9dc64f": {
+        "origin": "KeepNextBlocksTest.php:138",
+        "bytes": 2559,
+        "sha256": "ed39297c1ba9444310b68544231c225a220f8071f4f848b664cf763c6b8c34a0",
+        "limits": {}
+    },
+    "ca3d5157ce3b1812": {
+        "origin": "WriterSecurityTest.php:24",
+        "bytes": 1912,
+        "sha256": "1d6db6399a811cfb13373410f839af497837463ce36ac9060fc388ceabba2340",
+        "limits": {}
+    },
+    "caa467a3a17db9d7": {
+        "origin": "transparency-memory-child.php:18",
+        "bytes": 610,
+        "sha256": "c8e31b07a7fdecc9902cc9d43105fb7fc87068c47a8372b98e64973a66ce1652",
+        "limits": {}
+    },
+    "cb24c314b8780d88": {
+        "origin": "EncryptionTest.php:153",
+        "bytes": 1749,
+        "sha256": "e72f91371c881f25630104f6c9fa8da564155467eb9f4a1cce760dc52c4a46af",
+        "limits": {}
+    },
+    "cc15277592e74ddf": {
+        "origin": "TransparencyTest.php:180",
+        "bytes": 902,
+        "sha256": "eee7eace322ffb50e04b8c46cc96cbb8de0fd444e0593ab8b7d724965a789c45",
+        "limits": {}
+    },
+    "cc319b0a062f13ce": {
+        "origin": "EncryptionTest.php:110",
+        "bytes": 618,
+        "sha256": "abaac42453c4f89c4a20032459e08b83130b7857796d4314f89603cdc5a01218",
+        "limits": {}
+    },
+    "cc85502c56d34e58": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1319,
+        "sha256": "46e38ec6577580e420d7e01e7456ed733a88ee3938d09afa35c6b6966304a0af",
+        "limits": {}
+    },
+    "cc9033ef5a134f71": {
+        "origin": "JpegRenderTest.php:124",
+        "bytes": 13257,
+        "sha256": "24f92b9931fb7ae74844184b973cc738cabf32e57d6f126c68d50551e11805ba",
+        "limits": {
+            "renderTimeSeconds": 0.001
+        }
+    },
+    "cd4cde9f3ddf8bf8": {
+        "origin": "Pest.php:85",
+        "bytes": 3536,
+        "sha256": "d8c7ad7017406d2feccd116b54618a87f90c38fc0bca01ccbb13edcfcefcf5d7",
+        "limits": {}
+    },
+    "cd620408f10771a5": {
+        "origin": "Export.php:145",
+        "bytes": 2022,
+        "sha256": "0fca178f3d0f0b1847a221446b2b2a4ad69eb8d453501e2d799f31d580decd74",
+        "limits": {}
+    },
+    "cd88824f201a11a0": {
+        "origin": "WordsTest.php:179",
+        "bytes": 2040,
+        "sha256": "bda0a23cbb594616878ecc30392e6faca80163a33da1f8d4a2d82f8559118694",
+        "limits": {}
+    },
+    "cda215ef5b9402dc": {
+        "origin": "Pest.php:72",
+        "bytes": 2168,
+        "sha256": "b2ce1134cb9c19e1cae82bb56ca086d7a146b59155eb8bb46cff228cdabf58f8",
+        "limits": {}
+    },
+    "cdf4176c81a3a27b": {
+        "origin": "WriterSecurityTest.php:24",
+        "bytes": 1920,
+        "sha256": "a156fe97bce2c085725aefce4450e25193db0826e4169029e259dff880c7ef1f",
+        "limits": {}
+    },
+    "ce0c5a609bf8ee1f": {
+        "origin": "agent-read-child.php:23",
+        "bytes": 54346,
+        "sha256": "7c4941608843b9c14066d4a480084827fcbbdc585363e4a8dd9bb0271bdada72",
+        "limits": {}
+    },
+    "ce243358be358e6e": {
+        "origin": "Pest.php:72",
+        "bytes": 2710,
+        "sha256": "a4228b95500409c80d7e6ee1b3e53830d13ce8ec40c1b4841ddea468ce2388a4",
+        "limits": {}
+    },
+    "ce62517de1423737": {
+        "origin": "Pest.php:85",
+        "bytes": 3583,
+        "sha256": "e4e6cad41e853b3da9305522f119082d4f2e3042e39e6d1032d3d05824253554",
+        "limits": {}
+    },
+    "ce66da112a31379f": {
+        "origin": "ImageRenderTest.php:94",
+        "bytes": 810,
+        "sha256": "43b5bd6c78725fff0e9a355728d8cab87f4648ade96d77111a9737fe1330bdf6",
+        "limits": {}
+    },
+    "ceb1bbfd4f062af0": {
+        "origin": "HostileInputTest.php:333",
+        "bytes": 840,
+        "sha256": "4fe617c77c1501607d71979a6acb78ff626c4559d8518216eff3abfed17f3817",
+        "limits": {}
+    },
+    "cf24057e974b13ce": {
+        "origin": "Pest.php:72",
+        "bytes": 1936,
+        "sha256": "0277499a316b91b318491671768a849dca1439d391bf48713641cbbd608c2bea",
+        "limits": {}
+    },
+    "cf4eb3f22050a924": {
+        "origin": "HostileInputTest.php:260",
+        "bytes": 5076,
+        "sha256": "3b830ad13d1b6d716c4f7b976cc4550b63f28c81e25db0d5a6cfad9926f6cf43",
+        "limits": {
+            "ratioFloorBytes": 67108864,
+            "timeSeconds": 0.5
+        }
+    },
+    "cf9338828a8b9608": {
+        "origin": "HostileInputTest.php:95",
+        "bytes": 10622,
+        "sha256": "8c83c42078f819bc5f6b0e12e1a42c05be4f0e893fb6a07189a62e8bb2a97df2",
+        "limits": {}
+    },
+    "cfd2d3de3fc73f15": {
+        "origin": "TextExtractionTest.php:42",
+        "bytes": 678,
+        "sha256": "5b1ecb863dbbe9fc4491ae108bfbff7dea9a8dfe2fefd2fe67467ae11f8ab94d",
+        "limits": {}
+    },
+    "cfeaee4adafb038e": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 747,
+        "sha256": "dbbc287698eaf8a53b14582e9084fa8f2841787826175cf0c2894b42dbe80622",
+        "limits": {}
+    },
+    "d046e5e5b2f477c4": {
+        "origin": "DecompressionRatioTest.php:193",
+        "bytes": 61784,
+        "sha256": "1115fe2968ba4d3a62078b2a2d78e43579555d0a9069cd045e4ff44007995f7a",
+        "limits": {}
+    },
+    "d0600769527ca8f5": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 589,
+        "sha256": "59fc7837d09280cdc9b927e5352bc1ec503c84d1fdbfbe3bd9afd59befb480a0",
+        "limits": {}
+    },
+    "d074afff46de9fe1": {
+        "origin": "DecompressionRatioTest.php:193",
+        "bytes": 22526,
+        "sha256": "a69c41abe6f2a9b05ad55ccdcc9caad0e8dcee11c46eb8c2f8146b4aa438a8b4",
+        "limits": {}
+    },
+    "d080ae54b0af7dc6": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 2202,
+        "sha256": "1560fc3b18332e339082a5b3f7ab8974b3f67132387406d55098e63d24d00019",
+        "limits": {}
+    },
+    "d0cb410bc68001dc": {
+        "origin": "Pest.php:72",
+        "bytes": 3113,
+        "sha256": "fe23dd15ce8da41d5eca8d3ff6a4248ba5c6982516de4d377be8448419e27ab1",
+        "limits": {}
+    },
+    "d0dc70bb0bac5987": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "e6f5be05d543453a64d861ba87b569ba3f466607c32d9d646068a4042c95dc95",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999721,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "d17af9d6d603d1f7": {
+        "origin": "ActiveContentTest.php:19",
+        "bytes": 1043,
+        "sha256": "eb6209f91925b6a1bdd990e414f6ddbbf9cd9d985c4b646c0d359f7ca9392a24",
+        "limits": {}
+    },
+    "d1a0e437b29c9fdd": {
+        "origin": "InlineImageRenderTest.php:60",
+        "bytes": 1386,
+        "sha256": "ef5a32b03ea40087d74fe66e2b3d08b43a60dd5819d9692ceb95d1d825f0ce7b",
+        "limits": {}
+    },
+    "d1ab6c6f7fe07598": {
+        "origin": "WordsTest.php:257",
+        "bytes": 2021,
+        "sha256": "d9381aefa7cee1536c3847d3e9076cb3dd7d3b60adf79cdf1b8d9a535b26deeb",
+        "limits": {}
+    },
+    "d2c49dd4351b6c3f": {
+        "origin": "StandardFontsTest.php:43",
+        "bytes": 586,
+        "sha256": "a423974b4727da86fa1fb8afc857657cf27ebe3684a7e59510cef9b142404f50",
+        "limits": {}
+    },
+    "d2e8b7ae6d74034b": {
+        "origin": "Export.php:145",
+        "bytes": 1959,
+        "sha256": "a222394d13ed4b2a1a6bba96eac76334b034f00a956e2be05ae169cc31f8cc13",
+        "limits": {}
+    },
+    "d3815e202b5eac85": {
+        "origin": "RendererTest.php:19",
+        "bytes": 580,
+        "sha256": "944bb77c2554c2dcb4d1061f39e6484ff60f157a2fdba5ca1a9d8205624061ee",
+        "limits": {}
+    },
+    "d3f75351315e650e": {
+        "origin": "render-memory-child.php:14",
+        "bytes": 582,
+        "sha256": "1a867e77267bdbab902e4e51e3c53c6a9b6261b06b16c05e517d65c1b857d09c",
+        "limits": {
+            "memoryBytes": 25165824
+        }
+    },
+    "d42626a69422bc2f": {
+        "origin": "MetadataTest.php:63",
+        "bytes": 751,
+        "sha256": "cfe9670c6a20cbc237c74840e99dccfc8f99ecf93cf4266cfbce6a6d2106e22a",
+        "limits": {}
+    },
+    "d442c4e3c565ea98": {
+        "origin": "WordsTest.php:235",
+        "bytes": 2020,
+        "sha256": "a79d89ef98eeaac3f9127861433a242ba91d67fbd0da2667729ffaa5282ba68d",
+        "limits": {}
+    },
+    "d4ac19c934a97a6c": {
+        "origin": "ImageRenderTest.php:67",
+        "bytes": 798,
+        "sha256": "9c2a0da78db510290512fe6abf8556f04858c32d3c56f5d6861ee88ece952d0b",
+        "limits": {}
+    },
+    "d4c381a9882aaea7": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 747,
+        "sha256": "4557abae544814a58f7fe98213f9203b5d7e503bc12fa0b73f8b807ef233f2b6",
+        "limits": {}
+    },
+    "d4db212bbd9d79a6": {
+        "origin": "ExtractTest.php:78",
+        "bytes": 16,
+        "sha256": "9fe98d7e711441561123c9f25e2bd027dfa37902234599fb1fd22950045fa0ea",
+        "limits": {}
+    },
+    "d53b31093c2e673a": {
+        "origin": "WordsTest.php:276",
+        "bytes": 2009,
+        "sha256": "2d27201c7c9ecf90e873c4193e48d53f248f67fc131811944a4199d796dcdc4b",
+        "limits": {}
+    },
+    "d5bcb60af2494894": {
+        "origin": "StandardFontsTest.php:155",
+        "bytes": 610,
+        "sha256": "4af7855bedd95af021265e56ef1165197a5c45c900aff5499c5d937bb10cd86a",
+        "limits": {}
+    },
+    "d5f1bcfd994e97e6": {
+        "origin": "TintFunctionTest.php:15",
+        "bytes": 731,
+        "sha256": "9027a447959301d89e0831c3f53b00354f5cf1e1459c5bd9bde213ef1a8f19d3",
+        "limits": {}
+    },
+    "d61635614da3e7bc": {
+        "origin": "JpegRenderTest.php:35",
+        "bytes": 1114,
+        "sha256": "27741a3d390746d578b8d170e87707da4f4ae739a989708ecd9626afe6cccf86",
+        "limits": {}
+    },
+    "d6ff96dd44dd6f46": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1303,
+        "sha256": "6d1b9d292a9be5ca0a26e683567fa591ee25b187dd4f5ec6825f0409c6e17107",
+        "limits": {}
+    },
+    "d74eb19e34c24bf1": {
+        "origin": "Pest.php:72",
+        "bytes": 7997,
+        "sha256": "8d75b6a1f8a47871beb5ec1b2efa0c1431fdb827a6c0f189949298d1c47c991d",
+        "limits": {}
+    },
+    "d74f513afa9e2468": {
+        "origin": "ClipAlphaTest.php:97",
+        "bytes": 913,
+        "sha256": "87758ecee5dc99977f9f392b70ba8325bf4fa3cb9ff672b85a2ee968c4c0573b",
+        "limits": {}
+    },
+    "d7b8ac926f00fcad": {
+        "origin": "ExportTest.php:52",
+        "bytes": 1131,
+        "sha256": "7a2da3ca5889090cb6f0d1e06fb1932ef70c5343efe4725fb44a62fb76d0b0c1",
+        "limits": {}
+    },
+    "d7b984cc6178b7dd": {
+        "origin": "TextExtractionTest.php:102",
+        "bytes": 694,
+        "sha256": "baf6897a0fa76f6f33eaadc57ad1f3162841d00eb23fb98ef15c6cab868ff00a",
+        "limits": {}
+    },
+    "d86d1f889afc58a1": {
+        "origin": "Pest.php:72",
+        "bytes": 2071,
+        "sha256": "e13e0033f1a313350b1dab4173545d71acc4016d8eaa1779f628c3b4d6dfbeec",
+        "limits": {}
+    },
+    "d875b65a09e4d22a": {
+        "origin": "ClipAlphaTest.php:56",
+        "bytes": 754,
+        "sha256": "3a956ae32bf18f069a1eeb65fcf1486696e6969d80f8ce5c15362e6e1690b1c4",
+        "limits": {}
+    },
+    "d97338d62a9707b4": {
+        "origin": "WordsTest.php:132",
+        "bytes": 2037,
+        "sha256": "ed0d36a72a2d98570935a5865c57c5b394fb5ceadd4ef41222c8a817f83f0246",
+        "limits": {}
+    },
+    "d982bf56fbe829ff": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1602,
+        "sha256": "57f9988f2f19f10493bc4b2d8a46739197a54ed81ef818835c29d2600a7c0e67",
+        "limits": {}
+    },
+    "d9c52b2923c86fb7": {
+        "origin": "Pest.php:72",
+        "bytes": 2172,
+        "sha256": "bc0854220f5dd9fb0b71c20d07f9e4f28bd2facf0c52bd88d0a56505a407795c",
+        "limits": {}
+    },
+    "da175eb226f7b331": {
+        "origin": "Pest.php:72",
+        "bytes": 1962,
+        "sha256": "8617f1a11de4862ec015df95dce35fc405d9149ce4ce4695a83a5a59df4824ac",
+        "limits": {}
+    },
+    "da566aff22ed22ee": {
+        "origin": "HostileInputTest.php:127",
+        "bytes": 200588,
+        "sha256": "24c7304c7cd8a6b62c714b3a34a006f1984ddbed39c0552acfc947c9c6c18c80",
+        "limits": {
+            "maxOperators": 10000
+        }
+    },
+    "da89ff2183d14874": {
+        "origin": "Pest.php:72",
+        "bytes": 2080,
+        "sha256": "7aadd290996b7b76150d0abab005b7e3af339497d5893255c6b26aeb91a55b9d",
+        "limits": {}
+    },
+    "dadf6602d494d165": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 831,
+        "sha256": "0d040324851cfdfdfafaa9dfba1772a55b863a2c919295335e4454ccf513b899",
+        "limits": {}
+    },
+    "daf3be03a95512fb": {
+        "origin": "WordsTest.php:351",
+        "bytes": 964,
+        "sha256": "8af21739184c5314ffd0759020b71edd1b5605e06fb70051c56e33ebe540de3c",
+        "limits": {}
+    },
+    "db4e26eefc95df40": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1595,
+        "sha256": "773ea7cc014d2440b91939648d63aea67e6015f2f6c3ddface41467b60bccbfa",
+        "limits": {}
+    },
+    "db5acee4fc9a72a0": {
+        "origin": "Pest.php:72",
+        "bytes": 3708,
+        "sha256": "c690bba30c864bf289882ad20a89dcadb43c32668e5316f14c0eeb1d0072905f",
+        "limits": {}
+    },
+    "dbd630201e0ae809": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "e6f5be05d543453a64d861ba87b569ba3f466607c32d9d646068a4042c95dc95",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999773,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "dbe7d9681f2f9943": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1718,
+        "sha256": "bdf4f3784c06b962bb005f6ef605fac53e1fafea82977f1f12adfe5a82e20e95",
+        "limits": {}
+    },
+    "dc053cee436d4517": {
+        "origin": "EncryptionTest.php:208",
+        "bytes": 1569,
+        "sha256": "551bffb33a16921537314507a54887fb5d53cce361bdd0b1885dc4f65b64c83d",
+        "limits": {}
+    },
+    "dc0daadfa08c670d": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "f8599444af7282664d10f8c2a6523a76ddb1330b77cbace3db6ce8d96c9dbb5b",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "dc34e3ce45ab8ebc": {
+        "origin": "ClipAlphaTest.php:135",
+        "bytes": 717,
+        "sha256": "682b59ad2f75c2f549848df76cffef5e7083cef3a14adaa7c2f3c888c7e5cb23",
+        "limits": {}
+    },
+    "dc3c7492490bb5cb": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1721,
+        "sha256": "a7f2d48c43aabfdd3f700ad255638d11f962641ca2a0172879fd13bb7aca6086",
+        "limits": {}
+    },
+    "dc4f451a00673a21": {
+        "origin": "HostileInputTest.php:211",
+        "bytes": 20776,
+        "sha256": "9db9d85d34a683a3162d8db1e0a59de4b30fc7a35622eca18943090bc8b8a58e",
+        "limits": {}
+    },
+    "dc5caa932c8717d4": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1594,
+        "sha256": "b7622c4f148b88cedf1f9bbef73779be861b18faed5471aafa4de36af419680f",
+        "limits": {}
+    },
+    "dc9552dde685004a": {
+        "origin": "ImageRenderTest.php:52",
+        "bytes": 795,
+        "sha256": "374d3d9051e031e8148c016157a6e02de2dc309a5c09fcc8ae9b10d6299ef7f3",
+        "limits": {}
+    },
+    "dd234d946dac3b50": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1592,
+        "sha256": "d5db28346ef70fbbc2050f9bac0baa2358a0bdf8511f1d523bbeddc9df84b17a",
+        "limits": {}
+    },
+    "ddc1b7e9a04b006c": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "11ba647c02c62fd22eb1c487b40630dc1658da8564cfac99a78ebed4450df1eb",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "deceb1cc55205884": {
+        "origin": "BlockBandsTest.php:320",
+        "bytes": 1966,
+        "sha256": "94eed0772e7414821aadd9bd4011f5ea535e3010f124ee07dde27be11f80de52",
+        "limits": {}
+    },
+    "dee76a9374bbec1c": {
+        "origin": "AgentReadGuardTest.php:213",
+        "bytes": 721,
+        "sha256": "d49b766f2a5277ab9e6d88fb0078ea5cb6e02790a434480620e9b360b2cda92a",
+        "limits": {}
+    },
+    "def8b2127c760ddb": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1320,
+        "sha256": "4101f7cb0cb526af2d59c51a54a5b2a21682d7ec1448c48b7585956cc87438d4",
+        "limits": {}
+    },
+    "df2df442d0782c30": {
+        "origin": "Pest.php:72",
+        "bytes": 2984,
+        "sha256": "54336bc8d28ca35fbba41a131c1352dd069996f7d2afd7e8f629292998211845",
+        "limits": {}
+    },
+    "df7653abb7a8e917": {
+        "origin": "PageDecorationTest.php:57",
+        "bytes": 2016,
+        "sha256": "e876175f03f61f2b7153999dc55a96647d858c8f675097666e869eaf3276931a",
+        "limits": {}
+    },
+    "dfc24efe467cceeb": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "e80a7afa30faa1eca2450868767673e112fa906057db286139812e9f35983db0",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "e00015a3e9bfd2be": {
+        "origin": "TextHostileTest.php:21",
+        "bytes": 1492,
+        "sha256": "a9b5f30214521a83c1636a0d4ed8fe2b8e45340b7f428a71b424fcdbe6f0782e",
+        "limits": {
+            "renderTimeSeconds": 5.0
+        }
+    },
+    "e0a98f9b8e4eff18": {
+        "origin": "Pest.php:85",
+        "bytes": 1963,
+        "sha256": "b3cdaf48eeaeb39c7d1f25abd912dac21b00c5e42d82bfe52167a1bfddb7c89a",
+        "limits": {}
+    },
+    "e0c60a3d3264b4a6": {
+        "origin": "ClipAlphaTest.php:135",
+        "bytes": 717,
+        "sha256": "d67de2a72cb18fc2daf95819089f1bdb8371051e05d816596a2d28787b70fb04",
+        "limits": {}
+    },
+    "e0cd92acb2b61dcd": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1438,
+        "sha256": "fafaaee551bcb966f9b3d7a35835a739708b1e7e73dd26f702910938b600c31b",
+        "limits": {}
+    },
+    "e0ed9f74c4946834": {
+        "origin": "Pest.php:85",
+        "bytes": 1985,
+        "sha256": "f9047e650689ee97b75f706be01541f364b27307156bada3d7e732b37d9bf2f9",
+        "limits": {}
+    },
+    "e0fd4db04d551692": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1603,
+        "sha256": "255f3e8d8d5ad18915285cb25536bfda3153f721ab2fb756116d54109e26ab18",
+        "limits": {}
+    },
+    "e1166516871ce4b2": {
+        "origin": "Pest.php:85",
+        "bytes": 2126,
+        "sha256": "5f677cf808e859ed3004ebae7ca427589da97a5118900c3a483fb9b8b50aa3a4",
+        "limits": {}
+    },
+    "e12c78821e92b191": {
+        "origin": "Pest.php:72",
+        "bytes": 1968,
+        "sha256": "98c08158c030202fd6af646d035e5ae7831f1f7d41d9779beb777b12ba822d8a",
+        "limits": {}
+    },
+    "e1449db10d1ca276": {
+        "origin": "EncryptionTest.php:134",
+        "bytes": 1220,
+        "sha256": "a0bb415b8769c1cdc002805826aad82a61a2f22c88cc29fd92c50aaa1544b0cc",
+        "limits": {}
+    },
+    "e153511aa0980248": {
+        "origin": "ExportTest.php:69",
+        "bytes": 848,
+        "sha256": "fd23152a86b3b26b18375ecec0581d1e3e7221b323b9abbd42a527ab496df102",
+        "limits": {}
+    },
+    "e20de467d6309894": {
+        "origin": "EncryptionTest.php:100",
+        "bytes": 1320,
+        "sha256": "845f370992e7cbd90331a71b01a999de4a31e61ad09e242f4c8896776d452d07",
+        "limits": {}
+    },
+    "e28703dc4bd0d8ea": {
+        "origin": "WatermarkTest.php:13",
+        "bytes": 580,
+        "sha256": "75e38b9d6174960c2dd10da04eac29c6dad8192a08b42e9890cef4081d66d370",
+        "limits": {}
+    },
+    "e2a2687af976dc40": {
+        "origin": "EncryptionTest.php:69",
+        "bytes": 1818,
+        "sha256": "9efa4714aabc0a415453f264949fb732c03653bf928776ff91188032610da68e",
+        "limits": {}
+    },
+    "e2bdc2d0b9826274": {
+        "origin": "AgentReadGuardTest.php:250",
+        "bytes": 689,
+        "sha256": "bb8b0c1a7d76ff414a0b795a97e2b445c986e20f6fc8a402c761336026a32cda",
+        "limits": {}
+    },
+    "e2e8848364067464": {
+        "origin": "EncryptionTest.php:201",
+        "bytes": 1277,
+        "sha256": "89e307283df7b1af8cd47c2e2fa4a5d00f76a1f53440875870d7f93bf7c7db38",
+        "limits": {}
+    },
+    "e3cd94286229a714": {
+        "origin": "TransparencyTest.php:174",
+        "bytes": 923,
+        "sha256": "b07022dc16393f26f7ce89d10a6825633e060a35a2f9fdf1f140e3076b5a188b",
+        "limits": {}
+    },
+    "e4772b7a27aa64bd": {
+        "origin": "PageDecorationTest.php:144",
+        "bytes": 1935,
+        "sha256": "b29ec1b4728f8a2164ee3afdecfa756e4ee137030f5f43473b4db17352ca2b13",
+        "limits": {}
+    },
+    "e49fa6228546e830": {
+        "origin": "EncryptionTest.php:144",
+        "bytes": 1743,
+        "sha256": "3f23f3fb4d04dfc021d72fad0a5057b87e61264a773f124a316a24aec46ffe6d",
+        "limits": {}
+    },
+    "e4bac889a19724ae": {
+        "origin": "AgentWriterTest.php:137",
+        "bytes": 2005,
+        "sha256": "1f75007b781c59e6311f4fbeb0fad8c216bc2367451592630462e26fd08e0f99",
+        "limits": {}
+    },
+    "e5355beb99ee56de": {
+        "origin": "RendererTest.php:19",
+        "bytes": 605,
+        "sha256": "83edc3d0440132f22fa53ee8e5427cfd6213c57720550c765dc64cd62cee0843",
+        "limits": {}
+    },
+    "e55202d922e2f9ad": {
+        "origin": "Pest.php:72",
+        "bytes": 4245,
+        "sha256": "bc41a18db9a29f681486c07887c61d9dee818a866776466818a1e5c7c0bf6fcb",
+        "limits": {}
+    },
+    "e5bc38ab81f07bd8": {
+        "origin": "ClipAlphaTest.php:106",
+        "bytes": 829,
+        "sha256": "e69cd80c373da79afd876b905adcab1e7cf56a69d5acebd32166ad27ba671b7d",
+        "limits": {}
+    },
+    "e6e9080da6d56863": {
+        "origin": "TransparencyTest.php:118",
+        "bytes": 834,
+        "sha256": "45452c5eed11174643a3fdef4d0abf04f9450fb0570512ceb292acce37411c46",
+        "limits": {
+            "maxRenderPixels": 10000
+        }
+    },
+    "e758004e41e896e2": {
+        "origin": "TransparencyTest.php:45",
+        "bytes": 932,
+        "sha256": "fe2ea397c644cba5131d768b286dc94ed2c2c1a005de2a69b131b2a8d535ca0d",
+        "limits": {}
+    },
+    "e779060ead525e0b": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1736,
+        "sha256": "267fc0536075ab78b779fe02e7773610be61b205030b3425fb5e96edab2ae85f",
+        "limits": {}
+    },
+    "e7c6821ad66bec2c": {
+        "origin": "DocumentTest.php:63",
+        "bytes": 656,
+        "sha256": "954ef159f561b4d173fd89942fe1567b0e675d03581b8fccf02272f2393e3319",
+        "limits": {}
+    },
+    "e7c6eabff62bcc4b": {
+        "origin": "TransparencyTest.php:129",
+        "bytes": 924,
+        "sha256": "9d75d8b42893115cb5a7e76f8d8e09a98a8661c0e9692a6e034dce905de4097d",
+        "limits": {}
+    },
+    "e89a5256226c8499": {
+        "origin": "RenderHostileTest.php:122",
+        "bytes": 340588,
+        "sha256": "3f9ffa078dafc1717fe3f1010b9a6bfddf7fd91eaaddee9a12a7c1c8a7a49309",
+        "limits": {
+            "renderTimeSeconds": 0.5
+        }
+    },
+    "e9804e29c42684ab": {
+        "origin": "InlineImageRenderTest.php:19",
+        "bytes": 635,
+        "sha256": "dc2f52dd1f003e24c8a6a1241a85766c54d24c7be9da3439b5aaaa7503b1b683",
+        "limits": {}
+    },
+    "e9c3ae9e1f3e6287": {
+        "origin": "JpegRenderTest.php:50",
+        "bytes": 1165,
+        "sha256": "0675612501269bfbb5d9452bea50ddb71fff9a4ad1765e690221d28b3e04a4fc",
+        "limits": {}
+    },
+    "e9d5a1b4eee4c0f0": {
+        "origin": "HostileInputTest.php:120",
+        "bytes": 297,
+        "sha256": "dc8e192bfa65b239c0d32f7fa04658961b8bc81a4e3ed51d8509f6855d8b82f2",
+        "limits": {}
+    },
+    "e9e6798facb90701": {
+        "origin": "RendererTest.php:19",
+        "bytes": 610,
+        "sha256": "2942ce0aea4d4d7e8ee5c88fd41cb08ffeab16e3bcd6177724a5434c8f1dff1a",
+        "limits": {}
+    },
+    "ea0907963077242c": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1422,
+        "sha256": "4dbc08efa057d1d65f2d56b591015faea99429bc825b5b0e87ad2feef5cd27e1",
+        "limits": {}
+    },
+    "eae473d563801280": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "ad8c7c8e5193e0066cceaa5c2539d2ce36f80bdff87eda162387a3934657cb82",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "eaf3a490c9160c18": {
+        "origin": "Pest.php:72",
+        "bytes": 2008,
+        "sha256": "8ba61e49eb11bdb2d0acd205a37d9a214403904bb7712a8c84aa5572cefe482a",
+        "limits": {}
+    },
+    "eaf9078f717942f6": {
+        "origin": "RendererTest.php:19",
+        "bytes": 620,
+        "sha256": "6aaf53ce1c65b75ace83b47e83fbc09b0efae4690b2152474d07b36d640d0326",
+        "limits": {}
+    },
+    "eb199173dee463b3": {
+        "origin": "HostileInputTest.php:360",
+        "bytes": 624,
+        "sha256": "d34321b6dac915d8816793b774ec73d0a970a224a1c87ba07b2aae3db721ab17",
+        "limits": {}
+    },
+    "eb1d5131e9309301": {
+        "origin": "Pest.php:72",
+        "bytes": 2007,
+        "sha256": "ce76912c7914b2aead4af640c78588442299374ea2a149cc1b83b1840ca78f2c",
+        "limits": {}
+    },
+    "eb26268b97c07bb0": {
+        "origin": "Pest.php:72",
+        "bytes": 2272,
+        "sha256": "cd1dfb92fdc08e18a183526542c54ce101132153866bba5c2d374e7b4bb58616",
+        "limits": {}
+    },
+    "eb739ad22ecc6a4e": {
+        "origin": "EncryptionTest.php:69",
+        "bytes": 1427,
+        "sha256": "37d450f93d4366b9b00d1b5aea2f510392131c267afa0670be6cdcf4e835d8ac",
+        "limits": {}
+    },
+    "eb7e3a89ca4917f1": {
+        "origin": "HostileInputTest.php:288",
+        "bytes": 13,
+        "sha256": "500c06fefc2dde65d1a6665aac8edb0dfad58b699be6e359dcbe93330c602fdd",
+        "limits": {}
+    },
+    "ebc518416f56fea0": {
+        "origin": "Pest.php:72",
+        "bytes": 2522,
+        "sha256": "baaa22939b4864ae1e23e6d9fe6cd1cfd379d4db3143dc7a7f14c6695a235539",
+        "limits": {}
+    },
+    "ec064ab6c4f72d34": {
+        "origin": "RendererTest.php:19",
+        "bytes": 651,
+        "sha256": "1024855bd11e375ed0f035ff20ba21fe7e3ea2791ad279f8d37a7a21fcb9b3bf",
+        "limits": {}
+    },
+    "ec0ca25bc906af40": {
+        "origin": "EncryptionTest.php:134",
+        "bytes": 1498,
+        "sha256": "28dad29e230c101b0d896467412355581c5d6c20b4fe39b7c0e25d370d36e60a",
+        "limits": {}
+    },
+    "ec36a0a2edb8bf23": {
+        "origin": "ImageEmbedTest.php:22",
+        "bytes": 3718,
+        "sha256": "946ca28f41e03b4613958cc79dca66437c1056a98b5d32caf48cb12d21d20134",
+        "limits": {}
+    },
+    "ecd11f3fd33da9c2": {
+        "origin": "Export.php:145",
+        "bytes": 1972,
+        "sha256": "56635d6c9d63da2562df21d82aebd46d79d884609907f351d403dd92cfedf574",
+        "limits": {}
+    },
+    "ed3233e14464729b": {
+        "origin": "Pest.php:72",
+        "bytes": 2823,
+        "sha256": "776effa4db2ed615f0aa474836f918d79f4bb8418333f6d857ff9af1f94eefbe",
+        "limits": {}
+    },
+    "ed32abb0a99add41": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1597,
+        "sha256": "d5606684868972bd98e205387cd14baf94a5842dce541b98229e116c7d1f2d40",
+        "limits": {}
+    },
+    "ed7ece47a7b34eb7": {
+        "origin": "RendererTest.php:19",
+        "bytes": 921,
+        "sha256": "d9aafbdb23d95fb5318e8e176f0122958f01ce64dc9001afc0706c5ef965d081",
+        "limits": {}
+    },
+    "ed870c9901bfca2a": {
+        "origin": "Pest.php:85",
+        "bytes": 1983,
+        "sha256": "c57023f2693fa19c2242b289b0d4122c97cef44cb1700d8834bc83b378467293",
+        "limits": {}
+    },
+    "ed8c210ee054a501": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1597,
+        "sha256": "203ea9433e9a5c15c42a464ec253764980b01fb53096f04472a2ab418070eae0",
+        "limits": {}
+    },
+    "eded881b9e4094b4": {
+        "origin": "Pest.php:72",
+        "bytes": 1979,
+        "sha256": "85f02bd3ee524b9272710f1001b1eae11d27425ee282a9f019a81cd47dd76f1b",
+        "limits": {}
+    },
+    "ee4167902ac20007": {
+        "origin": "Pest.php:72",
+        "bytes": 2781,
+        "sha256": "622426487edbcd62dc71de83d3df45e277fe770b099396ae475877edb7d234f5",
+        "limits": {}
+    },
+    "ee73b741c983e24d": {
+        "origin": "ClipAlphaTest.php:43",
+        "bytes": 771,
+        "sha256": "29bc43545660c9234fbd8d2fec32f82af50de93756dad48dc109df103481001c",
+        "limits": {}
+    },
+    "eed5e73e137c58d4": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 2962,
+        "sha256": "eeb31d82603d982a9d5bde0a4df91454dde244f6304d85ce121f5f99bc283759",
+        "limits": {}
+    },
+    "f0321a3443294fbc": {
+        "origin": "Pest.php:85",
+        "bytes": 2166,
+        "sha256": "3579d602bb834e93c3d3063ee7f669ee7d47e2668e58722e51c1324d22a69f82",
+        "limits": {}
+    },
+    "f0791e494e730459": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 813,
+        "sha256": "6bd0312ece01d0c89893b82c91a448b27470109f9904f4131b02e7995ca0a315",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9973503,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "f08b336306f0ce5c": {
+        "origin": "Pest.php:72",
+        "bytes": 2665,
+        "sha256": "f009aa18d942f6bab78d8bfa9cef4c2d39fec7cdf8faa6b840dc63cd0b45a173",
+        "limits": {}
+    },
+    "f0ad6631c9d39bc2": {
+        "origin": "WordsTest.php:257",
+        "bytes": 2021,
+        "sha256": "1d7212134574b088af00b79a1f1f2344b0aed09d2cf492086f3000cfc5ec7ab5",
+        "limits": {}
+    },
+    "f152a3031f9e8b33": {
+        "origin": "RendererTest.php:19",
+        "bytes": 590,
+        "sha256": "3eb2494eb5dfa1c97d609685338e02b7b3e305fcc1e08f97afafef08eff9adf8",
+        "limits": {}
+    },
+    "f15f324f104818b9": {
+        "origin": "Pest.php:85",
+        "bytes": 2259,
+        "sha256": "463e51967f05be2dad2a9307c7289ae4f1c68a77e279cd09fde6b86b7313b34d",
+        "limits": {}
+    },
+    "f160a739d12ca229": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "73b2d04dc258410bcb09ae1f1f7f507650a72f9903ea80b91ca3a24c2ef02642",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "f1da4791c0985e9a": {
+        "origin": "WordsTest.php:251",
+        "bytes": 2020,
+        "sha256": "43e9d74c7dcebbd3025c7504a8fb17235a083cb8285c5a3bd14f0ea35d0bbc35",
+        "limits": {}
+    },
+    "f23fad09548cb3d6": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 24,
+        "sha256": "4bdbf83c2ef67d32a60a2f23d9d5a25ce7d4dad4bad7cf77b9f63151729746c2",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999817,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "f26140f599adc12f": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1591,
+        "sha256": "102fc06c32e7c5c2b88bfd8f24243f3d3fa28345320e5e286556442ffd44d7dc",
+        "limits": {}
+    },
+    "f2d7ea24d1b10f2d": {
+        "origin": "ActiveContentTest.php:42",
+        "bytes": 677,
+        "sha256": "73ae40a52091733820dab71446902ffe65614d4cf5c80c66211f9c007f4576e2",
+        "limits": {}
+    },
+    "f2dc2485d21ee8bb": {
+        "origin": "PageDecorationTest.php:144",
+        "bytes": 1974,
+        "sha256": "53fc59505c546f38c5e6200c4828c813d3cc2971ccefa1d9a5e58683989e7b4d",
+        "limits": {}
+    },
+    "f317ce83bdcc628e": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1619,
+        "sha256": "047a8e238ea2d82eaeb7b6c1a54e919a4d0bf85c1894953e28a3a7661b735618",
+        "limits": {}
+    },
+    "f3f05127dc8772c4": {
+        "origin": "EncryptionTest.php:117",
+        "bytes": 1320,
+        "sha256": "2bb5eaf0b63ec744ea6d87e3d60350a8847e2cd25c2bccd5bf02edca1f918569",
+        "limits": {}
+    },
+    "f41a088462e540e9": {
+        "origin": "MixedPagesTest.php:163",
+        "bytes": 2192,
+        "sha256": "5bd4e81dff6efd497b5bafd670212013d28bad6705acf3d9f02dc82fda2ef771",
+        "limits": {}
+    },
+    "f54298aed8366864": {
+        "origin": "TransparencyTest.php:99",
+        "bytes": 955,
+        "sha256": "9f6517090cc6671d4ed6ea30eee8234c47c94bf19d2efee856ef8043d1a12bc5",
+        "limits": {
+            "maxRenderPixels": 25000
+        }
+    },
+    "f5b28d272fe267ff": {
+        "origin": "PlainPerformanceTest.php:107",
+        "bytes": 786,
+        "sha256": "be387d5ec6be51908727cce85d90a3516aecb0daa78517afcfb089d089e8d4f0",
+        "limits": {}
+    },
+    "f5befa7afd777437": {
+        "origin": "JpegRenderTest.php:105",
+        "bytes": 1179,
+        "sha256": "e6c729f390d6518dad32523bb42ed55596bd4d153e3def40c5b0ce17874b3a54",
+        "limits": {}
+    },
+    "f62a83b1a0d091ef": {
+        "origin": "HostileInputTest.php:211",
+        "bytes": 7912,
+        "sha256": "dc745905e25e62d798e223b1c5d3286866e0329bb082932df73c7a38b482b9f6",
+        "limits": {}
+    },
+    "f642efeebc8eebbf": {
+        "origin": "Pest.php:72",
+        "bytes": 3196,
+        "sha256": "a1610444fa311a122a74c76341a4f9f48c6121b02349909e2447cb1ceb4edfc4",
+        "limits": {}
+    },
+    "f702846b16fbe157": {
+        "origin": "PageDecorationTest.php:30",
+        "bytes": 2288,
+        "sha256": "eddd717c5fcba2c120968e1670b0694dea8ebc48f4cedb3d25ba81ba8b7a58bb",
+        "limits": {}
+    },
+    "f74354c96d26f68b": {
+        "origin": "TransparencyTest.php:123",
+        "bytes": 947,
+        "sha256": "66140dc487a6a58f6b7bcf8b9b4409b894d5ab0a8b1c19b0fa1dad0505b5be61",
+        "limits": {}
+    },
+    "f751d1010469774a": {
+        "origin": "AgentReadGuardTest.php:269",
+        "bytes": 666,
+        "sha256": "324f2741ae9f8c79ec91a6ef4b392f4eef05def55f2c75b114c53edfa2d292bd",
+        "limits": {}
+    },
+    "f753596713ebaa24": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "75e38b9d6174960c2dd10da04eac29c6dad8192a08b42e9890cef4081d66d370",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999814,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "f78149752ae8ef38": {
+        "origin": "Pest.php:72",
+        "bytes": 3518,
+        "sha256": "95aa697a0cf760b48042f7ecc63a8394ffed93d9dc29f9017cd24e9d83a11e01",
+        "limits": {}
+    },
+    "f7da5547781bb77c": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 1438,
+        "sha256": "2b95e317b75efa692ba15465be85f153c8b860d314af6316552133ed8894fce0",
+        "limits": {}
+    },
+    "f840cea485524d8f": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 580,
+        "sha256": "75e38b9d6174960c2dd10da04eac29c6dad8192a08b42e9890cef4081d66d370",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999785,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "f888692e6487e8e7": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1324,
+        "sha256": "3f8e3bd967c850cb8cc412f91bc8e66784908a589d933756698b45c7adfe6e6a",
+        "limits": {}
+    },
+    "f8ad27069a025275": {
+        "origin": "RendererTest.php:19",
+        "bytes": 639,
+        "sha256": "a9ace7dca050e36ee5f906d4b8c811cdad9e055fe4f30954805631370c6ef393",
+        "limits": {}
+    },
+    "f8f3dca7ab44b027": {
+        "origin": "StandardFontsTest.php:155",
+        "bytes": 624,
+        "sha256": "1443d8288087484e0a9f0ff1164db0935c0b1d39ceee43b8c54d4d5d9f86cab5",
+        "limits": {}
+    },
+    "f901dc1f6ddafe84": {
+        "origin": "EncryptionTest.php:180",
+        "bytes": 1513,
+        "sha256": "0b2d4ec966f5f875c3c1c5d2180017d90fe1694b1abae821c9b0550fc0da3e98",
+        "limits": {}
+    },
+    "f9d8b345ac6f2dc7": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1594,
+        "sha256": "85765b38cde029ff1dbc21796193476e2cb3f3a9ad4d347816679f1e9afd7b76",
+        "limits": {}
+    },
+    "f9f7ca4f78a7272d": {
+        "origin": "Pest.php:85",
+        "bytes": 1981,
+        "sha256": "18ba40478c5c142bff19c420d50fc5150e2c6af49e6bda95a534dcdc9263e9db",
+        "limits": {}
+    },
+    "fa4a4ba29748493b": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "c4ec0f6231d81e66713741df07c415677054dd2fb5680db455fa0eac5eb02826",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "fa91c8eb15248990": {
+        "origin": "FootnoteTest.php:192",
+        "bytes": 7684,
+        "sha256": "077783deb3d0c00bde10e67ea6cd845c37ab713be7c0f85c9bcb0780eabdaeec",
+        "limits": {}
+    },
+    "fb1a3f5fc9e6e0cf": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 2368,
+        "sha256": "cc2190cfb409b45be81016a6b512e2843ea324069258a46e631bbc92c29c43ff",
+        "limits": {}
+    },
+    "fb1f4fc29091ae83": {
+        "origin": "TransparencyTest.php:215",
+        "bytes": 667,
+        "sha256": "9a8137e475ac584790fee5721c402e10bbc811f6cb778e72516fa0b5709a1965",
+        "limits": {}
+    },
+    "fb2ab9cedd62d53c": {
+        "origin": "ClipAlphaTest.php:113",
+        "bytes": 792,
+        "sha256": "b9f9b31a64cfe3e8ae620c82cf9b520a749cc4810c7c6b8bee6ce8537f02b9ee",
+        "limits": {}
+    },
+    "fbd95241bd194e01": {
+        "origin": "TransparencyTest.php:108",
+        "bytes": 703,
+        "sha256": "5391722e00593ff6cda56ab490d1162c1d69543d7784fc4694632f0a6b47d4fb",
+        "limits": {}
+    },
+    "fc1aee36eee50beb": {
+        "origin": "BlockBandsTest.php:326",
+        "bytes": 1953,
+        "sha256": "f1ede35ebee263f713358aba700843b6824009926c86c1812bd0571319112a62",
+        "limits": {}
+    },
+    "fc3562e427147af7": {
+        "origin": "Pest.php:72",
+        "bytes": 3089,
+        "sha256": "29b020d50649a40dc27cd19e9642970211e8d07e5e611d09aad20b180236d9c7",
+        "limits": {}
+    },
+    "fc9e71c9cdc51ebc": {
+        "origin": "text-helpers.php:105",
+        "bytes": 1601,
+        "sha256": "42f5854179bc33100f70281c49313c6bf890a4cbfd8e1f70cdd5b77c431ab7d9",
+        "limits": {}
+    },
+    "fd0176b747a7c9ba": {
+        "origin": "PageImagesTest.php:27",
+        "bytes": 599,
+        "sha256": "8d6db106beea153e82b7796fe0159c9ee54ca132dd89443332d6f8902bbb4bea",
+        "limits": {
+            "maxFileBytes": 33554432,
+            "timeSeconds": 2.9999817,
+            "memoryBytes": 268434952,
+            "maxRenderPixels": 8000000,
+            "renderTimeSeconds": 3.0
+        }
+    },
+    "fd5957a09cb9cbc3": {
+        "origin": "WordsTest.php:366",
+        "bytes": 2129,
+        "sha256": "788b4df0dff2b03311aa69b1ee20ae55b188eb3e58cbf473ca6c8d2f9c74830c",
+        "limits": {}
+    },
+    "fd88d5d3bbf5f32b": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "f7f56dfcdd574737225257053e8033872e6ef5bd30cc9b4aef79b22bb73c774e",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "fdb9ffe9504f557a": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "0f78ef1dc3b582cc1cd201cc320510b20530cb5fed9564a5c864b6beeb6f37d1",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    },
+    "fe9a655d1b036bdc": {
+        "origin": "Pest.php:72",
+        "bytes": 2771,
+        "sha256": "9a4f3a760f77cceb394208a45c322bb5af2d32537d70d0d936080c48d68e2852",
+        "limits": {}
+    },
+    "feed765787cb0d31": {
+        "origin": "GoldenTest.php:114",
+        "bytes": 943,
+        "sha256": "3a7ebc01883ba10a2bda9ca3e6d3627745b9ec1eddc6be071459a32f505095b4",
+        "limits": {}
+    },
+    "fef945f643568c45": {
+        "origin": "EncryptionTest.php:162",
+        "bytes": 1251,
+        "sha256": "fb9e7c3b19e086ab6a32d4edd4ccb8cf52608c8685f9bb944e9169a3563199a5",
+        "limits": {}
+    },
+    "ffb2acb4101cc008": {
+        "origin": "JpegRenderTest.php:134",
+        "bytes": 1115,
+        "sha256": "3423043f7a6b8e36ac9448e65c3e3316bbaddf58a8b4fe79ab426f375d4d55cd",
+        "limits": {
+            "maxImagePixels": 4096
+        }
+    }
+}

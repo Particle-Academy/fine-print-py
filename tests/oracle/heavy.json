@@ -1,0 +1,20 @@
+{
+  "note": "Cases whose six PHP variants took over 3 s in total (measured 2026-11-07, PHP 8.4, Windows). The parity suite compares only read and read-words on these, to keep CI under ten minutes; every other case runs all six variants.",
+  "heavy": {
+    "189eb54361023073": 4.3,
+    "313296413aaec548": 10.1,
+    "44f821d84fb507b9": 32.2,
+    "537ed10462096fad": 4.3,
+    "5549b58e5e19650c": 77.1,
+    "71d440a3591a0e6b": 34.1,
+    "82ad0915edada148": 5.5,
+    "8b039d4074edbe36": 26.0,
+    "9502d2b42b195d44": 9.6,
+    "9805f6ccdbafdfea": 3.3,
+    "b432664c5cb28033": 27.5,
+    "ce0c5a609bf8ee1f": 33.9,
+    "d046e5e5b2f477c4": 5.8,
+    "dc4f451a00673a21": 5.8,
+    "f62a83b1a0d091ef": 5.5
+  }
+}

@@ -107,7 +107,7 @@ jobs:
           python-version: ${{ matrix.python-version }}
 
       # PHP is REQUIRED, not optional. tests/test_parity_php.py is the
-      # cross-runtime writer guarantee and it FAILS when php is absent rather
+      # cross-runtime reader guarantee and it FAILS when php is absent rather
       # than skipping - a skip here is a green build with zero parity coverage,
       # which is exactly how two suites in this org reported success over
       # nothing for months.
@@ -128,7 +128,7 @@ jobs:
         uses: actions/checkout@v7
         with:
           repository: Particle-Academy/fine-print
-          ref: v0.5.0
+          ref: v0.7.0
           path: .php-fine-print
           persist-credentials: false
 

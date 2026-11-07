@@ -7,14 +7,50 @@ policy, backports) live in the envelope's `RULES.md` and are never copied here.
 ## What this is
 
 `fancy-fine-print` (import `fine_print`): the Python port of PHP
-`particle-academy/fine-print`. **It is a port of fine-print 0.5.0**
-(`PHP_REFERENCE` in `src/fine_print/__init__.py`), and parity is a test result, not a claim:
-the `fine-print/*` suites in fancy-conformance are exported from PHP 0.5.0 and
-this package must pass them row for row.
+`particle-academy/fine-print`. **Its reader is a port of fine-print 0.7.0's**
+(`PHP_REFERENCE` in `src/fine_print/__init__.py`), and parity is a test
+result, not a claim: `tests/test_parity_php.py` runs PHP and this port over
+the harvested corpus and requires equal results.
 
-**Status: W0 (foundation).** No PDF code exists yet. The writer comes first
-(phase W), then the reader (R), the renderer (X1 to X4) and page serving (S).
-The plan is the envelope's `.ai/plans/fine-print-ports.md`.
+**Status: 0.1.0, the READER only** (owner, 2026-11-07, council CC-fancy-0010:
+"we need a python fine print, not force them to use php"; the first consumer
+is LiftPoint's Python engine, which replaces pdfplumber's `extract_words`).
+This reverses the plan's writer-first order. The writer (phase W), the
+renderer (X1 to X4) and page serving (S) are still to come; the plan is the
+envelope's `.ai/plans/fine-print-ports.md`. The writer conformance rows below
+(`writer-model`, `writer-bytes`) are not run yet: there is no writer to run.
+
+## The reader (0.1.0)
+
+Module map, each mirroring a PHP class: `parser` (Parser, ITERATIVE),
+`filters` (Filters), `limits` (Limits, Budget), `document` (Document),
+`agent` (Agent's read half), `text/` (Encodings from generated tables, CMap,
+Font, TextExtractor as `extractor`, Layout, Words, TextString), `security/`
+(AgentReadGuard as `guard`, InstructionPatterns, ActiveContentScanner as
+`active`, StandardSecurity as `standard`), `crypto/` (Aes, Rc4), `_php`
+(every PHP behaviour reproduced, each probed against PHP 8.4).
+
+- **Offsets are characters, PHP's are bytes.** Every text in the reader is
+  valid UTF-8 (mbstring-scrubbed), so a byte offset in PHP and a character
+  offset here name the same place, and the reports PHP converts to characters
+  come out equal. Do not mix the two: spans, word ranges and guard ranges are
+  all characters.
+- **Names and keys are Latin-1 `str`**; turn one into report text with
+  `objects.name_text` (UTF-8, scrubbed), as PHP's json output of raw bytes.
+- **`??` is not `or`.** PHP's null-coalescing keeps `''` and `0`; use an
+  explicit `is None` (`extractor._arg`). `min`/`max` are `_php.pmin`/`pmax`
+  (PHP's NAN behaviour), comparisons are `_php.cmp`.
+- **Memory is accounted (D7).** `Budget.hold()`: content as it is joined,
+  cached objects, runs (`RUN_COST`), pieces (`PIECE_COST`), words
+  (`WORD_COST`); `Document.page_text` and friends restore the account on
+  return; `agent.read` keeps it for the whole read, as PHP's growth does.
+  Adding a structure that a file can grow means holding it.
+- **The corpus is harvested, never built here.** `scripts/harvest_php_corpus.php`
+  records every `Document::open` PHP's suite makes. Re-harvest when the PHP
+  reference moves, and update `PHP_REFERENCE`, the CI pin and
+  `tests/oracle/heavy.json` with it.
+- **`scripts/gen_encodings.php` generates `text/_encoding_data.py`.** Never
+  retype a table.
 
 - **Zero runtime dependencies.** The standard library only: `bytes`,
   `bytearray`, `memoryview`, `struct`, `zlib`, `hashlib` (md5 with
