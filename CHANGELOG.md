@@ -10,6 +10,13 @@ promising otherwise until 1.0.
 
 ## [Unreleased]
 
+### Changed
+
+- **Releases need a lab-run certificate.** `publish.yml` gains a read-only
+  `lab-certificate` job that every publishing job needs: a tag is published only
+  when the fancy-labs lab has certified that exact version and commit. Consumers
+  do nothing; this changes how releases are cut, not what the package does.
+
 ## [0.1.0] - 2026-11-07
 
 The first release, and it is **the reader only**: there is no writer and no
